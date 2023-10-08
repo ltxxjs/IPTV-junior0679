@@ -179,14 +179,16 @@ https://cntv.sbs/tv?auth=231005&id=hxws
 
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",云南卫视
 https://cntv.sbs/tv?auth=231005&id=ynws
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南影视频道
 http://221.213.43.82:8888/newlive/live/hls/55/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南都市
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南都市频道
 http://221.213.43.82:8888/newlive/live/hls/53/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南娱乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南娱乐频道
 http://221.213.43.82:8888/newlive/live/hls/54/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南康旅
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南康旅频道
 http://221.213.43.82:8888/newlive/live/hls/57/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南少儿频道
+http://221.213.43.82:8888/newlive/live/hls/56/live.m3u8
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰卫视中文台
 http://r.jdshipin.com/cCCzW
@@ -336,7 +338,7 @@ http://china.733240.com/cqyx.php?id=qsjlHD
 https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="纪实",求索纪录
 http://183.65.9.200:8888/udp/235.254.199.251:7980
-#EXTINF:-1 tvg-id="" tvg-name="求索动物" tvg-logo="" group-title="纪实",求索动物
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="纪实",求索动物
 http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=QSDWHD_7000
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="纪实",求索科学
 http://39.134.32.102:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
