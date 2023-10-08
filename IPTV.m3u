@@ -336,7 +336,7 @@ http://china.733240.com/cqyx.php?id=qsjlHD
 https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="纪实",求索纪录
 http://183.65.9.200:8888/udp/235.254.199.251:7980
-#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="纪实",求索纪录
+#EXTINF:-1 tvg-id="" tvg-name="求索动物" tvg-logo="" group-title="纪实",求索动物
 http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=QSDWHD_7000
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="纪实",求索科学
 http://39.134.32.102:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
