@@ -139,16 +139,14 @@ https://cntv.sbs/tv?auth=2310201855&id=hxws
 
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",云南卫视
 https://cntv.sbs/tv?auth=2310201855&id=ynws
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",云南影视频道
-http://221.213.43.82:8888/newlive/live/hls/55/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",云南都市频道
-http://221.213.43.82:8888/newlive/live/hls/53/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",云南娱乐频道
-http://221.213.43.82:8888/newlive/live/hls/54/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",云南康旅频道
-http://221.213.43.82:8888/newlive/live/hls/57/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",云南少儿频道
-http://221.213.43.82:8888/newlive/live/hls/56/live.m3u8
+#EXTINF:-1 tvg-id="云南影视" tvg-name="云南影视" tvg-logo="https://live.fanmingming.com/tv/云南影视.png" group-title="云南",云南影视频道
+http://mqiptv.com:8014/ch/custom20/mqlive.m3u8
+#EXTINF:-1 tvg-id="云南娱乐" tvg-name="云南娱乐" tvg-logo="https://live.fanmingming.com/tv/云南娱乐.png" group-title="云南",云南娱乐频道
+http://mqiptv.com:8014/ch/custom22/mqlive.m3u8
+#EXTINF:-1 tvg-id="云南都市" tvg-name="云南都市" tvg-logo="https://live.fanmingming.com/tv/云南都市.png" group-title="云南",云南都市频道
+http://mqiptv.com:8014/ch/custom25/mqlive.m3u8
+#EXTINF:-1 tvg-id="云南康旅" tvg-name="云南康旅" tvg-logo="https://live.fanmingming.com/tv/yunnan.png" group-title="云南",云南康旅频道
+http://mqiptv.com:8014/ch/custom23/mqlive.m3u8
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰卫视中文台
 http://r.jdshipin.com/cCCzW
@@ -425,6 +423,16 @@ https://live.goodiptv.club/api/cqyx.php?id=ystqHD
 http://china.733240.com/cqyx.php?id=ystqHD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="备用",CCTV 央视文化精品
 https://live.goodiptv.club/api/cqyx.php?id=yswhHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="备用",云南影视频道
+http://221.213.43.82:8888/newlive/live/hls/55/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="备用",云南都市频道
+http://221.213.43.82:8888/newlive/live/hls/53/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="备用",云南娱乐频道
+http://221.213.43.82:8888/newlive/live/hls/54/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="备用",云南康旅频道
+http://221.213.43.82:8888/newlive/live/hls/57/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="备用",云南少儿频道
+http://221.213.43.82:8888/newlive/live/hls/56/live.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="备用",凤凰卫视中文台
 http://php.17186.eu.org/phtv/fhzw.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="备用",凤凰卫视资讯台
