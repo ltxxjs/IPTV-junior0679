@@ -137,7 +137,7 @@ https://cntv.sbs/tv?auth=2310201855&id=ssws
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",海峡卫视
 https://cntv.sbs/tv?auth=2310201855&id=hxws
 
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",云南卫视
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/yunnan.png" group-title="云南",云南卫视
 https://cntv.sbs/tv?auth=2310201855&id=ynws
 #EXTINF:-1 tvg-id="云南影视" tvg-name="云南影视" tvg-logo="https://live.fanmingming.com/tv/云南影视.png" group-title="云南",云南影视频道
 http://mqiptv.com:8014/ch/custom20/mqlive.m3u8
