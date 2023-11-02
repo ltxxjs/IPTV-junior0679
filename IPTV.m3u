@@ -4,7 +4,7 @@
 http://angtv.cc/jd/gdjx.php?id=cctv4k
 #EXTINF:-1 tvg-id="广东4K超高清" tvg-name="广东4K超高清" tvg-logo="" group-title="超高清",广东4K超高清
 http://angtv.cc/jd/gdjx.php?id=gd4k
-#EXTINF:-1 tvg-id="苏州4K频道" tvg-name="苏州4K频道" tvg-logo="" group-title="超高清",苏州4K频道
+#EXTINF:-1 tvg-id="苏州4K频道" tvg-name="苏州4K频道" tvg-logo="https://epg.112114.xyz/logo/苏州4K.png" group-title="超高清",苏州4K频道
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 tvg-id="足球联赛" tvg-name="足球联赛" tvg-logo="" group-title="超高清",足球联赛
 http://111.40.196.27:443/0000000000001000/3000000010000015686/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000015686
@@ -656,6 +656,7 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="备用",CNN
 https://rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8
 
+#EXTINF:-1,tvg-id="CCTV8K超高清" tvg-name="CCTV8K超高清" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="央视",CCTV8K超高清
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="备用",民视
 #EXTINF:-1 tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="https://live.fanmingming.com/tv/民视综艺台.png" group-title="备用",民视综艺台
 #EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://live.fanmingming.com/tv/民视第一台.png" group-title="备用",民视第一台
