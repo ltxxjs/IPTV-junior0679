@@ -166,7 +166,7 @@ http://mqiptv.com:8014/ch/custom22/mqlive.m3u8
 http://mqiptv.com:8014/ch/custom25/mqlive.m3u8
 #EXTINF:-1 tvg-id="云南康旅" tvg-name="云南康旅" tvg-logo="" group-title="云南",云南康旅频道
 http://mqiptv.com:8014/ch/custom23/mqlive.m3u8
-#EXTINF:-1 tvg-id="媚南国际" tvg-name="媚南国际" tvg-logo="" group-title="云南",媚南国际频道
+#EXTINF:-1 tvg-id="澜湄国际" tvg-name="澜湄国际" tvg-logo="" group-title="云南",澜湄国际频道
 http://mqiptv.com:8014/ch/custom24/mqlive.m3u8
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰卫视中文台
