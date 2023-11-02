@@ -170,6 +170,8 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://r.jdshipin.com/n90gt
 #EXTINF:-1 tvg-id="TVB华丽翡翠台" tvg-name="TVB华丽翡翠台" tvg-logo="" group-title="香港",TVB华丽翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVB明珠台" tvg-name="TVB明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="备用",TVB明珠台
+http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1 tvg-id="TVB星河频道" tvg-name="TVB星河频道" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="香港",TVB星河频道
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVB财经咨询台" tvg-name="TVB财经咨询台" tvg-logo="" group-title="香港",TVB财经咨询台
@@ -642,10 +644,9 @@ https://rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ELTV" tvg-name="ELTV" tvg-logo="https://live.fanmingming.com/tv/ELTV生活英语台.png" group-title="备用",ELTV生活英语
 #EXTINF:-1 tvg-id="幸福空间居家台" vg-name="幸福空间居家台" tvg-logo="https://live.fanmingming.com/tv/幸福空间居家台.png" group-title="备用",幸福空间居家台
 #EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="备用",求索动物
-#EXTINF:-1 tvg-id="TVB明珠台" tvg-name="TVB明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="备用",TVB明珠台
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="备用",东森洋片
 #EXTINF:-1 tvg-id="CNEX" vg-name="CNEX" tvg-logo="https://live.fanmingming.com/tv/视纳华仁纪实.png" group-title="备用",视纳华仁纪实频道
 #EXTINF:-1 tvg-id="Love Nature" vg-name="Love Nature" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="备用",Love Nature
 #EXTINF:-1 tvg-id="HISTORY" vg-name="HISTORY" tvg-logo="https://live.fanmingming.com/tv/History历史频道.png" group-title="备用",History 历史频道
 #EXTINF:-1 tvg-id="CI" vg-name="CI" tvg-logo="https://live.fanmingming.com/tv/CI罪案侦查频道.png" group-title="备用",CI 罪案侦查频道
-#EXTINF:-1 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="财经",北京财经
+#EXTINF:-1 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="备用",北京财经
