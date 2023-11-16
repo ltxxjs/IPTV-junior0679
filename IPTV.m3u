@@ -31,7 +31,7 @@ http://angtv.cc/iptv/gz.php?id=cctv14
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
 http://angtv.cc/iptv/gz.php?id=cctv15
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
-http://abc.pyztwyk.cn:6500/udp/239.255.30.88:8231
+
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://angtv.cc/iptv/gz.php?id=cctv17
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
@@ -47,21 +47,21 @@ http://angtv.cc/iptv/gz.php?id=fyjc
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视",第一剧场
 http://angtv.cc/iptv/gz.php?id=dyjc
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视",女性时尚
-http://yuming.dsmynas.com:8888/udp/239.21.0.73:3632
+
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视",怀旧剧场
-http://yuming.dsmynas.com:8888/udp/239.21.0.75:3640
+
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视",风云音乐
 http://angtv.cc/iptv/gz.php?id=fyyy
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视",央视台球
-http://yuming.dsmynas.com:8888/udp/239.21.0.71:3624
+
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视",风云足球
-http://yuming.dsmynas.com:8888/udp/239.21.0.70:3620
+
 #EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央视",央视文化精品
-http://yuming.dsmynas.com:8888/udp/239.21.0.77:3648
+
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视",高尔夫网球
-http://yuming.dsmynas.com:8888/udp/239.21.0.72:3628
+
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视",兵器科技
-http://yuming.dsmynas.com:8888/udp/239.21.0.80:3660
+
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://cntv.lat/tv/live.php?auth=231110&id=beijingHD
@@ -144,7 +144,7 @@ http://mqiptv.com:8014/ch/custom23/mqlive.m3u8
 http://mqiptv.com:8014/ch/custom24/mqlive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="资讯",东方财经
-http://abc.pyztwyk.cn:6500/udp/239.255.29.43:8231
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="资讯",第一财经
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="资讯",凤凰卫视中文台
@@ -233,11 +233,11 @@ http://lu1.cc/tv/php/gudou.php?id=qsdw
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="纪实",北京纪实科教
 http://cntv.lat/tv/live.php?auth=231110&id=bjayjsSD
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="纪实",上海纪实人文
-http://abc.pyztwyk.cn:6500/udp/239.255.30.176:8231
+
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="纪实",金鹰纪实
-http://abc.pyztwyk.cn:6500/udp/239.255.29.39:8231
+
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="纪实",乐游
-http://abc.pyztwyk.cn:6500/udp/239.255.29.17:8231
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/金砖电视.png" group-title="纪实",金砖电视
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="纪实",Love Nature 4K
@@ -264,7 +264,7 @@ http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="文娱",魅力足球
 http://cntv.lat/tv/live.php?auth=231110&id=mlzqHD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="文娱",广东体育
-http://yuming.dsmynas.com:8888/udp/239.20.0.97:3012
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/辽宁体育.png" group-title="文娱",辽宁体育
 http://angtv.cc/test/lngd.php?id=611
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/深圳体育.png" group-title="文娱",深圳体育健康
@@ -274,7 +274,7 @@ http://cntv.lat/tv/live.php?auth=231110&id=klcdHD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/四海钓鱼.png" group-title="文娱",四海钓鱼
 http://cntv.lat/tv/live.php?auth=231110&id=diaoyu
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="文娱",茶频道
-http://abc.pyztwyk.cn:6500/udp/239.255.29.44:8231
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/channelv.png" group-title="文娱",Channel [V]
 http://j.cxctu.cf:4000/udp/239.93.0.157:2194
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="文娱",K-POP
@@ -529,19 +529,16 @@ CCTV 第一剧场,http://111.20.40.170/PLTV/88888893/224/3221226959/index.m3u8
 云南少儿频道,http://221.213.43.82:8888/newlive/live/hls/56/live.m3u8
 
 # 港澳台
-凤凰卫视中文台,http://abc.pyztwyk.cn:6500/udp/239.255.30.50:8231
 凤凰卫视中文台,http://175.43.106.172:4022/udp/239.61.2.184:9092
 凤凰卫视中文台,http://175.43.106.172:4022/udp/239.61.5.48:1025
 凤凰卫视中文台,http://r.jdshipin.com/cCCzW
 凤凰卫视中文台,http://php.17186.eu.org/phtv/fhzw.m3u8
-凤凰卫视资讯台,http://abc.pyztwyk.cn:6500/udp/239.255.30.70:8231
 凤凰卫视中文台,http://175.43.106.172:4022/udp/239.61.2.183:9086
 凤凰卫视中文台,http://175.43.106.172:4022/udp/239.61.5.47:1025
 凤凰卫视资讯台,http://r.jdshipin.com/0Rp07
 凤凰卫视资讯台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 凤凰卫视资讯台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 凤凰卫视资讯台,http://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰卫视香港台,http://abc.pyztwyk.cn:6500/udp/239.255.30.123:8231
 凤凰卫视香港台,http://r.jdshipin.com/NfC0f
 凤凰卫视香港台,http://php.17186.eu.org/phtv/fhhk.m3u8
 TVB翡翠台,http://r.jdshipin.com/n90gt
@@ -581,96 +578,6 @@ Animal Planet 动物星球,http://198.16.100.90:8278/animalplanet_twn/playlist.m
 # 文娱
 魅力足球,http://cntv.lat/tv/live.php?auth=231110&id=mlzqHD
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-
-# 甘肃电信域名组播 20231116
-凤凰中文,http://abc.pyztwyk.cn:6500/udp/239.255.30.50:8231
-凤凰咨讯,http://abc.pyztwyk.cn:6500/udp/239.255.30.70:8231
-凤凰香港,http://abc.pyztwyk.cn:6500/udp/239.255.30.123:8231
-CCTV-1,http://abc.pyztwyk.cn:6500/udp/239.255.30.101:8231
-CCTV-2,http://abc.pyztwyk.cn:6500/udp/239.255.30.179:8231
-CCTV-3,http://abc.pyztwyk.cn:6500/udp/239.255.29.12:8231
-CCTV-4,http://abc.pyztwyk.cn:6500/udp/239.255.30.83:8231
-CCTV-5,http://abc.pyztwyk.cn:6500/udp/239.255.29.13:8231
-CCTV-5+,http://abc.pyztwyk.cn:6500/udp/239.255.30.184:8231
-CCTV-6,http://abc.pyztwyk.cn:6500/udp/239.255.29.14:8231
-CCTV-7,http://abc.pyztwyk.cn:6500/udp/239.255.30.178:8231
-CCTV-8,http://abc.pyztwyk.cn:6500/udp/239.255.29.15:8231
-CCTV-9,http://abc.pyztwyk.cn:6500/udp/239.255.30.180:8231
-CCTV-10,http://abc.pyztwyk.cn:6500/udp/239.255.30.181:8231
-CCTV-11,http://abc.pyztwyk.cn:6500/udp/239.255.30.62:8231
-CCTV-12,http://abc.pyztwyk.cn:6500/udp/239.255.30.182:8231
-CCTV-13,http://abc.pyztwyk.cn:6500/udp/239.255.29.28:8231
-CCTV-14,http://abc.pyztwyk.cn:6500/udp/239.255.30.183:8231
-CCTV-15,http://abc.pyztwyk.cn:6500/udp/239.255.30.68:8231
-CCTV-16,http://abc.pyztwyk.cn:6500/udp/239.255.30.88:8231
-CCTV-16 4K,http://abc.pyztwyk.cn:6500/udp/239.255.30.80:8231
-CCTV-17,http://abc.pyztwyk.cn:6500/udp/239.255.30.96:8231
-欢笑剧场 4K,http://abc.pyztwyk.cn:6500/udp/239.255.29.7:8231
-电影测试 4K,http://abc.pyztwyk.cn:6500/udp/239.255.30.76:8231
-安歌源码 4K,http://abc.pyztwyk.cn:6500/udp/239.255.30.80:8231
-嘉峪关公共,http://abc.pyztwyk.cn:6500/udp/239.255.29.35:8231
-嘉峪关综合,http://abc.pyztwyk.cn:6500/udp/239.255.29.36:8231
-陇尚生活,http://abc.pyztwyk.cn:6500/udp/239.255.30.73:8231
-金塔综合,http://abc.pyztwyk.cn:6500/udp/239.255.30.224:8231
-甘肃卫视,http://abc.pyztwyk.cn:6500/udp/239.255.30.249:8231
-甘肃影视,http://abc.pyztwyk.cn:6500/udp/239.255.30.250:8231
-甘肃公共,http://abc.pyztwyk.cn:6500/udp/239.255.30.251:8231
-甘肃都市,http://abc.pyztwyk.cn:6500/udp/239.255.30.252:8231
-甘肃经济,http://abc.pyztwyk.cn:6500/udp/239.255.30.253:8231
-甘肃少儿,http://abc.pyztwyk.cn:6500/udp/239.255.30.254:8231
-BesTV热门剧场,http://abc.pyztwyk.cn:6500/udp/239.255.30.100:8231
-BesTV戏剧精选,http://abc.pyztwyk.cn:6500/udp/239.255.30.118:8231
-BesTV青春动漫,http://abc.pyztwyk.cn:6500/udp/239.255.30.150:8231
-BesTV宝宝动画,http://abc.pyztwyk.cn:6500/udp/239.255.30.151:8231
-BesTV谍战剧场,http://abc.pyztwyk.cn:6500/udp/239.255.30.166:8231
-BesTV华语影院,http://abc.pyztwyk.cn:6500/udp/239.255.30.193:8231
-BesTV星光影院,http://abc.pyztwyk.cn:6500/udp/239.255.30.194:8231
-BesTV全球大片,http://abc.pyztwyk.cn:6500/udp/239.255.30.196:8231
-BesTV健康养生,http://abc.pyztwyk.cn:6500/udp/239.255.30.197:8231
-云南卫视,http://abc.pyztwyk.cn:6500/udp/239.255.29.2:8231
-河南卫视,http://abc.pyztwyk.cn:6500/udp/239.255.29.3:8231
-广西卫视,http://abc.pyztwyk.cn:6500/udp/239.255.29.4:8231
-吉林卫视,http://abc.pyztwyk.cn:6500/udp/239.255.29.5:8231
-三沙卫视,http://abc.pyztwyk.cn:6500/udp/239.255.29.46:8231
-天津卫视,http://abc.pyztwyk.cn:6500/udp/239.255.30.67:8231
-辽宁卫视,http://abc.pyztwyk.cn:6500/udp/239.255.30.69:8231
-江西卫视,http://abc.pyztwyk.cn:6500/udp/239.255.30.71:8231
-安徽卫视,http://abc.pyztwyk.cn:6500/udp/239.255.30.84:8231
-河北卫视,http://abc.pyztwyk.cn:6500/udp/239.255.30.85:8231
-东南卫视,http://abc.pyztwyk.cn:6500/udp/239.255.30.86:8231
-重庆卫视,http://abc.pyztwyk.cn:6500/udp/239.255.30.89:8231
-教育卫视,http://abc.pyztwyk.cn:6500/udp/239.255.30.90:8231
-四川卫视,http://abc.pyztwyk.cn:6500/udp/239.255.30.91:8231
-贵州卫视,http://abc.pyztwyk.cn:6500/udp/239.255.30.98:8231
-海南卫视,http://abc.pyztwyk.cn:6500/udp/239.255.30.99:8231
-东方卫视,http://abc.pyztwyk.cn:6500/udp/239.255.30.130:8231
-江苏卫视,http://abc.pyztwyk.cn:6500/udp/239.255.30.131:8231
-浙江卫视,http://abc.pyztwyk.cn:6500/udp/239.255.30.132:8231
-北京卫视,http://abc.pyztwyk.cn:6500/udp/239.255.30.133:8231
-广东卫视,http://abc.pyztwyk.cn:6500/udp/239.255.30.134:8231
-深圳卫视,http://abc.pyztwyk.cn:6500/udp/239.255.30.135:8231
-湖南卫视,http://abc.pyztwyk.cn:6500/udp/239.255.30.136:8231
-黑龙江卫视,http://abc.pyztwyk.cn:6500/udp/239.255.30.137:8231
-湖北卫视,http://abc.pyztwyk.cn:6500/udp/239.255.30.138:8231
-山东卫视,http://abc.pyztwyk.cn:6500/udp/239.255.30.139:8231
-乐游纪实,http://abc.pyztwyk.cn:6500/udp/239.255.29.17:8231
-上海纪实,http://abc.pyztwyk.cn:6500/udp/239.255.30.176:8231
-金鹰纪实,http://abc.pyztwyk.cn:6500/udp/239.255.29.39:8231
-欢笑剧场,http://abc.pyztwyk.cn:6500/udp/239.255.29.19:8231
-都市剧场,http://abc.pyztwyk.cn:6500/udp/239.255.29.41:8231
-魅力足球,http://abc.pyztwyk.cn:6500/udp/239.255.30.147:8231
-上海都市,http://abc.pyztwyk.cn:6500/udp/239.255.29.22:8231
-金色学堂,http://abc.pyztwyk.cn:6500/udp/239.255.29.23:8231
-法治天地,http://abc.pyztwyk.cn:6500/udp/239.255.29.24:8231
-哈哈炫动,http://abc.pyztwyk.cn:6500/udp/239.255.29.37:8231
-北京卡酷,http://abc.pyztwyk.cn:6500/udp/239.255.29.38:8231
-东方购物,http://abc.pyztwyk.cn:6500/udp/239.255.29.42:8231
-东方财经,http://abc.pyztwyk.cn:6500/udp/239.255.29.43:8231
-动漫秀场,http://abc.pyztwyk.cn:6500/udp/239.255.29.16:8231
-生活时尚,http://abc.pyztwyk.cn:6500/udp/239.255.29.18:8231
-游戏风云,http://abc.pyztwyk.cn:6500/udp/239.255.29.20:8231
-快乐垂钓,http://abc.pyztwyk.cn:6500/udp/239.255.29.26:8231
-茶频道台,http://abc.pyztwyk.cn:6500/udp/239.255.29.44:8231
 
 # 贵州电信IPTV 20231107
 CCTV-1,http://angtv.cc/iptv/gz.php?id=cctv1
@@ -755,138 +662,6 @@ CCTV-17,http://angtv.cc/iptv/gz.php?id=cctv17
 黔南-2,http://angtv.cc/iptv/gz.php?id=qntv2
 铜仁-1,http://angtv.cc/iptv/gz.php?id=trtv1
 铜仁-2,http://angtv.cc/iptv/gz.php?id=trtv2
-
-# 广东移动域名组播（中兴平台）20231030
-CCTV-1FHD,http://yuming.dsmynas.com:8888/udp/239.20.0.96:3016
-CCTV-1,http://yuming.dsmynas.com:8888/udp/239.20.0.104:2006
-CCTV-2,http://yuming.dsmynas.com:8888/udp/239.20.0.197:2192
-CCTV-3,http://yuming.dsmynas.com:8888/udp/239.20.0.28:3292
-CCTV-4,http://yuming.dsmynas.com:8888/udp/239.20.0.16:3340
-CCTV-5,http://yuming.dsmynas.com:8888/udp/239.20.0.30:3284
-CCTV-5+,http://yuming.dsmynas.com:8888/udp/239.20.0.203:2204
-CCTV-6,http://yuming.dsmynas.com:8888/udp/239.20.0.29:3288
-CCTV-7,http://yuming.dsmynas.com:8888/udp/239.20.0.198:2194
-CCTV-8,http://yuming.dsmynas.com:8888/udp/239.20.0.31:3280
-CCTV-9,http://yuming.dsmynas.com:8888/udp/239.20.0.199:2196
-CCTV-10,http://yuming.dsmynas.com:8888/udp/239.20.0.200:2198
-CCTV-11,http://yuming.dsmynas.com:8888/udp/239.21.0.35:3480
-CCTV-12,http://yuming.dsmynas.com:8888/udp/239.20.0.201:2200
-CCTV-13,http://yuming.dsmynas.com:8888/udp/239.21.0.88:3692
-CCTV-14,http://yuming.dsmynas.com:8888/udp/239.20.0.202:2202
-CCTV-15,http://yuming.dsmynas.com:8888/udp/239.21.0.36:3484
-CCTV-17,http://yuming.dsmynas.com:8888/udp/239.20.0.7:3376
-电影测试4K,http://yuming.dsmynas.com:8888/udp/239.21.0.129:3860
-南国都市4K,http://yuming.dsmynas.com:8888/udp/239.21.0.132:3872
-广东综艺4K,http://yuming.dsmynas.com:8888/udp/239.20.0.59:3164
-广东综艺4K,http://yuming.dsmynas.com:8888/udp/239.20.0.60:3160
-广东综艺4K,http://yuming.dsmynas.com:8888/udp/239.20.0.61:3156
-广东综艺4K,http://yuming.dsmynas.com:8888/udp/239.20.0.62:3152
-CBN每日影院,http://yuming.dsmynas.com:8888/udp/239.21.0.125:3844
-CBN风尚生活,http://yuming.dsmynas.com:8888/udp/239.21.0.126:3848
-CBN幸福剧场,http://yuming.dsmynas.com:8888/udp/239.21.0.127:3852
-CBN幸福娱乐,http://yuming.dsmynas.com:8888/udp/239.21.0.128:3856
-CHC高清电影,http://yuming.dsmynas.com:8888/udp/239.21.0.119:3820
-CCTV-4欧洲,http://yuming.dsmynas.com:8888/udp/239.21.0.107:3768
-CCTV-4美洲,http://yuming.dsmynas.com:8888/udp/239.21.0.108:3772
-CGTN英语,http://yuming.dsmynas.com:8888/udp/239.21.0.109:3776
-CGTN记录,http://yuming.dsmynas.com:8888/udp/239.21.0.110:3780
-CGTN西语,http://yuming.dsmynas.com:8888/udp/239.21.0.111:3800
-CGTN法语,http://yuming.dsmynas.com:8888/udp/239.21.0.112:3788
-CGTN阿语,http://yuming.dsmynas.com:8888/udp/239.21.0.113:3792
-CGTN俄语,http://yuming.dsmynas.com:8888/udp/239.21.0.114:3796
-CCTV-第一剧场,http://yuming.dsmynas.com:8888/udp/239.21.0.69:3616
-CCTV-风云足球,http://yuming.dsmynas.com:8888/udp/239.21.0.70:3620
-CCTV-央视台球,http://yuming.dsmynas.com:8888/udp/239.21.0.71:3624
-CCTV-央视网球,http://yuming.dsmynas.com:8888/udp/239.21.0.72:3628
-CCTV-女性时尚,http://yuming.dsmynas.com:8888/udp/239.21.0.73:3632
-CCTV-世界地理,http://yuming.dsmynas.com:8888/udp/239.21.0.74:3636
-CCTV-怀旧剧场,http://yuming.dsmynas.com:8888/udp/239.21.0.75:3640
-CCTV-风云剧场,http://yuming.dsmynas.com:8888/udp/239.21.0.76:3644
-CCTV-央视精品,http://yuming.dsmynas.com:8888/udp/239.21.0.77:3648
-CCTV-第一剧场,http://yuming.dsmynas.com:8888/udp/239.21.0.78:3652
-CCTV-风云音乐,http://yuming.dsmynas.com:8888/udp/239.21.0.79:3656
-CCTV-兵器科技,http://yuming.dsmynas.com:8888/udp/239.21.0.80:3660
-CCTV-电视指南,http://yuming.dsmynas.com:8888/udp/239.21.0.81:3664
-广东体育FHD,http://yuming.dsmynas.com:8888/udp/239.20.0.97:3012
-广东科教FHD,http://yuming.dsmynas.com:8888/udp/239.20.0.98:3008
-广东卫视FHD,http://yuming.dsmynas.com:8888/udp/239.20.0.99:3004
-广东卫视,http://yuming.dsmynas.com:8888/udp/239.20.0.101:2000
-广东珠江,http://yuming.dsmynas.com:8888/udp/239.20.0.64:3144
-广东珠江FHD,http://yuming.dsmynas.com:8888/udp/239.20.0.63:3148
-大湾区卫视,http://yuming.dsmynas.com:8888/udp/239.21.0.84:3676
-广东影视,http://yuming.dsmynas.com:8888/udp/239.21.0.85:3680
-广东公共,http://yuming.dsmynas.com:8888/udp/239.21.0.86:3684
-广东少儿,http://yuming.dsmynas.com:8888/udp/239.21.0.87:3688
-嘉佳卡通,http://yuming.dsmynas.com:8888/udp/239.21.0.94:3716
-广东新闻,http://yuming.dsmynas.com:8888/udp/239.21.0.93:3712
-广东科教,http://yuming.dsmynas.com:8888/udp/239.20.0.102:2002
-广东体育,http://yuming.dsmynas.com:8888/udp/239.20.0.103:2004
-广东教育,http://yuming.dsmynas.com:8888/udp/239.21.0.148:3936
-广东戏曲,http://yuming.dsmynas.com:8888/udp/239.21.0.147:3932
-惠州综合,http://yuming.dsmynas.com:8888/udp/239.21.0.27:3448
-惠州公共,http://yuming.dsmynas.com:8888/udp/239.21.0.28:3452
-河源综合,http://yuming.dsmynas.com:8888/udp/239.21.0.48:3532
-河源公共,http://yuming.dsmynas.com:8888/udp/239.21.0.49:3536
-汕尾综合,http://yuming.dsmynas.com:8888/udp/239.21.0.89:3696
-汕尾生活,http://yuming.dsmynas.com:8888/udp/239.21.0.90:3700
-揭阳综合,http://yuming.dsmynas.com:8888/udp/239.21.0.91:3704
-揭阳生活,http://yuming.dsmynas.com:8888/udp/239.21.0.92:3708
-汕头综合,http://yuming.dsmynas.com:8888/udp/239.21.0.101:3744
-汕头生活,http://yuming.dsmynas.com:8888/udp/239.21.0.102:3748
-汕头文化,http://yuming.dsmynas.com:8888/udp/239.21.0.103:3752
-东莞综合,http://yuming.dsmynas.com:8888/udp/239.21.0.137:3892
-东莞资讯,http://yuming.dsmynas.com:8888/udp/239.21.0.138:3896
-潮州综合,http://yuming.dsmynas.com:8888/udp/239.21.0.145:3924
-潮州民生,http://yuming.dsmynas.com:8888/udp/239.21.0.146:3928
-梅州综合,http://yuming.dsmynas.com:8888/udp/239.21.0.149:3940
-梅州生活,http://yuming.dsmynas.com:8888/udp/239.21.0.150:3944
-四川卫视FHD,http://yuming.dsmynas.com:8888/udp/239.20.0.82:3072
-金鹰纪实FHD,http://yuming.dsmynas.com:8888/udp/239.20.0.85:3060
-辽宁卫视FHD,http://yuming.dsmynas.com:8888/udp/239.20.0.86:3056
-山东卫视FHD,http://yuming.dsmynas.com:8888/udp/239.20.0.88:3048
-天津卫视FHD,http://yuming.dsmynas.com:8888/udp/239.20.0.89:3044
-湖北卫视FHD,http://yuming.dsmynas.com:8888/udp/239.20.0.90:3040
-黑龙江卫视FHD,http://yuming.dsmynas.com:8888/udp/239.20.0.91:3036
-深圳卫视FHD,http://yuming.dsmynas.com:8888/udp/239.20.0.92:3032
-江苏卫视FHD,http://yuming.dsmynas.com:8888/udp/239.20.0.93:3028
-浙江卫视FHD,http://yuming.dsmynas.com:8888/udp/239.20.0.94:3024
-湖南卫视FHD,http://yuming.dsmynas.com:8888/udp/239.20.0.95:3020
-广西卫视,http://yuming.dsmynas.com:8888/udp/239.20.0.15:3344
-吉林卫视,http://yuming.dsmynas.com:8888/udp/239.20.0.54:3184
-江西卫视,http://yuming.dsmynas.com:8888/udp/239.20.0.55:3180
-河北卫视,http://yuming.dsmynas.com:8888/udp/239.20.0.56:3176
-纪实人文,http://yuming.dsmynas.com:8888/udp/239.20.0.57:3172
-东南卫视,http://yuming.dsmynas.com:8888/udp/239.20.0.58:3168
-河南卫视,http://yuming.dsmynas.com:8888/udp/239.21.0.104:3756
-湖南卫视,http://yuming.dsmynas.com:8888/udp/239.20.0.105:2008
-北京卫视,http://yuming.dsmynas.com:8888/udp/239.20.0.121:2040
-深圳卫视,http://yuming.dsmynas.com:8888/udp/239.20.0.122:2042
-黑龙江卫视,http://yuming.dsmynas.com:8888/udp/239.20.0.123:2044
-湖北卫视,http://yuming.dsmynas.com:8888/udp/239.20.0.124:2046
-浙江卫视,http://yuming.dsmynas.com:8888/udp/239.20.0.169:2136
-江苏卫视,http://yuming.dsmynas.com:8888/udp/239.20.0.170:2138
-天津卫视,http://yuming.dsmynas.com:8888/udp/239.20.0.171:2140
-山东卫视,http://yuming.dsmynas.com:8888/udp/239.20.0.172:2142
-东方卫视,http://yuming.dsmynas.com:8888/udp/239.20.0.173:2144
-辽宁卫视,http://yuming.dsmynas.com:8888/udp/239.20.0.175:2148
-安徽卫视,http://yuming.dsmynas.com:8888/udp/239.20.0.193:2184
-四川卫视,http://yuming.dsmynas.com:8888/udp/239.20.0.194:2186
-重庆卫视,http://yuming.dsmynas.com:8888/udp/239.20.0.195:2188
-贵州卫视,http://yuming.dsmynas.com:8888/udp/239.20.0.212:2222
-CETV-1,http://yuming.dsmynas.com:8888/udp/239.20.0.213:2224
-CETV-4,http://yuming.dsmynas.com:8888/udp/239.21.0.142:3912
-甘肃卫视,http://yuming.dsmynas.com:8888/udp/239.21.0.141:3908
-云南卫视,http://yuming.dsmynas.com:8888/udp/239.21.0.133:3876
-海南卫视,http://yuming.dsmynas.com:8888/udp/239.21.0.134:3880
-三沙卫视,http://yuming.dsmynas.com:8888/udp/239.21.0.143:3916
-青海卫视,http://yuming.dsmynas.com:8888/udp/239.21.0.144:3920
-金鹰纪实,http://yuming.dsmynas.com:8888/udp/239.20.0.196:2190
-求索记录,http://yuming.dsmynas.com:8888/udp/239.21.0.118:3816
-金鹰卡通,http://yuming.dsmynas.com:8888/udp/239.21.0.115:3804
-早期教育,http://yuming.dsmynas.com:8888/udp/239.21.0.106:3764
-中国交通,http://yuming.dsmynas.com:8888/udp/239.20.0.68:3128
-快乐垂钓,http://yuming.dsmynas.com:8888/udp/239.21.0.121:3828
-茶频道台,http://yuming.dsmynas.com:8888/udp/239.21.0.120:3824
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="央视",CCTV8K超高清
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="台湾",中视
