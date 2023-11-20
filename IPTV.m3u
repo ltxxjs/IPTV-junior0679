@@ -116,7 +116,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1400573680_-1979013462/o
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1874077489_789689702/ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8?icpid=3&RTS=1669700475&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视",云南卫视
-http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226660/index.m3u8
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视",三沙卫视
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228626/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视",青海卫视
@@ -231,6 +231,21 @@ http://2016.328326.com:3005/jstv/video?vodId=jsty
 http://2016.328326.com:3005/jstv/video?vodId=jsgj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",江苏·优漫卡通
 http://2016.328326.com:3005/jstv/video?vodId=ymkt
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽·经济生活
+http://28742.vip:8888/udp/238.1.79.44:4464
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽·影视
+http://28742.vip:8888/udp/238.1.79.42:4448
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽·公共
+http://28742.vip:8888/udp/238.1.79.43:4456
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽·综艺体育
+http://28742.vip:8888/udp/238.1.79.41:4440
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽·农业科教
+http://28742.vip:8888/udp/238.1.79.40:4432
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽·人物
+http://28742.vip:8888/udp/238.1.79.45:4472
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",安徽·国际
+http://28742.vip:8888/udp/238.1.78.61:6360
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",湖北·经视
 http://183.94.40.49:9901/tsfile/live/1000_1.m3u8
@@ -570,7 +585,7 @@ http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="体育",五星体育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="体育",劲爆体育
-http://140.249.29.151/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+http://111.13.111.242/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3&HlsProfileId=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="体育",魅力足球
 http://cntv.lat/tv/live.php?auth=231110&id=mlzqHD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="体育",广东体育
