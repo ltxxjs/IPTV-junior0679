@@ -376,7 +376,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="国际",半岛英语
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="国际讯",半岛阿语
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="国际",半岛阿语
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.stream-link.org/tv_logo/abc_news_live.png" group-title="国际",ABC News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
