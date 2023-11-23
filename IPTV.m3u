@@ -10,6 +10,10 @@ http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3589111099_-1793408755/o
 http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3772680253_-1555628407/ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8?icpid=3&RTS=1668594272&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-4欧洲" tvg-logo="https://epg.112114.xyz/logo/CCTV4欧洲.png" group-title="央视",CCTV-4 中文国际 欧洲
+http://123.120.2.13:4022/udp/239.3.1.213:4220
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4美洲" tvg-logo="https://epg.112114.xyz/logo/CCTV4美洲.png" group-title="央视",CCTV-4 中文国际 美洲
+http://123.120.2.13:4022/udp/239.3.1.214:4220
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
@@ -62,6 +66,10 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视",电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN新闻" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN新闻
+http://123.120.2.13:4022/udp/239.3.1.215:4220
+#EXTINF:-1 tvg-id="" tvg-name="CGTN记录" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN记录
+http://123.120.2.13:4022/udp/239.3.1.216:4220
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K 超高清
@@ -145,13 +153,17 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2228825807_1324573507
 # 地方
 
 #EXTINF:-1,tvg-id="" tvg-name="BTV新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="地方",北京·新闻
-http://tv.328326.com/iptv/tvzb97.php?id=bjxw
+http://123.120.2.13:4022/udp/239.3.1.159:8000
 #EXTINF:-1,tvg-id="" tvg-name="BTV财经" tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="地方",北京·财经
-http://tv.328326.com/iptv/tvzb97.php?id=bjcj
+http://123.120.2.13:4022/udp/239.3.1.116:8000
+#EXTINF:-1,tvg-id="" tvg-name="BTV生活" tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="地方",北京·生活
+http://123.120.2.13:4022/udp/239.3.1.117:8000
+#EXTINF:-1,tvg-id="" tvg-name="BTV文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="地方",北京·文艺
+http://123.120.2.13:4022/udp/239.3.1.242:8000
 #EXTINF:-1,tvg-id="" tvg-name="BTV科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方",北京·纪实科教
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw1542052607_1430934483/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1669704438&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="" tvg-name="BTV体育" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="地方",北京·体育休闲
-
+http://123.120.2.13:4022/udp/239.3.1.243:8000
 
 #EXTINF:-1 tvg-id="" tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方",上海·新闻综合
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
@@ -483,6 +495,12 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-205487820
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226504/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育",咪咕精彩足球
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226506/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",睛彩竞技
+http://123.120.2.13:4022/udp/239.3.1.125:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",睛彩篮球
+http://123.120.2.13:4022/udp/239.3.1.126:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",睛彩羽毛球
+http://123.120.2.13:4022/udp/239.3.1.127:8001
 
 # 咪咕
 
@@ -613,6 +631,10 @@ http://60.174.40.117:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 http://60.174.40.117:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="IPv4",CCTV-4 中文国际
 http://60.174.40.117:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-4欧洲" tvg-logo="https://epg.112114.xyz/logo/CCTV4欧洲.png" group-title="IPv4",CCTV-4 中文国际 欧洲
+http://123.120.2.13:4022/udp/239.3.1.213:4220
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4美洲" tvg-logo="https://epg.112114.xyz/logo/CCTV4美洲.png" group-title="IPv4",CCTV-4 中文国际 美洲
+http://123.120.2.13:4022/udp/239.3.1.214:4220
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="IPv4",CCTV-5 体育
 http://60.174.40.117:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="IPv4",CCTV-6 电影
@@ -636,7 +658,7 @@ http://60.174.40.117:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="IPv4",CCTV-15 音乐
 http://60.174.40.117:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="IPv4",CCTV-16 奥林匹克
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
+http://123.120.2.13:4022/udp/239.3.1.184:8001
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="IPv4",CCTV-17 农业农村
 http://cu4.iblink.cn:8000/udp/239.253.93.150:6318
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="IPv4",CCTV-5+ 体育赛事
@@ -665,6 +687,10 @@ http://cu4.iblink.cn:8000/udp/239.253.93.122:6465
 http://cu4.iblink.cn:8000/udp/239.253.93.47:6435
 #EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="IPv4",电视指南
 http://cu4.iblink.cn:8000/udp/239.253.93.249:6427
+#EXTINF:-1 tvg-id="" tvg-name="CGTN新闻" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="IPv4",CGTN新闻
+http://123.120.2.13:4022/udp/239.3.1.215:4220
+#EXTINF:-1 tvg-id="" tvg-name="CGTN记录" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="IPv4",CGTN记录
+http://123.120.2.13:4022/udp/239.3.1.216:4220
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="IPv4",凤凰中文
 http://wot2020.asuscomm.com:20121/bysid/258
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="IPv4",凤凰资讯
@@ -825,7 +851,11 @@ CCTV超高清 8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749
 上海第一财经,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001017/index.m3u8?
 上海东方财经,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001318/index.m3u8?
 上海纪实人文,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1669704189&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+上海纪实人文,http://123.120.2.13:4022/udp/239.3.1.212:8060
 湖南金鹰纪实,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001230/index.m3u8?
+湖南金鹰纪实,http://123.120.2.13:4022/udp/239.3.1.58:8156
+湖南快乐垂钓,http://123.120.2.13:4022/udp/239.3.1.164:8001
+湖南茶频道,http://123.120.2.13:4022/udp/239.3.1.165:8001
 山东体育,http://119.183.206.43:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育,http://60.217.76.197:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 
