@@ -171,6 +171,8 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw1542052607_1430934483/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1669704438&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="北京",BRTV纪实科教8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="北京国际频道" tvg-logo="https://epg.112114.xyz/logo/北京国际.png" group-title="北京",BRTV International
+http://123.120.2.13:4022/udp/239.3.1.235:8000
 #EXTINF:-1,tvg-id="" tvg-name="北京淘剧场" tvg-logo="https://epg.112114.xyz/logo/淘剧场.png" group-title="北京",北京IPTV·淘剧场
 http://123.120.2.13:4022/udp/239.3.1.95:8001
 #EXTINF:-1,tvg-id="" tvg-name="北京淘娱乐" tvg-logo="https://epg.112114.xyz/logo/淘娱乐.png" group-title="北京",北京IPTV·淘娱乐
@@ -179,12 +181,14 @@ http://123.120.2.13:4022/udp/239.3.1.100:8001
 http://123.120.2.13:4022/udp/239.3.1.102:8001
 #EXTINF:-1,tvg-id="" tvg-name="北京淘精彩" tvg-logo="" group-title="北京",北京IPTV·淘精彩
 http://123.120.2.13:4022/udp/239.3.1.178:8001
-#EXTINF:-1,tvg-id="" tvg-name="北京淘BABY" tvg-logo="" group-title="北京",北京IPTV·淘Baby
+#EXTINF:-1,tvg-id="" tvg-name="北京淘BABY" tvg-logo="" group-title="北京",北京IPTV·淘BABY
 http://123.120.2.13:4022/udp/239.3.1.238:8001
 #EXTINF:-1,tvg-id="" tvg-name="北京淘电影" tvg-logo="https://epg.112114.xyz/logo/淘电影.png" group-title="北京",北京IPTV·淘电影
 http://123.120.2.13:4022/udp/239.3.1.250:8001
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/大健康.png" group-title="北京",北京IPTV·大健康
 http://123.120.2.13:4022/udp/239.3.1.251:8001
+#EXTINF:-1,tvg-id="" tvg-name="北京4K" tvg-logo="https://epg.112114.xyz/logo/北京4K.png" group-title="北京",北京IPTV·4K超清
+http://123.120.2.13:4022/udp/239.3.1.249:8001
 
 # 上海
 #EXTINF:-1 tvg-id="" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海",新闻综合
