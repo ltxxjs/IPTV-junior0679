@@ -293,7 +293,7 @@ http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 
 
 #EXTINF:-1 tvg-id="" tvg-name="四川新闻" tvg-logo="https://epg.112114.xyz/logo/四川新闻.png" group-title="地方",四川·新闻
-
+http://183.223.157.33:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="" tvg-name="重庆新闻" tvg-logo="https://epg.112114.xyz/logo/重庆新闻.png" group-title="地方",重庆·新闻
 
@@ -348,7 +348,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻台.png" group-title="港台",CTV中视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻.png" group-title="港台",EBC 东森新闻
-
+http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 #EXTINF:-1 tvg-id="" tvg-name="东森财经新闻台" tvg-logo="https://epg.112114.xyz/logo/东森财经新闻.png" group-title="港台",EBC 东森财经新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",SET三立
@@ -367,6 +367,10 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="港台",寰宇新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="年代新闻" tvg-logo="https://epg.112114.xyz/logo/年代新闻.png" group-title="港台",年代新闻
+http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
+#EXTINF:-1 tvg-id="" tvg-name="非凡新闻" tvg-logo="https://epg.112114.xyz/logo/非凡新闻.png" group-title="港台",非凡新闻
+http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",Taiwan+
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 
@@ -415,8 +419,12 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 http://typicamn.russtv.net/iptv/349W3XS8ENP64A/9011/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/探索頻道.png" group-title="国际",Discovery 台湾
 http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/探索頻道.png" group-title="国际",Discovery 亚洲
+http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/3733.png" group-title="国际",Nationnal Geographic
 http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6991/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/3733.png" group-title="国际",Nationnal Geographic 台湾
+http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/223.png" group-title="国际",Nationnal Geographic Wild
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="国际",BBC Earth
@@ -854,6 +862,7 @@ BBC World News,http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF5F667703
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 BloombergTV,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+Nationnal Geographic 台湾,http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
 
 # 数字
 求索纪录,http://cu4.iblink.cn:8000/udp/239.253.93.236:6414
