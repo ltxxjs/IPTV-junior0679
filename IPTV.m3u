@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U
 
 # 央视
 
@@ -160,10 +160,12 @@ http://123.120.2.13:4022/udp/239.3.1.116:8000
 http://123.120.2.13:4022/udp/239.3.1.117:8000
 #EXTINF:-1,tvg-id="" tvg-name="BTV文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="地方",北京·文艺
 http://123.120.2.13:4022/udp/239.3.1.242:8000
-#EXTINF:-1,tvg-id="" tvg-name="BTV科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方",北京·纪实科教
-http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw1542052607_1430934483/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1669704438&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="" tvg-name="BTV体育" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="地方",北京·体育休闲
 http://123.120.2.13:4022/udp/239.3.1.243:8000
+#EXTINF:-1,tvg-id="" tvg-name="BTV科教" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="地方",北京·纪实科教
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw1542052607_1430934483/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1669704438&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
+#EXTINF:-1,tvg-id="" tvg-name="BTV科教" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="地方",北京·纪实科教8K
+http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方",上海·新闻综合
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
@@ -461,7 +463,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="爱科学" tvg-logo="" group-title="数字",iHOT爱科学
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="数字",8K测试
-http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="数字",4K UHD
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",苏州4K
