@@ -329,6 +329,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/ott.mobaibox.com/PLTV/4/224/32212
 http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/ott.mobaibox.com/PLTV/4/224/3221227792/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="江苏",连云港公共
 http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227819/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江苏",连云港新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb0f]/wh7f454c46tw1598526246_-2101199601/ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="江苏",南通2
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228448/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="江苏",南通3
@@ -363,6 +365,20 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/4/224/32212
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228433/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="江苏",盐城公共
 http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228436/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江苏",仪化有线
+http://[2409:8087:2001:20:2800:0:df6e:eb0c]/wh7f454c46tw2007904333_996227273/ott.mobaibox.com/PLTV/3/224/3221227702/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江苏",宿迁公共
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw1756901329_237803346/ott.mobaibox.com/PLTV/4/224/3221226939/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江苏",东海综合
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw2532366382_-413976163/ott.mobaibox.com/PLTV/3/224/3221227792/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江苏",沛县经济生活
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw2485154935_560997466/ott.mobaibox.com/PLTV/3/224/3221227611/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江苏",沛县文化影视
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw2571577223_-1607544057/ott.mobaibox.com/PLTV/3/224/3221227681/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江苏",沛县新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw2694495294_-336953709/ott.mobaibox.com/PLTV/3/224/3221227678/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江苏",国学与家道
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3793293799_-1723707003/ott.mobaibox.com/PLTV/4/224/3221227736/index.m3u8
 
 # 海南
 #EXTINF:-1 tvg-id="" tvg-name="海南新闻" tvg-logo="https://epg.112114.xyz/logo/海南新闻.png" group-title="海南",海南新闻
@@ -468,11 +484,11 @@ https://live.goodiptv.club/api/cqyx.php?id=CQTVNewsHD
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226248/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="甘肃经济" tvg-logo="https://epg.112114.xyz/logo/甘肃经济.png" group-title="甘肃",经济
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226252/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="甘肃经济" tvg-logo="https://epg.112114.xyz/logo/甘肃经济.png" group-title="甘肃",经济
+#EXTINF:-1 tvg-id="" tvg-name="甘肃文化影视" tvg-logo="https://epg.112114.xyz/logo/甘肃文化影视.png" group-title="甘肃",文化影视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226287/1.m3u8
-#EXTINF:-1 group-title="甘肃",甘肃少儿
+#EXTINF:-1 tvg-id="" tvg-name="甘肃少儿" tvg-logo="https://epg.112114.xyz/logo/甘肃少儿.png" group-title="甘肃",少儿
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226289/1.m3u8
-#EXTINF:-1 group-title="甘肃",甘肃公共应急
+#EXTINF:-1 tvg-id="" tvg-name="甘肃公共" tvg-logo="https://epg.112114.xyz/logo/甘肃公共.png" group-title="甘肃",公共应急
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226250/1.m3u8
 #EXTINF:-1 group-title="甘肃",兰州新闻综合
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226242/1.m3u8
