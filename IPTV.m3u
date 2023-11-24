@@ -442,43 +442,39 @@ http://58.58.107.102:9901/tsfile/live/1020_1.m3u8?key=txiptv&url=tvzb.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",山西·文体生活
 
 # 陕西
-#EXTINF:-1 tvg-logo="" group-title="陕西",宝鸡1
+#EXTINF:-1 tvg-logo="" group-title="陕西",宝鸡综合频道
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="陕西",宝鸡2#EXTINF:-1 tvg-logo="" group-title="陕西",
+#EXTINF:-1 tvg-logo="" group-title="陕西",宝鸡公共频道
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226384/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="陕西",安康综合#EXTINF:-1 tvg-logo="" group-title="陕西",
+#EXTINF:-1 tvg-logo="" group-title="陕西",安康综合
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="陕西",西乡融媒
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226556/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="陕西",商洛1
+#EXTINF:-1 tvg-logo="" group-title="陕西",商洛综合
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226378/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="陕西",城园
+#EXTINF:-1 tvg-logo="" group-title="陕西",城固
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226920/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="陕西",扶风
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227005/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="陕西",汉中1
-http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="陕西",汉中2
+#EXTINF:-1 tvg-logo="" group-title="陕西",汉中公共频道
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225990/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="陕西",汉中3
+#EXTINF:-1 tvg-logo="" group-title="陕西",汉中教育频道
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225991/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="陕西",千阳
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226945/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="陕西",神木1
+#EXTINF:-1 tvg-logo="" group-title="陕西",神木-1
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226993/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="陕西",石泉电视台
-http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226965/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="陕西",岐山
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226982/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="陕西",吴起电视台
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226967/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="陕西",洋县电视台1
+#EXTINF:-1 tvg-logo="" group-title="陕西",洋县电视台-1
 http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226938/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="陕西",紫阳综合
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227002/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="陕西",FGTV 1
+#EXTINF:-1 tvg-logo="" group-title="陕西",FGTV-1
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="陕西",佛坪电视台
+#EXTINF:-1 tvg-logo="" group-title="陕西",佛坪综合频道
 http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",吉林·公共新闻
@@ -636,7 +632,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="国际",CNN
 https://rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.stream-link.org/tv_logo/cbn_news.png" group-title="国际",CBN News
-
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CNBC.png" group-title="国际",CBNC
 http://50.7.238.114:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://www.stream-link.org/tv_logo/cbs_news.png" group-title="国际",CBS News
@@ -1118,6 +1114,7 @@ CCTV超高清 8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749
 凤凰卫视资讯台,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰卫视资讯台,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 凤凰卫视资讯台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+凤凰卫视资讯台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 凤凰卫视资讯台,http://175.43.106.172:4022/udp/239.61.2.183:9086
 凤凰卫视资讯台,http://175.43.106.172:4022/udp/239.61.5.47:1025
 
