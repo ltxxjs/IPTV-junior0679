@@ -943,6 +943,8 @@ http://960.x3322.net:4000/udp/239.120.2.171:5141
 http://960.x3322.net:4000/udp/239.120.2.172:5141
 #EXTINF:-1 group-title="青海",久治市台
 http://960.x3322.net:4000/udp/239.120.1.34:9534
+#EXTINF:-1 group-title="青海",海北电视台,
+http://960.x3322.net:4000/udp/239.120.2.234:5141
 
 # 内蒙古
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古新闻综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
