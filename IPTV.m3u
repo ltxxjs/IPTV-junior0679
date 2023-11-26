@@ -590,7 +590,7 @@ https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/HOY资讯台.png" group-title="港台",HOY资讯台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="港台",CTI中天新闻
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="港台",CTi中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="华视新闻台" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="港台", CTS华视新闻
 
@@ -635,6 +635,8 @@ http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="国际",ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Africanews" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="国际",Africanews
+https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="国际",BBC World News
 http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERGTV.png" group-title="国际",BloombergTV
@@ -1127,12 +1129,15 @@ TVB翡翠台,http://r.jdshipin.com/n90gt
 中视新闻,http://www.terrykang.xyz:35455/youtube/TCnaIE_SAtM
 中视新闻,https://cntv.lat/sbt?id=4gtv-4gtv074
 民视新闻,http://www.terrykang.xyz:35455/youtube/ylYJSBUgaMA
-民视新闻,https://cntv.lat/sbt?id=litv-ftv13
-民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
+台视新闻,https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 台视新闻,http://www.terrykang.xyz:35455/youtube/xL0ch83RAK8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 中天新闻,http://www.terrykang.xyz:35455/youtube/oIgbl7t0S_w
+SET三立inews,https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 TVBS新闻,http://www.terrykang.xyz:35455/youtube/m_dhMSvUCIc
+TVBS新闻,https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
+mnews·镜新闻,https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 
 # 国际
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
@@ -1141,6 +1146,7 @@ CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 BloombergTV,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 Nationnal Geographic 台湾,http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
+France 24,https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 # 数字
 求索纪录,http://183.65.9.200:8888/udp/235.254.199.251:7980
