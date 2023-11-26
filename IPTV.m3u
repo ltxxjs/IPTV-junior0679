@@ -439,6 +439,16 @@ http://175.43.106.172:4022/udp/239.61.4.7:1025
 http://175.43.106.172:4022/udp/239.61.4.6:1025
 #EXTINF:-1 tvg-id="" tvg-name="福建文体" tvg-logo="https://epg.112114.xyz/logo/福建文体.png" group-title="福建",福建文体
 http://175.43.106.172:4022/udp/239.61.5.44:1025
+#EXTINF:-1 tvg-id="" tvg-name="福建电视剧" tvg-logo="https://epg.112114.xyz/logo/福建电视剧.png" group-title="福建",福建电视剧
+http://175.43.106.172:4022/udp/239.61.4.5:1025
+#EXTINF:-1 tvg-id="" tvg-name="福建公共" tvg-logo="https://epg.112114.xyz/logo/福建公共.png" group-title="福建",福建公共
+http://175.43.106.172:4022/udp/239.61.4.3:1025
+#EXTINF:-1 tvg-id="" tvg-name="福建少儿" tvg-logo="https://epg.112114.xyz/logo/福建少儿.png" group-title="福建",福建少儿
+http://175.43.106.172:4022/udp/239.61.4.9:1025
+#EXTINF:-1 tvg-id="" tvg-name="福建教育" tvg-logo="" group-title="福建",福建教育
+
+#EXTINF:-1 tvg-id="" tvg-name="福州新闻" tvg-logo="" group-title="福建",FZTV-1
+http://175.43.106.172:4022/udp/239.61.5.97:1025
 
 # 海南
 #EXTINF:-1 tvg-id="" tvg-name="海南新闻" tvg-logo="https://epg.112114.xyz/logo/海南新闻.png" group-title="海南",海南新闻
@@ -889,7 +899,7 @@ http://60.174.40.117:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="IPv4",CCTV-15 音乐
 http://60.174.40.117:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="IPv4",CCTV-16 奥林匹克
-
+http://175.43.106.172:4022/udp/239.61.4.135:1025
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="IPv4",CCTV-17 农业农村
 http://58.56.1.110:9901/tsfile/live/21229_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="IPv4",CCTV-5+ 体育赛事
