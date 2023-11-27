@@ -89,7 +89,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K 超高清
-
+http://tv.328326.com/iptv/sxg.php?id=ys4Kcq_2000
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视",CCTV-8K 超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 
@@ -250,9 +250,9 @@ https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.
 #EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东",大湾区卫视
 
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="广东",广东新闻
-https://php.17186.eu.org/gdtv/web/xwpd.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
-http://112.91.153.50:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东",广东经济科教
 
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="广东",广东体育
@@ -292,6 +292,30 @@ http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8?
 # 四川
 #EXTINF:-1 tvg-id="" tvg-name="四川新闻" tvg-logo="https://epg.112114.xyz/logo/四川新闻.png" group-title="四川",四川新闻
 http://183.223.157.33:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="四川文化旅游" tvg-logo="https://epg.112114.xyz/logo/四川文化旅游.png" group-title="四川",四川文化旅游
+http://tv.328326.com/iptv/sxg.php?id=SCTV-3-H265_4000
+#EXTINF:-1 tvg-id="" tvg-name="四川经济" tvg-logo="https://epg.112114.xyz/logo/四川经济.png" group-title="四川",四川经济
+http://tv.328326.com/iptv/sxg.php?id=SCTV-2-H265_4000
+#EXTINF:-1 tvg-id="" tvg-name="四川影视文艺" tvg-logo="https://epg.112114.xyz/logo/四川影视文艺.png" group-title="四川",四川影视文艺
+http://tv.328326.com/iptv/sxg.php?id=SCTV-5-scysH265_4000
+#EXTINF:-1 tvg-id="" tvg-name="四川妇女儿童" tvg-logo="https://epg.112114.xyz/logo/四川妇女儿童.png" group-title="四川",四川妇女儿童
+http://tv.328326.com/iptv/sxg.php?id=SCTV-7-_4000
+#EXTINF:-1 tvg-id="" tvg-name="四川科教" tvg-logo="https://epg.112114.xyz/logo/四川科教.png" group-title="四川",四川科教
+http://tv.328326.com/iptv/sxg.php?id=SCTV-ggSCTV-8_4000
+#EXTINF:-1 tvg-id="" tvg-name="四川乡村" tvg-logo="https://epg.112114.xyz/logo/四川乡村.png" group-title="四川",四川乡村
+http://tv.328326.com/iptv/sxg.php?id=SCTV-kjSCTV-9-_4000
+#EXTINF:-1 tvg-id="" tvg-name="四川峨嵋电影" tvg-logo="https://epg.112114.xyz/logo/四川峨眉电影.png" group-title="四川",四川峨嵋电影
+http://tv.328326.com/iptv/sxg.php?id=emdygqH265_4000
+#EXTINF:-1 tvg-id="" tvg-name="CDTV1" tvg-logo="https://epg.112114.xyz/logo/CDTV1.png" group-title="四川",CDTV.1 综合
+http://tv.328326.com/iptv/sxg.php?id=CDTV-1_4000
+#EXTINF:-1 tvg-id="" tvg-name="CDTV2" tvg-logo="https://epg.112114.xyz/logo/CDTV2.png" group-title="四川",CDTV.2 经济
+http://tv.328326.com/iptv/sxg.php?id=CDTV-2_4000
+#EXTINF:-1 tvg-id="" tvg-name="CDTV3" tvg-logo="https://epg.112114.xyz/logo/CDTV3.png" group-title="四川",CDTV.3 生活
+http://tv.328326.com/iptv/sxg.php?id=CDTV-3_4000
+#EXTINF:-1 tvg-id="" tvg-name="CDTV4" tvg-logo="https://epg.112114.xyz/logo/CDTV4.png" group-title="四川",CDTV.4 影视
+http://tv.328326.com/iptv/sxg.php?id=CDTV-4_4000
+#EXTINF:-1 tvg-id="" tvg-name="CDTV5" tvg-logo="https://epg.112114.xyz/logo/CDTV5.png" group-title="四川",CDTV.5 公共
+http://tv.328326.com/iptv/sxg.php?id=CDTV-5_4000
 
 # 重庆
 #EXTINF:-1,tvg-id="" tvg-name="重庆新闻" tvg-logo="https://epg.112114.xyz/logo/重庆新闻.png" group-title="重庆",重庆新闻
@@ -561,6 +585,24 @@ http://960.x3322.net:4000/udp/239.120.2.171:5141
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 
 # 新疆
+#EXTINF:-1 tvg-id="" tvg-name="新疆汉语综艺" tvg-logo="https://epg.112114.xyz/logo/新疆综艺.png" group-title="新疆",新疆4
+http://router5.youguess.site:8000/udp/238.125.3.177:5140
+#EXTINF:-1 tvg-id="" tvg-name="新疆汉语经济" tvg-logo="https://epg.112114.xyz/logo/新疆经济.png" group-title="新疆",新疆7
+http://router5.youguess.site:8000/udp/238.125.3.180:5140
+#EXTINF:-1 tvg-id="" tvg-name="新疆体育健康" tvg-logo="https://epg.112114.xyz/logo/新疆体育健康.png" group-title="新疆",新疆10
+http://router5.youguess.site:8000/udp/238.125.3.183:5140
+#EXTINF:-1 tvg-id="" tvg-name="新疆信息服务" tvg-logo="" group-title="新疆",新疆11
+http://router5.youguess.site:8000/udp/238.125.3.184:5140
+#EXTINF:-1 tvg-id="" tvg-name="新疆体育健康" tvg-logo="https://epg.112114.xyz/logo/新疆少儿.png" group-title="新疆",新疆12
+http://router5.youguess.site:8000/udp/238.125.3.185:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新疆",乌鲁木齐综合
+http://router5.youguess.site:8000/udp/238.125.7.200:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新疆",乌鲁木齐都市生活
+http://router5.youguess.site:8000/udp/238.125.2.241:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新疆",乌鲁木齐影视
+http://router5.youguess.site:8000/udp/238.125.2.242:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新疆",乌鲁木齐妇女儿童
+http://router5.youguess.site:8000/udp/238.125.2.239:5140
 
 # 港台
 
@@ -707,6 +749,8 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="数字",CHC高清电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="数字",新视觉
+http://tv.328326.com/iptv/sxg.php?id=ycxsjH265_4000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="数字",4K UHD
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/4K修复.png" group-title="数字",4K修复
@@ -721,9 +765,9 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.
 #EXTINF:-1 tvg-id="" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="体育",五星体育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="体育",劲爆体育
-http://111.13.111.242/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3&HlsProfileId=
+http://tv.328326.com/iptv/sxg.php?id=lqhxjcHDH265_4000
 #EXTINF:-1 tvg-id="" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="体育",魅力足球
-https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
+http://tv.328326.com/iptv/sxg.php?id=mlyy_4000
 #EXTINF:-1 tvg-id="" tvg-name="爱体育" tvg-logo="" group-title="体育",iHOT爱体育
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-name="爱赛车" tvg-logo="" group-title="体育",iHOT爱赛车
@@ -1102,6 +1146,7 @@ CCTV超高清 8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749
 湖南金鹰纪实,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001230/index.m3u8?
 山东体育,http://119.183.206.43:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育,http://60.217.76.197:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+四川新闻,http://tv.328326.com/iptv/sxg.php?id=SCTV-4H265_4000
 
 # 港澳台
 凤凰卫视中文台,http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/肥羊/224/3221228527/index.m3u8
@@ -1113,7 +1158,9 @@ CCTV超高清 8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749
 凤凰卫视中文台,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰卫视中文台,http://175.43.106.172:4022/udp/239.61.2.184:9092
 凤凰卫视中文台,http://175.43.106.172:4022/udp/239.61.5.48:1025
+凤凰中文,http://tv.328326.com/iptv/sxg.php?id=test1_4000
 
+凤凰资讯,http://tv.328326.com/iptv/sxg.php?id=test2_4000
 凤凰卫视资讯台,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/肥羊/224/3221228524/index.m3u8
 凤凰卫视资讯台,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰卫视资讯台,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
