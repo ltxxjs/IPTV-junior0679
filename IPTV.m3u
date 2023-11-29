@@ -677,8 +677,16 @@ http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="国际",ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Africanews" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="国际",Africanews
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="国际",Africanews
 https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6591.png" group-title="国际",BBC 1
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19176/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6592.png" group-title="国际",BBC 2
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19177/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6597.png" group-title="国际",BBC Parliament
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19182/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2332.png" group-title="国际",BBC America
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/1092/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="国际",BBC World News
 http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERGTV.png" group-title="国际",BloombergTV
@@ -690,7 +698,7 @@ https://rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.stream-link.org/tv_logo/cbn_news.png" group-title="国际",CBN News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CNBC.png" group-title="国际",CBNC
-http://50.7.238.114:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/962/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://www.stream-link.org/tv_logo/cbs_news.png" group-title="国际",CBS News
 http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://www.stream-link.org/tv_logo/dw_news.png" group-title="国际",DW NEWS
@@ -719,11 +727,15 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/5002/index
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/探索頻道.png" group-title="国际",Discovery
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/9011/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/探索頻道.png" group-title="国际",Discovery (US)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2487/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/325.png" group-title="国际",Discovery (CA)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6452/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/探索頻道.png" group-title="国际",Discovery (DE)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/20015/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/325.png" group-title="国际",Discovery (IL)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2358/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-id="3132" tvg-logo="http://epg.it999.ru/img/3132.png" group-title="国际,Discovery (PL)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-id="3132" tvg-logo="http://epg.it999.ru/img/3132.png" group-title="国际",Discovery (PL)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6103/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/409.png" group-title="国际",Discovery Science
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/9326/index.m3u8
@@ -747,8 +759,10 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2415/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7010/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4475.png" group-title="国际",Nat Geo Wild (DE)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7256/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-id="4311" tvg-logo="http://epg.it999.ru/img/4311.png" group-title="国际",Nat Geo Wild (IL)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4311.png" group-title="国际",Nat Geo Wild (IL)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12259/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/3596.png" group-title="国际",History (CA)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6453/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/1394.png" group-title="国际",History (RU)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/9023/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/7642.png" group-title="国际",History (CEE)
@@ -769,7 +783,7 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/9019/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7032/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/5089.png" group-title="国际",BBC Earth (PL)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6100/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-id="5598" tvg-logo="http://epg.it999.ru/img/5598.png" group-title="国际",Liberty BBC (RU)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/5598.png" group-title="国际",Liberty BBC (RU)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/15108/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/Animal Planet.png" group-title="国际",Animal Planet (RU)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/218/index.m3u8
@@ -777,7 +791,7 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/218/index.
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6989/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/365.png" group-title="国际",Animal Planet (DE)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7257/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/动物星球.png" group-title="国际",Animal Planet 动物星球
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/动物星球.png" group-title="国际",Animal Planet 动物星球
 http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/322.png" group-title="国际",Outdoor Channel
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/119/index.m3u8
@@ -854,43 +868,66 @@ http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226506/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",睛彩羽毛球
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2877.png" group-title="体育",Sky Sport News (DE)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2477/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6557.png" group-title="体育",sky Sport calcio
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19129/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6555.png" group-title="体育",sky Sport 24
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19127/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4656.png" group-title="体育",sky Sport F1 (DE)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/10079/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6533.png" group-title="体育",Sky Sport F1 (IT)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19105/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6561.png" group-title="体育",sky Sport MOTOGP
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19133/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6562.png" group-title="体育",sky Sport NBA
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19134/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6539.png" group-title="体育",sky Sport tennis
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19136/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6560.png" group-title="体育",sky Sport golf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2877.png" group-title="体育",sky sports news (UK)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7335/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4570.png" group-title="体育",sky sports football (UK)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7336/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4571.png" group-title="体育",sky sports main event (UK)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7337/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4572.png" group-title="体育",sky sports arena (UK)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7338/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4573.png" group-title="体育",sky sports mix (UK)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7339/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4579.png" group-title="体育",sky sports action (UK)
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6556.png" group-title="体育",sky Sport arena
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19128/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2880.png" group-title="体育",Sky Sport Bundesliga 1 (DE)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",sky sportss NFL (UK)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7340/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4575.png" group-title="体育",sky sports racing (UK)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7341/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4576.png" group-title="体育",sky sports F1 (UK)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7342/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4577.png" group-title="体育",sky sports cricket (UK)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7343/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4578.png" group-title="体育",sky sports golf (UK)
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4569.png" group-title="体育",sky sports PREMIER LEAGUE (UK)
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2877.png" group-title="体育",sky sports news (DE)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2477/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6557.png" group-title="体育",sky sports calcio
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19129/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6555.png" group-title="体育",sky sports 24
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19127/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4656.png" group-title="体育",sky sports F1 (DE)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/10079/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6533.png" group-title="体育",sky sports F1 (IT)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19105/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6561.png" group-title="体育",sky sports MOTOGP
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19133/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6562.png" group-title="体育",sky sports NBA
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19134/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6539.png" group-title="体育",sky sports tennis
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19136/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6560.png" group-title="体育",sky sports golf
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2880.png" group-title="体育",sky sports Bundesliga 1 (DE)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2480/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2881.png" group-title="体育",Sky Sport Bundesliga 2 (DE)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2881.png" group-title="体育",sky sports Bundesliga 2 (DE)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7234/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4522.png" group-title="体育",Sky Sport Bundesliga 3 (DE)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4522.png" group-title="体育",sky sports Bundesliga 3 (DE)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7235/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4523.png" group-title="体育",Sky Sport Bundesliga 4 (DE)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4523.png" group-title="体育",sky sports Bundesliga 4 (DE)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7236/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/7778.png" group-title="体育",Sky Sport Bundesliga 5 (DE)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/7778.png" group-title="体育",sky sports Bundesliga 5 (DE)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7237/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4525.png" group-title="体育",Sky Sport Bundesliga 6 (DE)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4525.png" group-title="体育",sky sports Bundesliga 6 (DE)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7238/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4526.png" group-title="体育",Sky Sport Bundesliga 7 (DE)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4526.png" group-title="体育",sky sports Bundesliga 7 (DE)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7239/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4527.png" group-title="体育",Sky Sport Bundesliga 8 (DE)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4527.png" group-title="体育",sky sports Bundesliga 8 (DE)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7240/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4528.png" group-title="体育",Sky Sport Bundesliga 9 (DE)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4528.png" group-title="体育",sky sports Bundesliga 9 (DE)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7241/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6582.png" group-title="体育",ESPN (USA)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19156/index.m3u8
@@ -934,6 +971,14 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19151/inde
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19152/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6579.png" group-title="体育",Bally SPORTS MIDWEST
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19153/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2889.png" group-title="体育",TNT SPORTS 1 (UK)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2506/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2890.png" group-title="体育",TNT SPORTS 2 (UK)
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/3560.png" group-title="体育",TNT SPORTS 3 (UK)
+
+#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="3560" tvg-logo="" group-title="体育",TNT SPORTS 4 (UK)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6566/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2933.png" group-title="体育",Sport 1 (LT)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6367/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2684.png" group-title="体育",Sport 1 (IL)
@@ -970,7 +1015,6 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19074/inde
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19075/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6529.png" group-title="体育",TiViBUSPOR 3 HD
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19076/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/3885.png" group-title="体育",Eurosport 1 (TR)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6829/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/3886.png" group-title="体育",Eurosport 2 (TR)
@@ -1003,6 +1047,10 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7266/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7267/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4568.png" group-title="体育",Arena Sport 6 (HR)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7268/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2892.png" group-title="体育",Star Sports 1 (IN)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2508/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2891.png" group-title="体育",Star Sports 2 (IN)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2507/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6039.png" group-title="体育",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6522.png" group-title="体育",A SPOR
@@ -1043,8 +1091,12 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6099/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2519/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/7239.png" group-title="体育",Setanta Sports 1
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/20065/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/3894.png" tvg-rec="3",NBA TV (TR)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/3894.png" group-title="体育",NBA TV (TR)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6838/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.stream-link.org/tv_logo/tennis_channel.png" group-title="体育",Tennis Channel
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6096/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-id="3624" tvg-logo="http://epg.it999.ru/img/3624.png" group-title="体育",NBC Golf (CA)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6481/index.m3u8
 
 # 咪咕
 
@@ -1620,4 +1672,3 @@ MLB,tvg-logo="https://www.stream-link.org/tv_logo/mlb.png"
 NBA TV,tvg-logo="https://www.stream-link.org/tv_logo/nba_tv.png"
 Unbeaten,tvg-logo="https://www.stream-link.org/tv_logo/unbeaten.png"
 FIFA+,tvg-logo="https://www.stream-link.org/tv_logo/fifa_plus.png"
-Tennis Channel,tvg-logo="https://www.stream-link.org/tv_logo/tennis_channel.png"
