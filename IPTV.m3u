@@ -216,6 +216,10 @@ http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8?zguangxd
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?IAS
 #EXTINF:-1 tvg-id="" tvg-name="云南都市" tvg-logo="https://live.fanmingming.com/tv/云南都市.png" group-title="资讯",云南都市频道
 
+#EXTINF:-1 tvg-id="" tvg-name="贵州公共" tvg-logo="https://epg.112114.xyz/logo/贵州1.png" group-title="贵州",贵州公共-2
+http://39.135.11.88/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226119/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="贵州科教健康" tvg-logo="https://epg.112114.xyz/logo/贵州1.png" group-title="贵州",贵州科教健康-6
+http://39.135.11.88/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226293/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="四川新闻" tvg-logo="https://live.fanmingming.com/tv/四川新闻.png" group-title="资讯",四川新闻
 http://183.223.157.33:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CDTV1" tvg-logo="https://epg.112114.xyz/logo/CDTV1.png" group-title="资讯",成都 CDTV.1 综合
@@ -331,7 +335,7 @@ https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CNBC.png" group-title="资讯",CBNC
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://www.stream-link.org/tv_logo/cbs_news.png" group-title="资讯",CBS News National
-https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jy3UfCe.png" group-title="资讯",CBS News Baltimore
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qGbVQir.png" group-title="资讯",CBS News Chicago
@@ -342,6 +346,8 @@ https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/
 https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/klULxMV.png" group-title="资讯",CBS News Los Angeles
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DExbVa9.png" group-title="资讯",CBS News Miami
+https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-title="资讯",CBS New York
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="资讯",CBS News Texas
