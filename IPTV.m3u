@@ -601,7 +601,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="其他",上海生活时尚
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title=""其他",七彩戏剧
+#EXTINF:-1 tvg-id="" tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="其他",七彩戏剧
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="上海教育台" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="其他",上海教育电视台
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
@@ -611,7 +611,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/SITV都市剧场.png" group-title="其他",上海都市剧场
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title=""其他",上海金色学堂
+#EXTINF:-1 tvg-id="" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="其他",上海金色学堂
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/xuandong.png" group-title="其他",上海哈哈炫动
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
