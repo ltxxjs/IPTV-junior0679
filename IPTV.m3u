@@ -771,46 +771,126 @@ http://120.196.232.124:8088/PLTV/13/224/3221227960/1.m3u8
 
 # 测试
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6591.png" group-title="测试",BBC 1
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19176/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6592.png" group-title="测试",BBC 2
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19177/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6597.png" group-title="测试",BBC Parliament
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19182/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2332.png" group-title="测试",BBC America
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/1092/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CNBC.png" group-title="测试",CBNC
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/962/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="测试",France 24 En
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/947/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="测试",NHK World
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/729/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="测试",Love Nature 4K
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/5001/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2745.png" group-title="测试",Home 4K
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/4002/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2746.png" group-title="测试",Наша Сибирь 4K
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/15145/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/5457.png" group-title="测试",SKY HIGH NATURE 4K
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/14248/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2802.png" group-title="测试",my zen 4K
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/5002/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/探索頻道.png" group-title="测试",Discovery
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/9011/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/探索頻道.png" group-title="测试",Discovery (US)
+# Discovery
+#EXTINF:0 group-title="测试" tvg-rec="3",Discovery (US)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2487/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/325.png" group-title="测试",Discovery (CA)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6452/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/探索頻道.png" group-title="测试",Discovery (DE)
+#EXTINF:0 group-title="测试" tvg-id="325" tvg-logo="http://epg.it999.ru/img/325.png" tvg-rec="3",Discovery (GB)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/9011/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="325" tvg-logo="http://epg.it999.ru/img/325.png" tvg-rec="7",Discovery (RU)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/227/index.m3u8
+#EXTINF:0 group-title="测试" tvg-rec="0",Discovery (GE)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/20015/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/325.png" group-title="测试",Discovery (IL)
+#EXTINF:0 group-title="测试" tvg-id="7861" tvg-logo="http://epg.it999.ru/img/7861.png" tvg-rec="0",Discovery (GE)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/20040/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="2689" tvg-logo="http://epg.it999.ru/img/325.png" tvg-rec="3",Discovery(IL)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2358/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-id="3132" tvg-logo="http://epg.it999.ru/img/3132.png" group-title="测试",Discovery (PL)
+#EXTINF:0 group-title="测试" tvg-id="2689" tvg-logo="http://epg.it999.ru/img/325.png" tvg-rec="0",Discovery(IL)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12241/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="3078" tvg-logo="http://epg.it999.ru/img/3078.png" tvg-rec="3",Discovery(PL)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6102/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="3132" tvg-logo="http://epg.it999.ru/img/3132.png" tvg-rec="3",Discovery(PL)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6103/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/409.png" group-title="测试",Discovery Science
+#EXTINF:0 group-title="测试" tvg-id="3916" tvg-logo="http://epg.it999.ru/img/325.png" tvg-rec="3",Discovery (TR)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6861/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="409" tvg-logo="http://epg.it999.ru/img/409.png" tvg-rec="3",Discovery Science (US)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6001/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="409" tvg-logo="http://epg.it999.ru/img/409.png" tvg-rec="3",Discovery Science (RU)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/9326/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2507.png" group-title="测试",Investigation Discovery
+#EXTINF:0 group-title="测试" tvg-id="3698" tvg-logo="http://epg.it999.ru/img/409.png" tvg-rec="3",Discovery Science (RO)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6956/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="3918" tvg-logo="http://epg.it999.ru/img/3918.png" tvg-rec="3",Discovery Science (TR)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6863/index.m3u8
+
+# National Geographic
+#EXTINF:0 group-title="测试" tvg-id="102" tvg-logo="http://epg.it999.ru/img/102.png" tvg-rec="0",National Geographic (RU)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/14001/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="102" tvg-logo="http://epg.it999.ru/img/102.png" tvg-rec="0",National Geographic (RU)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/14002/index.m3u8
+
+#EXTINF:0 group-title="测试" tvg-id="223" tvg-logo="http://epg.it999.ru/img/223.png" tvg-rec="3",Nat Geo Wild (US)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2415/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="3752" tvg-logo="http://epg.it999.ru/img/3752.png" tvg-rec="3",Nat Geo Wild (RO)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7010/index.m3u8
+#EXTINF:0 group-title="测试y" tvg-id="4475" tvg-logo="http://epg.it999.ru/img/4475.png" tvg-rec="0",Nat Geo Wild (DE)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7256/index.m3u8
+
+# BBC
+#EXTINF:0 group-title="测试" tvg-id="3800" tvg-logo="http://epg.it999.ru/img/3800.png" tvg-rec="3",BBC Earth (RO)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7032/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="3800" tvg-logo="http://epg.it999.ru/img/3800.png" tvg-rec="3",BBC Earth (RO)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7058/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="5089" tvg-logo="http://epg.it999.ru/img/5089.png" tvg-rec="3",BBC Earth (PL)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6100/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="3909" tvg-logo="http://epg.it999.ru/img/3909.png" tvg-rec="3",BBC Earth (TR)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6854/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="3910" tvg-logo="http://epg.it999.ru/img/3910.png" tvg-rec="3",BBC Earth (TR)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6855/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="4891" tvg-logo="http://epg.it999.ru/img/4891.png" tvg-rec="0",BBC Earth (SE)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12098/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="6596" tvg-logo="http://epg.it999.ru/img/6596.png" tvg-rec="0",BBC First (GB)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19181/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="2332" tvg-logo="http://epg.it999.ru/img/2332.png" tvg-rec="3",BBC America (US)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/1092/index.m3u8
+
+# Sports
+#EXTINF:0 group-title="测试" tvg-id="7255" tvg-logo="http://epg.it999.ru/img/7255.png" tvg-rec="0",Eleven Sports 1 4K
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/20068/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="7529" tvg-logo="http://epg.it999.ru/img/7529.png" tvg-rec="0",Eleven Sports 1 4K
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/20078/index.m3u8
+
+#EXTINF:0 group-title="测试" tvg-id="2682" tvg-logo="http://epg.it999.ru/img/2682.png" tvg-rec="0",Sport 5 4K IL
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12277/index.m3u8
+
+# News
+#EXTINF:0 group-title="测试" tvg-id="2128" tvg-logo="http://epg.it999.ru/img/2128.png" tvg-rec="3",CNBC (US)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/962/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="2127" tvg-logo="http://epg.it999.ru/img/2127.png" tvg-rec="3",FRANCE 24 En
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/947/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="921" tvg-logo="http://epg.it999.ru/img/921.png" tvg-rec="7",NHK World
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/729/index.m3u8
+
+# Other
+#EXTINF:0 group-title="测试" tvg-id="2507" tvg-logo="http://epg.it999.ru/img/2507.png" tvg-rec="3",Investigation Discovery (US)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/9054/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="2507" tvg-logo="http://epg.it999.ru/img/2507.png" tvg-rec="3",Investigation Discovery (US)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2102/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="2507" tvg-logo="http://epg.it999.ru/img/2507.png" tvg-rec="3",Investigation Discovery (RU)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/9322/index.m3u8
+
+# 4K
+#EXTINF:0 group-title="测试" tvg-id="2801" tvg-logo="http://epg.it999.ru/img/2801.png" tvg-rec="3",Love Nature 4K
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/5001/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="2745" tvg-logo="http://epg.it999.ru/img/2745.png" tvg-rec="3",Home 4K
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/4002/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="2745" tvg-logo="http://epg.it999.ru/img/2745.png" tvg-rec="3",Home 4K
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/4002/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="2745" tvg-logo="http://epg.it999.ru/img/2745.png" tvg-rec="0",Home 4K (HEVC)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/15146/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="5456" tvg-logo="http://epg.it999.ru/img/5456.png" tvg-rec="0",SKY HIGH NATURE 4K
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/14247/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="5457" tvg-logo="http://epg.it999.ru/img/5457.png" tvg-rec="0",SKY HIGH NATURE 4K HDR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/14248/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="2802" tvg-logo="http://epg.it999.ru/img/2802.png" tvg-rec="3",MyZen TV 4K
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/5002/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="6708" tvg-logo="http://epg.it999.ru/img/6708.png" tvg-rec="0",BOX Relax 4K
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19283/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="2800" tvg-logo="http://epg.it999.ru/img/2800.png" tvg-rec="3",Insight UHD 4K
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/5000/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="5979" tvg-logo="http://epg.it999.ru/img/5979.png" tvg-rec="0",Глазами Туриста 4K
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/15191/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="5980" tvg-logo="http://epg.it999.ru/img/5980.png" tvg-rec="0",NASA TV 4K
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/15239/index.m3u8
+#EXTINF:0 group-title="测试" tvg-rec="0",Museum 4K
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/14016/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="7617" tvg-logo="http://epg.it999.ru/img/7617.png" tvg-rec="0",TravelXP 4K HDR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/14026/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="6707" tvg-logo="http://epg.it999.ru/img/6707.png" tvg-rec="0",BOX Music 4K
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19282/index.m3u8
+#EXTINF:0 group-title="测试" tvg-id="5120" tvg-logo="http://epg.it999.ru/img/5120.png" tvg-rec="0",Rai 4K HDR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19091/index.m3u8
+
+
+
 #EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/3733.png" group-title="测试",Nat Geo (RU)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/14001/index.m3u8
 #EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4474.png" group-title="测试",Nat Geo (DE)
@@ -1065,8 +1145,7 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19113/inde
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19117/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6583.png" group-title="测试",Eleven Sports 1 (PT)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19158/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/7255.png" group-title="测试",Eleven Sports 1 4K
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/20068/index.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6586.png" group-title="测试",Viasat Sport Ultra HD DK
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19163/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6534.png" group-title="测试",Rai Sport HD
