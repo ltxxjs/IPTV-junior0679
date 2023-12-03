@@ -183,7 +183,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="资讯",大湾区卫视
 http://113.101.214.171:10000/udp/239.77.0.215:5146
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="资讯",广东新闻
-http://14.212.214.77:9901/tsfile/live/1008_1.m3u8
+http://113.101.214.171:10000/udp/239.77.0.173:5146
 #EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="资讯",广东经济科教
 http://113.101.214.171:10000/udp/239.77.0.85:5146
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="资讯",广东珠江
@@ -207,7 +207,7 @@ http://119.183.206.43:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-id="" tvg-name="湖北公共·新闻" tvg-logo="https://epg.112114.xyz/logo/湖北公共.png" group-title="资讯",湖北公共新闻
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
 #EXTINF:-1 tvg-id="" tvg-name="广西新闻" tvg-logo="https://epg.112114.xyz/logo/广西新闻.png" group-title="资讯",广西新闻
-http://117.141.149.101:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="资讯",南宁新闻综合
 http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8?zguangxd
 #EXTINF:-1 tvg-id="" tvg-name="福建新闻" tvg-logo="https://live.fanmingming.com/tv/福建新闻.png" group-title="资讯",福建新闻
@@ -221,13 +221,13 @@ http://39.135.11.88/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226119/1/ind
 #EXTINF:-1 tvg-id="" tvg-name="贵州科教健康" tvg-logo="https://epg.112114.xyz/logo/贵州1.png" group-title="资讯",贵州科教健康-6
 http://39.135.11.88/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226293/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="四川新闻" tvg-logo="https://live.fanmingming.com/tv/四川新闻.png" group-title="资讯",四川新闻
-http://183.223.157.33:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-id="" tvg-name="CDTV1" tvg-logo="https://epg.112114.xyz/logo/CDTV1.png" group-title="资讯",成都 CDTV.1 综合
-http://tv.328326.com/iptv/sxg.php?id=CDTV-1_4000
+
 #EXTINF:-1 tvg-id="" tvg-name="CDTV2" tvg-logo="https://epg.112114.xyz/logo/CDTV2.png" group-title="资讯",成都 CDTV.2 经济
-http://tv.328326.com/iptv/sxg.php?id=CDTV-2_4000
+
 #EXTINF:-1 tvg-id="" tvg-name="CDTV5" tvg-logo="https://epg.112114.xyz/logo/CDTV5.png" group-title="资讯",成都 CDTV.5 公共
-http://tv.328326.com/iptv/sxg.php?id=CDTV-5_4000
+
 #EXTINF:-1,tvg-id="" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="资讯",重庆新闻
 https://live.goodiptv.club/api/cqyx.php?id=CQTVNewsHD
 #EXTINF:-1,tvg-id="" tvg-name="重庆移动高清" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="资讯",重庆移动
@@ -240,16 +240,12 @@ http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226248/1.m3u8
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226252/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="兰州新闻综合" tvg-logo="" group-title="资讯",兰州新闻综合
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226242/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="资讯",青海经视
-http://960.x3322.net:4000/udp/239.120.2.161:5141
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="资讯",西宁新闻综合
-http://960.x3322.net:4000/udp/239.120.2.172:5141
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古新闻综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古新闻综合.png" group-title="资讯",内蒙古新闻综合
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 #EXTINF:-1 tvg-id="" tvg-name="新疆汉语经济" tvg-logo="https://epg.112114.xyz/logo/新疆经济.png" group-title="资讯",新疆汉语经济
-http://router5.youguess.site:8000/udp/238.125.3.180:5140
+
 #EXTINF:-1 tvg-id="" tvg-name="新疆信息服务" tvg-logo="" group-title="资讯",新疆信息服务
-http://router5.youguess.site:8000/udp/238.125.3.184:5140
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="资讯",乌鲁木齐综合
 http://router5.youguess.site:8000/udp/238.125.7.200:5140
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="资讯",凤凰中文
@@ -283,7 +279,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="资讯",SET三立inews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="资讯",TVBS新闻台
-https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="资讯",TVBS News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="台视新闻台" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="资讯",台视新闻
@@ -302,86 +298,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/金砖电视.png" group-title="资讯",金砖电视
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="半岛英语" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="资讯",半岛英语
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="资讯",半岛阿语
-http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.stream-link.org/tv_logo/abc_news_live.png" group-title="资讯",ABC News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="资讯",ABC News Australia
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="资讯",Africanews
-https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="资讯",BBC World News
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/T4HwPUn.png" group-title="资讯",Bloomberg Quicktake
-https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="资讯",Bloomberg TV US Live Event
-https://bloomberg.com/media-manifest/streams/us-event.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="资讯",Bloomberg TV US Politics Live Event
-https://bloomberg.com/media-manifest/streams/politics.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="资讯",Bloomberg TV+
-https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="资讯",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD800001VA_20230308T021713SQUARE.png_20230308021714.png" group-title="资讯",CNN
-https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8
-https://i.mjh.nz/SamsungTVPlus/CHBD800001D0.m3u8
-https://i.mjh.nz/SamsungTVPlus/DEBD800001S4.m3u8
-https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD1900001JB_20230614T010050SQUARE.png_20230614010050.png" group-title="资讯",CNN FAST
-https://i.mjh.nz/SamsungTVPlus/ATBD190000101.m3u8
-https://i.mjh.nz/SamsungTVPlus/CHBD1900001JB.m3u8
-https://i.mjh.nz/SamsungTVPlus/DEBD19000012M.m3u8
-https://i.mjh.nz/SamsungTVPlus/ESBD190000137.m3u8
-https://i.mjh.nz/SamsungTVPlus/FRBD190001055.m3u8
-https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
-https://i.mjh.nz/SamsungTVPlus/ITBD19000097D.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB32000103E_20230823T001627SQUARE.png_20230823001628.png" group-title="资讯",CNN Headlines
-https://i.mjh.nz/SamsungTVPlus/USBB32000103E.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="资讯",CNN International Europe
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2606.png" group-title="资讯",CNN TÜRK
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bc6tYVZ.png" group-title="资讯",CNN Portugal
-https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CNBC.png" group-title="资讯",CBNC
-
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://www.stream-link.org/tv_logo/cbs_news.png" group-title="资讯",CBS News National
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jy3UfCe.png" group-title="资讯",CBS News Baltimore
-https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qGbVQir.png" group-title="资讯",CBS News Chicago
-https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2oyYwBw.png" group-title="资讯",CBS News Colorado
-https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cMels2Y.png" group-title="资讯",CBS News Detroit
-https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/klULxMV.png" group-title="资讯",CBS News Los Angeles
-https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DExbVa9.png" group-title="资讯",CBS News Miami
-https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-title="资讯",CBS New York
-https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="资讯",CBS News Texas
-https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Un9IrUh.png" group-title="资讯",CBS News Pittsburgh
-https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://www.stream-link.org/tv_logo/dw_news.png" group-title="资讯",DW NEWS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://www.stream-link.org/tv_logo/fox_live.png" group-title="资讯",FOX News
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="资讯",France 24 En
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.stream-link.org/tv_logo/gb_news.png" group-title="资讯",GBN
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://www.stream-link.org/tv_logo/nbc_news.png" group-title="资讯",NBC NEWS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ez7qAZP.png" group-title="资讯",News 12 New York
-https://lnc-news12.tubi.video/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="资讯",NHK World
-https://sc2022.stream-link.org/tv2306.php?id=e12
 
 # 纪实
 
@@ -746,223 +662,9 @@ http://wot2020.asuscomm.com:20121/bysid/258
 http://wot2020.asuscomm.com:20121/bysid/257
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="IPv4",凤凰香港
 http://wot2020.asuscomm.com:20121/bysid/259
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="IPv4",咪咕3K_20M1920.2
-http://120.196.232.124:8088/PLTV/13/224/3221227952/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="IPv4",咪咕4K_30M2160HEVC.3
-http://120.196.232.124:8088/PLTV/13/224/3221227945/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="IPv4",咪咕视频_8M1080HEVC.27
-http://120.196.232.124:8088/PLTV/13/224/3221227791/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="IPv4",咪咕视频_8M1080HEVC.28
-http://120.196.232.124:8088/PLTV/13/224/3221227836/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="IPv4",咪咕视频_8M1080HEVC.29
-http://120.196.232.124:8088/PLTV/13/224/3221227879/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="IPv4",咪咕视频_8M1080HEVC.30
-http://120.196.232.124:8088/PLTV/13/224/3221227883/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="IPv4",咪咕视频_8M1080HEVC.31
-http://120.196.232.124:8088/PLTV/13/224/3221227887/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="IPv4",咪咕视频_8M1080HEVC.32
-http://120.196.232.124:8088/PLTV/13/224/3221227941/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="IPv4",咪咕视频_8M1080HEVC.33
-http://120.196.232.124:8088/PLTV/13/224/3221227942/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="IPv4",咪咕视频_8M1080HEVC.34
-http://120.196.232.124:8088/PLTV/13/224/3221227946/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="IPv4",咪咕视频_8M1080HEVC.35
-http://120.196.232.124:8088/PLTV/13/224/3221227948/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="IPv4",咪咕视频_8M1080HEVC.36
-http://120.196.232.124:8088/PLTV/13/224/3221227949/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="IPv4",咪咕视频_8M1080HEVC.37
-http://120.196.232.124:8088/PLTV/13/224/3221227950/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="IPv4",咪咕视频_8M1080HEVC.38
-http://120.196.232.124:8088/PLTV/13/224/3221227958/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="IPv4",咪咕视频_5M1080.22
-http://120.196.232.124:8088/PLTV/13/224/3221227891/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="IPv4",咪咕视频_5M1080.23
-http://120.196.232.124:8088/PLTV/13/224/3221227954/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="IPv4",咪咕视频_5M1080.24
-http://120.196.232.124:8088/PLTV/13/224/3221227956/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="IPv4",咪咕视频_5M1080.25
-http://120.196.232.124:8088/PLTV/13/224/3221227960/1.m3u8
 
 # 测试
 
-# Discovery
-#EXTINF:0 group-title="测试" tvg-rec="3",Discovery (US)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2487/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="325" tvg-logo="http://epg.it999.ru/img/325.png" tvg-rec="3",Discovery (GB)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/9011/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="325" tvg-logo="http://epg.it999.ru/img/325.png" tvg-rec="7",Discovery (RU)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/227/index.m3u8
-#EXTINF:0 group-title="测试" tvg-rec="0",Discovery (GE)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/20015/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="7861" tvg-logo="http://epg.it999.ru/img/7861.png" tvg-rec="0",Discovery (GE)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/20040/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="2689" tvg-logo="http://epg.it999.ru/img/325.png" tvg-rec="3",Discovery (IL)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2358/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="2689" tvg-logo="http://epg.it999.ru/img/325.png" tvg-rec="0",Discovery (IL)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12241/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="3078" tvg-logo="http://epg.it999.ru/img/3078.png" tvg-rec="3",Discovery (PL)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6102/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="3132" tvg-logo="http://epg.it999.ru/img/3132.png" tvg-rec="3",Discovery (PL)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6103/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="3916" tvg-logo="http://epg.it999.ru/img/325.png" tvg-rec="3",Discovery (TR)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6861/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="409" tvg-logo="http://epg.it999.ru/img/409.png" tvg-rec="3",Discovery Science (US)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6001/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="409" tvg-logo="http://epg.it999.ru/img/409.png" tvg-rec="3",Discovery Science (RU)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/9326/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="3698" tvg-logo="http://epg.it999.ru/img/409.png" tvg-rec="3",Discovery Science (RO)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6956/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="3918" tvg-logo="http://epg.it999.ru/img/3918.png" tvg-rec="3",Discovery Science (TR)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6863/index.m3u8
-
-# National Geographic
-#EXTINF:0 group-title="测试" tvg-id="102" tvg-logo="http://epg.it999.ru/img/102.png" tvg-rec="0",National Geographic (RU)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/14001/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="102" tvg-logo="http://epg.it999.ru/img/102.png" tvg-rec="0",National Geographic (RU)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/14002/index.m3u8
-
-#EXTINF:0 group-title="测试" tvg-id="223" tvg-logo="http://epg.it999.ru/img/223.png" tvg-rec="3",Nat Geo Wild (US)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2415/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="3752" tvg-logo="http://epg.it999.ru/img/3752.png" tvg-rec="3",Nat Geo Wild (RO)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7010/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="4475" tvg-logo="http://epg.it999.ru/img/4475.png" tvg-rec="0",Nat Geo Wild (DE)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7256/index.m3u8
-
-# BBC
-#EXTINF:0 group-title="测试" tvg-id="3800" tvg-logo="http://epg.it999.ru/img/3800.png" tvg-rec="3",BBC Earth (RO)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7032/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="3800" tvg-logo="http://epg.it999.ru/img/3800.png" tvg-rec="3",BBC Earth (RO)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7058/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="5089" tvg-logo="http://epg.it999.ru/img/5089.png" tvg-rec="3",BBC Earth (PL)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6100/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="3909" tvg-logo="http://epg.it999.ru/img/3909.png" tvg-rec="3",BBC Earth (TR)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6854/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="3910" tvg-logo="http://epg.it999.ru/img/3910.png" tvg-rec="3",BBC Earth (TR)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6855/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="4891" tvg-logo="http://epg.it999.ru/img/4891.png" tvg-rec="0",BBC Earth (SE)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12098/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="6596" tvg-logo="http://epg.it999.ru/img/6596.png" tvg-rec="0",BBC First (GB)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19181/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="2332" tvg-logo="http://epg.it999.ru/img/2332.png" tvg-rec="3",BBC America (US)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/1092/index.m3u8
-
-# Sports
-#EXTINF:0 group-title="测试" tvg-id="7255" tvg-logo="http://epg.it999.ru/img/7255.png" tvg-rec="0",Eleven Sports 1 4K
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/20068/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="7529" tvg-logo="http://epg.it999.ru/img/7529.png" tvg-rec="0",Eleven Sports 1 4K
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/20078/index.m3u8
-
-#EXTINF:0 group-title="测试" tvg-id="2682" tvg-logo="http://epg.it999.ru/img/2682.png" tvg-rec="0",Sport 5 4K IL
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12277/index.m3u8
-
-# News
-#EXTINF:0 group-title="测试" tvg-id="2128" tvg-logo="http://epg.it999.ru/img/2128.png" tvg-rec="3",CNBC (US)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/962/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="2127" tvg-logo="http://epg.it999.ru/img/2127.png" tvg-rec="3",FRANCE 24 En
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/947/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="921" tvg-logo="http://epg.it999.ru/img/921.png" tvg-rec="7",NHK World
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/729/index.m3u8
-
-# Other
-#EXTINF:0 group-title="测试" tvg-id="2507" tvg-logo="http://epg.it999.ru/img/2507.png" tvg-rec="3",Investigation Discovery (US)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/9054/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="2507" tvg-logo="http://epg.it999.ru/img/2507.png" tvg-rec="3",Investigation Discovery (US)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2102/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="2507" tvg-logo="http://epg.it999.ru/img/2507.png" tvg-rec="3",Investigation Discovery (RU)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/9322/index.m3u8
-
-# 4K
-#EXTINF:0 group-title="测试" tvg-id="2801" tvg-logo="http://epg.it999.ru/img/2801.png" tvg-rec="3",Love Nature 4K
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/5001/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="2745" tvg-logo="http://epg.it999.ru/img/2745.png" tvg-rec="3",Home 4K
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/4002/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="2745" tvg-logo="http://epg.it999.ru/img/2745.png" tvg-rec="3",Home 4K
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/4002/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="2745" tvg-logo="http://epg.it999.ru/img/2745.png" tvg-rec="0",Home 4K (HEVC)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/15146/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="5456" tvg-logo="http://epg.it999.ru/img/5456.png" tvg-rec="0",SKY HIGH NATURE 4K
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/14247/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="5457" tvg-logo="http://epg.it999.ru/img/5457.png" tvg-rec="0",SKY HIGH NATURE 4K HDR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/14248/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="2802" tvg-logo="http://epg.it999.ru/img/2802.png" tvg-rec="3",MyZen TV 4K
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/5002/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="6708" tvg-logo="http://epg.it999.ru/img/6708.png" tvg-rec="0",BOX Relax 4K
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19283/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="2800" tvg-logo="http://epg.it999.ru/img/2800.png" tvg-rec="3",Insight UHD 4K
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/5000/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="5979" tvg-logo="http://epg.it999.ru/img/5979.png" tvg-rec="0",Глазами Туриста 4K
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/15191/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="5980" tvg-logo="http://epg.it999.ru/img/5980.png" tvg-rec="0",NASA TV 4K
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/15239/index.m3u8
-#EXTINF:0 group-title="测试" tvg-rec="0",Museum 4K
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/14016/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="7617" tvg-logo="http://epg.it999.ru/img/7617.png" tvg-rec="0",TravelXP 4K HDR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/14026/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="6707" tvg-logo="http://epg.it999.ru/img/6707.png" tvg-rec="0",BOX Music 4K
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19282/index.m3u8
-#EXTINF:0 group-title="测试" tvg-id="5120" tvg-logo="http://epg.it999.ru/img/5120.png" tvg-rec="0",Rai 4K HDR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19091/index.m3u8
-
-
-
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/3733.png" group-title="测试",Nat Geo (RU)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/14001/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4474.png" group-title="测试",Nat Geo (DE)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7255/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2677.png" group-title="测试",Nat Geo (IL)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12247/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/223.png" group-title="测试",Nat Geo Wild
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2415/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/3752.png" group-title="测试",Nat Geo Wild (RO)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7010/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4475.png" group-title="测试",Nat Geo Wild (DE)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7256/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4311.png" group-title="测试",Nat Geo Wild (IL)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12259/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/3596.png" group-title="测试",History (CA)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6453/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/1394.png" group-title="测试",History (RU)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/9023/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/7642.png" group-title="测试",History (CEE)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/9313/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/3748.png" group-title="测试",History (RO)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7006/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/3748.png" group-title="测试",History (DE)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/20017/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/3911.png" group-title="测试",History (TR)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6856/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2356.png" group-title="测试",History2 (RU)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/9013/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/613.png" group-title="测试",Travel Channel
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/9025/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/1035.png" group-title="测试",Travel+ Adventure (RU)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/9019/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="测试",BBC Earth (RO)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7032/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/5089.png" group-title="测试",BBC Earth (PL)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6100/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/5598.png" group-title="测试",Liberty BBC (RU)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/15108/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/Animal Planet.png" group-title="测试",Animal Planet (RU)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/218/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/365.png" group-title="测试",Animal Planet (RO)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6989/index.m3u8
-#EXTINF:0,tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/365.png" group-title="测试",Animal Planet (DE)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7257/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/322.png" group-title="测试",Outdoor Channel
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/119/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/3780.png" group-title="测试",DIGI ANIMAL WORLD (RO)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7038/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/3781.png" group-title="测试",DIGI Life (RO)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7039/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/3782.png" group-title="测试",DIGI WORLD (RO)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7040/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2800.png" group-title="测试",Insight TV
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/5000/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2748.png" group-title="测试",Fashion TV UHD
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/4005/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2491.png" group-title="测试",Fashion TV
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2411/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/2877.png" group-title="测试",sky sports news (UK)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/7335/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/4570.png" group-title="测试",sky sports football (UK)
@@ -1159,7 +861,6 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19113/inde
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19117/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6583.png" group-title="测试",Eleven Sports 1 (PT)
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19158/index.m3u8
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6586.png" group-title="测试",Viasat Sport Ultra HD DK
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/19163/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://epg.it999.ru/img/6534.png" group-title="测试",Rai Sport HD
@@ -1202,12 +903,10 @@ CCTV超高清 8K：http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw27
 上海纪实人文：http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227635/index.m3u8
 上海第一财经：http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226172/1.m3u8
 上海东方财经：http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226602/1.m3u8
-广东新闻：http://113.101.214.171:10000/udp/239.77.0.173:5146
 广东珠江：http://113.101.214.171:10000/udp/239.77.0.1:5146
 湖南金鹰纪实：http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001230/index.m3u8?
 山东体育：http://119.183.206.43:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育：http://60.217.76.197:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-四川新闻：http://tv.328326.com/iptv/sxg.php?id=SCTV-4H265_4000
 
 # 港澳台
 凤凰卫视中文台：http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/肥羊/224/3221228527/index.m3u8
@@ -1234,24 +933,8 @@ CCTV超高清 8K：http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw27
 中天新闻：http://www.terrykang.xyz:35455/youtube/oIgbl7t0S_w
 SET三立inews：https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 TVBS News：http://www.terrykang.xyz:35455/youtube/m_dhMSvUCIc
+TVBS News：https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
 mnews·镜新闻：https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
-
-# 国际
-CNN,https://i.mjh.nz/SamsungTVPlus/CHBD800001D0.m3u8
-CNN,https://i.mjh.nz/SamsungTVPlus/DEBD800001S4.m3u8
-CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-CNN,https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
-CNN FAST,https://i.mjh.nz/SamsungTVPlus/CHBD1900001JB.m3u8
-CNN FAST,https://i.mjh.nz/SamsungTVPlus/DEBD19000012M.m3u8
-CNN FAST,https://i.mjh.nz/SamsungTVPlus/ESBD190000137.m3u8
-CNN FAST,https://i.mjh.nz/SamsungTVPlus/FRBD190001055.m3u8
-CNN FAST,https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
-CNN FAST,https://i.mjh.nz/SamsungTVPlus/ITBD19000097D.m3u8
-ABC News：https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-Bloomberg TV+：https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8?zshijd
-Bloomberg TV+：https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-FOX News：https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-France 24：https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 # 数字
 求索纪录：https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
@@ -1318,100 +1001,3 @@ France 24：https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 咪咕直播-53：http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000032106/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000032106&livemode=1&stbId=3
 咪咕直播-1-4K：http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕直播-2-4K：http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-
-# 台标
-
-四海钓鱼,tvg-logo="https://live.fanmingming.com/tv/四海钓鱼.png"
-TVB星河台,tvg-logo="https://www.stream-link.org/tv_logo/mytv_214.png"
-TVB华语剧台,tvg-name="" tvg-logo="https://www.stream-link.org/tv_logo/mytv_89.png"
-TVB千禧经典台,tvg-name="" tvg-logo="https://www.stream-link.org/tv_logo/tvb_classic.png"
-TVB J2台,tvg-name="" tvg-logo="https://www.stream-link.org/tv_logo/tvb_j2.png"
-Now新闻台,tvg-name="" tvg-logo="https://www.stream-link.org/tv_logo/now_332.png"
-Now财经台,tvg-name="" tvg-logo="hhttps://www.stream-link.org/tv_logo/now_333.png"
-Now精选体育,tvg-logo="https://www.stream-link.org/tv_logo/now_630.png"
-RHK31,tvg-name="" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png"
-RHK32,tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title"
-RHK33,tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title"
-ViuTV,tvg-logo="https://www.stream-link.org/tv_logo/rthk_33.png"
-VIU TV6,tvg-logo="https://epg.112114.xyz/logo/VIUTV6.png"
-天映频道,tvg-logo="https://www.stream-link.org/tv_logo/astro_celestial_movies.png"
-澳视澳门,tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png"
-澳门资讯,tvg-logo="https://epg.112114.xyz/logo/澳门资讯.png"
-澳门综艺,tvg-logo="https://epg.112114.xyz/logo/澳门综艺.png"
-澳门Macau卫星频道,tvg-logo="https://epg.112114.xyz/logo/澳门卫星.png"
-澳亚卫视,tvg-logo="https://live.fanmingming.com/tv/澳亚卫视.png"
-莲花卫视,tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png"
-星空卫视,tvg-logo="https://live.fanmingming.com/tv/星空卫视.png"
-CTS中视,tvg-logo="https://live.fanmingming.com/tv/中视.png"
-CTV中视经典,tvg-logo="https://live.fanmingming.com/tv/中视经典.png"
-CTV华视,,tvg-logo="https://live.fanmingming.com/tv/华视.png"
-CTI中天娱乐,tvg-logo="https://epg.112114.xyz/logo/中天娛樂.png"
-CTI中天综合,,tvg-logo="https://epg.112114.xyz/logo/中天综合.png"
-SET三立台湾台,tvg-logo="https://epg.112114.xyz/logo/三立台灣.png"
-SET三立戏剧台,tvg-logo="https://epg.112114.xyz/logo/三立戏剧.png"
-SET三立都会台,,tvg-logo="https://i.imgur.com/EyIEyFc.png"
-民视,tvg-logo="https://live.fanmingming.com/tv/民视.png"
-民视台湾台,tvg-logo="https://live.fanmingming.com/tv/民视台湾台.png"
-民视综艺台,,tvg-logo="https://live.fanmingming.com/tv/民视综艺台.png"
-民视第一台,,tvg-logo="https://live.fanmingming.com/tv/民视第一台.png"
-民视旅游台,,tvg-logo="https://live.fanmingming.com/tv/民视旅游台.png"
-台视,tvg-logo="https://live.fanmingming.com/tv/台视.png"
-龙华电影,tvg-logo="https://live.fanmingming.com/tv/龙华电影.png"
-龙华日韩,,tvg-logo="https://live.fanmingming.com/tv/龙华日韩台.png"
-靖天国际台,tvg-logo="https://epg.112114.xyz/logo/靖天国际.png"
-靖天卡通台,tvg-logo="https://epg.112114.xyz/logo/靖天卡通台.png"
-靖天电影,,tvg-logo="https://live.fanmingming.com/tv/靖天电影台.png"
-靖天日本,,tvg-logo="https://live.fanmingming.com/tv/靖天日本台.png"
-公视,tvg-logo="https://epg.112114.xyz/logo/公视.png"
-公视戏剧,,tvg-logo="https://live.fanmingming.com/tv/公视戏剧台.png"
-GTV 八大第1台,,tvg-logo="https://epg.112114.xyz/logo/八大第一台.png"
-GTV 八大戏剧台,tvg-logo="https://epg.112114.xyz/logo/八大戏剧.png"
-GTV 八大综合台,tvg-logo="https://epg.112114.xyz/logo/八大綜合.png"
-爱尔达娱乐,,tvg-logo="https://live.fanmingming.com/tv/爱尔达娱乐台.png"
-艾尔达体育1台,,tvg-logo="https://epg.112114.xyz/logo/愛爾達體育.png"
-艾尔达体育2台,tvg-logo="https://epg.112114.xyz/logo/愛爾達體育2.png"
-纬来日本,tvg-logo="https://epg.112114.xyz/logo/緯來日本.png"
-纬来体育,tvg-logo="https://epg.112114.xyz/logo/纬来体育.png"
-博斯运动II,tvg-logo="https://epg.112114.xyz/logo/博斯運動.png"
-博斯高球I,tvg-logo="https://epg.112114.xyz/logo/博斯高球.png"
-博斯高球II,tvg-logo="https://epg.112114.xyz/logo/博斯高球.png"
-博斯网球,tvg-logo="https://epg.112114.xyz/logo/博斯網球.png"
-ELEVEN 体育1台,tvg-logo="https://epg.112114.xyz/logo/EVE.png"
-Channel [V],tvg-logo="https://epg.112114.xyz/logo/channelv.png"
-EBC 东森综合,tvg-logo="https://epg.112114.xyz/logo/东森综合.png"
-EBC 东森电影,tvg-logo="https://epg.112114.xyz/logo/东森电影.png"
-EBC 东森洋片,tvg-logo="https://epg.112114.xyz/logo/东森洋片.png"
-EBC 东森幼幼,,tvg-logo="https://epg.112114.xyz/logo/东森幼幼.png"
-TVBS欢乐台,tvg-logo="https://epg.112114.xyz/logo/TVBS欢乐.png"
-ELTV生活英语,,tvg-logo="https://live.fanmingming.com/tv/ELTV生活英语台.png"
-卫视中文台,tvg-logo="https://epg.112114.xyz/logo/衛視中文.png"
-幸福空间居家台,,tvg-logo="https://live.fanmingming.com/tv/幸福空间居家台.png"
-视纳华仁纪实频道,,tvg-logo="https://live.fanmingming.com/tv/视纳华仁纪实.png"
-History 历史频道,,tvg-logo="https://live.fanmingming.com/tv/History历史频道.png"
-CI 罪案侦查频道,,tvg-logo="https://live.fanmingming.com/tv/CI罪案侦查频道.png"
-影迷数位电影,,tvg-logo="https://live.fanmingming.com/tv/影迷数位电影.png"
-i-Fun动漫,,tvg-logo="https://live.fanmingming.com/tv/IFUN动漫台.png"
-EYETV 旅游,tvg-logo="https://epg.112114.xyz/logo/EYETV旅遊.png"
-EYETV 戏剧,tvg-logo="https://epg.112114.xyz/logo/EYETV戲劇.png"
-HBO 台湾,tvg-logo="https://live.fanmingming.com/tv/HBO.png"
-AXN 台湾,tvg-logo="https://epg.112114.xyz/logo/AXN.png"
-Hollywood,tvg-logo="https://epg.112114.xyz/logo/好萊塢電影.png"
-人间卫视,tvg-logo="https://live.fanmingming.com/tv/人间卫视.png"
-Love Nature,tvg-logo="https://live.fanmingming.com/tv/LoveNature.png"
-FASHIONTV 4K,tvg-logo="https://live.fanmingming.com/tv/fashiontv.png"
-Astro SUPERSPORT,tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport.png"
-Astro SUPERSPORT 2,tvg-logo="Tennis Channel" tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport2.png"
-Astro SUPERSPORT 3,tvg-logo="Tennis Channel" tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport3.png"
-Astro SUPERSPORT 4,tvg-logo="Tennis Channel" tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport4.png"
-beIN SPORTS,tvg-logo="https://www.stream-link.org/tv_logo/bein_sports.png"
-beIN SPORTS 2,tvg-logo="https://www.stream-link.org/tv_logo/bein_sports2.png"
-beIN SPORTS 3,tvg-logo="https://www.stream-link.org/tv_logo/bein_sports3.png"
-beIN SPORTS 4,tvg-logo="https://www.stream-link.org/tv_logo/bein_sports4.png"
-beIN SPORTS XTRA,tvg-logo="Tennis Channel" tvg-logo="https://www.stream-link.org/tv_logo/bein_sports_xtra.png"
-DAZN F1,tvg-logo="https://www.stream-link.org/tv_logo/dazn_f1.png"
-DAZN 西甲,tvg-logo="https://www.stream-link.org/tv_logo/dazn_laliga.png"
-MLB,tvg-logo="https://www.stream-link.org/tv_logo/mlb.png"
-NBA TV,tvg-logo="https://www.stream-link.org/tv_logo/nba_tv.png"
-Unbeaten,tvg-logo="https://www.stream-link.org/tv_logo/unbeaten.png"
-FIFA+,tvg-logo="https://www.stream-link.org/tv_logo/fifa_plus.png"
-北京IPTV·4K超清,tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png"
