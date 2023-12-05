@@ -254,7 +254,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
 #EXTINF:-1 tvg-id="" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="地方",快乐垂钓
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="地方",茶频道
+#EXTINF:-1 tvg-id="" tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="地方",茶频道 
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广西新闻" tvg-logo="https://epg.112114.xyz/logo/广西新闻.png" group-title="地方",广西新闻
 
@@ -387,7 +387,7 @@ https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
 https://bloomberg.com/media-manifest/streams/us-event.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="美国",Bloomberg TV US Politics Live Event
 https://bloomberg.com/media-manifest/streams/politics.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100021WP_20230412T005124SQUARE.png_20230412005124.png" group-title="美国",Bloomberg TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/61559552dd585f0007321eca/colorLogoPNG.png" group-title="美国",Bloomberg TV
 https://i.mjh.nz/SamsungTVPlus/INBA5100021WP.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20230524T004227SQUARE.png_20230524004228.png" group-title="美国",Bloomberg TV+
 https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
@@ -397,7 +397,7 @@ https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD1900001JB_20230614T010050SQUARE.png_20230614010050.png" group-title="美国",CNN FAST
 https://i.mjh.nz/SamsungTVPlus/ATBD190000101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="美国",CNN Headlines
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="美国",CNN Headlines 
 https://i.mjh.nz/SamsungTVPlus/USBB32000103E.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" group-title="美国",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
@@ -415,16 +415,22 @@ https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/
 https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png" group-title="美国",CBS News Los Angeles
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DExbVa9.png" group-title="美国",CBS News Miami  
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/60fb299b79498900070b29e0/colorLogoPNG.png" group-title="美国",CBS News Miami  
 https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5eb1b0bf2240d8000732a09c/colorLogoPNG.png" group-title="美国",CBS News Minnesota
+https://i.mjh.nz/PlutoTV/5eb1b0bf2240d8000732a09c-alt.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5dc9b8223687ff000936ed79/colorLogoPNG.png" group-title="美国",CBS News New York
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/colorLogoPNG.png" group-title="美国",CBS News Philadelphia
+https://i.mjh.nz/PlutoTV/5eb1b05ea168cc000767ba67-alt.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png" group-title="美国",CBS News Pittsburgh
+https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/60cb6df2b2ad610008cd5bea/colorLogoPNG.png" group-title="美国",CBS News Sacramento
+https://i.mjh.nz/PlutoTV/60cb6df2b2ad610008cd5bea-alt.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/60fb321ee99fac0008c9ab8a/colorLogoPNG.png" group-title="美国",CBS News Spotlight
 https://i.mjh.nz/PlutoTV/60fb321ee99fac0008c9ab8a-alt.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="资讯",CBS News Texas
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png" group-title="资讯",CBS News Texas
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Un9IrUh.png" group-title="资讯",CBS News Pittsburgh
-https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="美国",CBS Sports HQ
 https://i.mjh.nz/SamsungTVPlus/USBB4800005VO.m3u8
 
@@ -1028,7 +1034,20 @@ ABC News Live：https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u
 ABC News Live：https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 CBS News：https://i.mjh.nz/SamsungTVPlus/USBA370000104.m3u8
 CBS News：https://i.mjh.nz/PlutoTV/5a6b92f6e22a617379789618-alt.m3u8
+CBS News：https://i.mjh.nz/PlutoTV/6231eb3865be650007f59595-alt.m3u8
+CBS News：https://i.mjh.nz/PlutoTV/6231ede1be5b460007f91bc1-alt.m3u8
+CBS News：https://i.mjh.nz/PlutoTV/6350fdd266e9ea0007bedec5-alt.m3u8
+CBS News：https://i.mjh.nz/PlutoTV/62441d6ded1827000763dcda-alt.m3u8
+CBS News：https://i.mjh.nz/PlutoTV/62310f66d5888f0007534342-alt.m3u8
+CBS News：https://i.mjh.nz/PlutoTV/62310d5a5dc9550007c6f580-alt.m3u8
+CBS News：https://i.mjh.nz/PlutoTV/62310d5a5dc9550007c6f580-alt.m3u8
+CBS News：https://i.mjh.nz/PlutoTV/6231ec93779a9d00079ba8e2-alt.m3u8
+CBS News：https://i.mjh.nz/PlutoTV/6231ec4b62cd1f0007093c7b-alt.m3u8
+CBS News：https://i.mjh.nz/PlutoTV/6231e909bc960f00075d8e7c-alt.m3u8
+CBS News：https://i.mjh.nz/PlutoTV/6231e9b7f6deff00074674f4-alt.m3u8
+CBS News：https://i.mjh.nz/PlutoTV/61e82af27027f9000753c6e4-alt.m3u8
 CBS News New York：https://i.mjh.nz/PlutoTV/5dc9b8223687ff000936ed79-alt.m3u8
+CBS News New York：https://i.mjh.nz/PlutoTV/5dc48170e280c80009a861ab-alt.m3u8
 CBS News Los Angeles：https://i.mjh.nz/PlutoTV/5dc9b875e280c80009a8a44a-alt.m3u8
 CBS News Chicago：https://i.mjh.nz/PlutoTV/62cdc75b1a1cbd0007ed45dc-alt.m3u8
 CBS News Chicago：https://i.mjh.nz/PlutoTV/5eb1aeb2fd4b8a00076c2047-alt.m3u8
@@ -1036,6 +1055,7 @@ CBS News Colorado：https://i.mjh.nz/PlutoTV/5eb1b12146cba40007aa7e5d-alt.m3u8
 CBS News Detroit：https://i.mjh.nz/PlutoTV/634f2610d5023700078f7dee-alt.m3u8
 CBS News Los Angeles：https://i.mjh.nz/PlutoTV/5dc481cda1d430000948a1b4-alt.m3u8
 CBS News Miami：https://i.mjh.nz/PlutoTV/60fb299b79498900070b29e0-alt.m3u8
+CBS News Pittsburgh：https://i.mjh.nz/PlutoTV/5eb1b17aa5277e00083f6521-alt.m3u8
 CNN：https://i.mjh.nz/SamsungTVPlus/CHBD800001D0.m3u8
 CNN：https://i.mjh.nz/SamsungTVPlus/DEBD800001S4.m3u8
 CNN：https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
