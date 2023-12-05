@@ -36,7 +36,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/32212
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228292/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/4/224/3221228404/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 
 http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221228112/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227592/index.m3u8
@@ -397,7 +397,7 @@ https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD1900001JB_20230614T010050SQUARE.png_20230614010050.png" group-title="美国",CNN FAST
 https://i.mjh.nz/SamsungTVPlus/ATBD190000101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="美国",CNN Headlines 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="美国",CNN Headlines  
 https://i.mjh.nz/SamsungTVPlus/USBB32000103E.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" group-title="美国",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
@@ -411,7 +411,7 @@ https://i.mjh.nz/PlutoTV/5eb1af2ad345340008fccd1e-alt.m3u8
 https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5eb1b12146cba40007aa7e5d/colorLogoPNG-1643041708234.png" group-title="美国",CBS News Colorado
 https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/634f2610d5023700078f7dee/colorLogoPNG.png" group-title="美国",CBS News Detroit
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/634f2610d5023700078f7dee/colorLogoPNG.png" group-title="美国",CBS News Detroit 
 https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png" group-title="美国",CBS News Los Angeles
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
@@ -425,7 +425,7 @@ https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 https://i.mjh.nz/PlutoTV/5eb1b05ea168cc000767ba67-alt.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png" group-title="美国",CBS News Pittsburgh
 https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/60cb6df2b2ad610008cd5bea/colorLogoPNG.png" group-title="美国",CBS News Sacramento
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/60cb6df2b2ad610008cd5bea/colorLogoPNG.png" group-title="美国",CBS News Sacramento 
 https://i.mjh.nz/PlutoTV/60cb6df2b2ad610008cd5bea-alt.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/60fb321ee99fac0008c9ab8a/colorLogoPNG.png" group-title="美国",CBS News Spotlight
 https://i.mjh.nz/PlutoTV/60fb321ee99fac0008c9ab8a-alt.m3u8
@@ -433,15 +433,29 @@ https://i.mjh.nz/PlutoTV/60fb321ee99fac0008c9ab8a-alt.m3u8
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="美国",CBS Sports HQ
 https://i.mjh.nz/SamsungTVPlus/USBB4800005VO.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://www.stream-link.org/tv_logo/fox_live.png" group-title="美国",FOX News
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300032J7_20221116T013353SQUARE.png_20221116013353.png" group-title="美国",FOX SOUL
+https://i.mjh.nz/SamsungTVPlus/USBA300032J7.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" tvg-chno="2050" group-title="美国",FOX Sports
+https://i.mjh.nz/PlutoTV/5a74b8e1e22a61737979c6bf-alt.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="美国",NBC News NOW
+https://i.mjh.nz/SamsungTVPlus/ESBC400003YM.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200005A0_20230222T041423SQUARE.png_20230222041424.png" group-title="美国",NBC Bay Area News
+https://i.mjh.nz/SamsungTVPlus/USBC3200005A0.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/colorLogoPNG.png" group-title="美国",News 12 New York
+https://lnc-news12.tubi.video/index.m3u8
 
 # 英国
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20230823T001644SQUARE.png_20230823001645.png" group-title="英国",BBC Earth
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200010LE_20230912T232702SQUARE.png_20230912232703.png" group-title="英国",BBC Food
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200010LE_20230912T232702SQUARE.png_20230912232703.png" group-title="英国",BBC Food 
 https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200012B8_20230726T004553SQUARE.png_20230726004554.png" group-title="英国",BBC Home & Garden
 https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.stream-link.org/tv_logo/gb_news.png" group-title="英国",GBN
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 
 # 国际
 
@@ -467,8 +481,15 @@ https://i.mjh.nz/SamsungTVPlus/FRBA1000008LK.m3u8
 https://i.mjh.nz/SamsungTVPlus/ITAJ2900001V9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="国际",CNA 亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://www.stream-link.org/tv_logo/dw_news.png" group-title="国际",DW NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="国际",France 24 En
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD1100003CW_20230823T033035SQUARE.png_20230823033035.png" group-title="国际",FRANCE 24 fast En
+https://i.mjh.nz/SamsungTVPlus/CHBD1100003CW.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/金砖电视.png" group-title="国际",TV BRICS
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="国际",NHK World
 
 # 纪实
 
@@ -1084,6 +1105,17 @@ Bloomberg Originals：https://i.mjh.nz/SamsungTVPlus/KRBB500044GP.m3u8
 Bloomberg Originals：https://i.mjh.nz/SamsungTVPlus/USAJ30000041W.m3u8
 FOX News：https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 France 24：https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+France 24 fast：https://i.mjh.nz/SamsungTVPlus/DEBD1100002II.m3u8
+France 24 fast：https://i.mjh.nz/SamsungTVPlus/ESBD1100001PQ.m3u8
+France 24 fast：https://i.mjh.nz/SamsungTVPlus/GBBD1100002L5.m3u8
+France 24 fast：https://i.mjh.nz/SamsungTVPlus/ITBD1100002WX.m3u8
+NBC News NOW：https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
+NBC News NOW：https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
+NBC News NOW：https://i.mjh.nz/SamsungTVPlus/ITBC4000028E.m3u8
+NBC News NOW：https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
+NBC News NOW：https://i.mjh.nz/PlutoTV/5df97894467dfa00091c873c-alt.m3u8
+NBC News NOW：https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+News 12 New York：https://i.mjh.nz/PlutoTV/5fff49cfb5cd4f0007c2b0dc-alt.m3u8
 
 # 数字
 求索纪录：https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
