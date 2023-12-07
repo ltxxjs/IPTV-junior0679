@@ -596,7 +596,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港",TVB无线新闻台
-https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
+http://gwtv.cnv8.tv:8097/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",TVB直播台
 https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",HOY国际财经台
@@ -610,21 +610,25 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="台湾",CTi中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="台湾",CTi中天新闻2
+https://tv.iill.top/youtube/WPfPjbOLNfE
 #EXTINF:-1 tvg-id="" tvg-name="华视新闻台" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="台湾", CTS华视新闻
 
 #EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻台.png" group-title="台湾",CTV中视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻.png" group-title="台湾",EBC 东森新闻
-
+http://gwtv.cnv8.tv:8097/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
 #EXTINF:-1 tvg-id="" tvg-name="东森财经新闻台" tvg-logo="https://epg.112114.xyz/logo/东森财经新闻.png" group-title="台湾",EBC 东森财经新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",SET三立
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="台湾",SET三立inews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS新闻台
-
-#EXTINF:-1 tvg-id="" tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="台湾",TVBS News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS
+http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+#EXTINF:-1 tvg-id="" tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="台湾",TVBS新闻
+http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="台湾",TVBS News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="台视新闻台" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="台湾",台视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
@@ -635,16 +639,16 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="台湾",寰宇新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="年代新闻" tvg-logo="https://epg.112114.xyz/logo/年代新闻.png" group-title="台湾",年代新闻
-
+http://gwtv.cnv8.tv:8097/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 #EXTINF:-1 tvg-id="" tvg-name="非凡新闻" tvg-logo="https://epg.112114.xyz/logo/非凡新闻.png" group-title="台湾",非凡新闻
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",Taiwan+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="台湾",Taiwan+
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 
 # 国际
-#EXTINF:-1 tvg-id="" tvg-name="半岛英语" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="国际",ALJAZEERA En 
+#EXTINF:-1 tvg-id="" tvg-name="半岛英语" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="国际",ALJAZEERA (en) 
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="半岛阿语" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="国际",ALJAZEERA Ar
+#EXTINF:-1 tvg-id="" tvg-name="半岛阿语" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="国际",ALJAZEERA (ar)
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900002J4_20230125T022415SQUARE.png_20230125022416.png" group-title="国际",Bloomberg Originals
 https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
@@ -658,7 +662,7 @@ https://bloomberg.com/media-manifest/streams/politics.m3u8
 https://i.mjh.nz/SamsungTVPlus/INBA5100021WP.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20230524T004227SQUARE.png_20230524004228.png" group-title="国际",Bloomberg TV+
 https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD800001VA_20230308T021713SQUARE.png_20230308021714.png" group-title="国际",CNN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",CNN
 https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD1900001JB_20230614T010050SQUARE.png_20230614010050.png" group-title="国际",CNN FAST
 https://i.mjh.nz/SamsungTVPlus/ATBD190000101.m3u8
@@ -711,7 +715,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/60492dcf1c9b6a00089f41df/colorLogoPNG.png" group-title="国际",Euronews Live
 https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://www.stream-link.org/tv_logo/fox_live.png" group-title="国际",FOX News
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="国际",FOX News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="国际",France 24 En
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
@@ -726,14 +730,15 @@ https://i.mjh.nz/SamsungTVPlus/USBC3200005A0.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/colorLogoPNG.png" group-title="国际",News 12 New York
 https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="国际",NHK World
-
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300020Y3_20220323T072225SQUARE.png_20220323072228.png" group-title="国际",Reuters
 https://i.mjh.nz/SamsungTVPlus/DEBA3300020Y3.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20230913T031519SQUARE.png_20230913031520.png" group-title="国际",America's Got Talent
 https://i.mjh.nz/SamsungTVPlus/GBBC2300002GG.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20230614T010139SQUARE.png_20230614010139.png" group-title="国际",American Idol
 https://i.mjh.nz/SamsungTVPlus/GBBC2300001X5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900015D3_20230712T021136SQUARE.png_20230712021136.png" group-title="国际",Adventure Earth
+https://i.mjh.nz/SamsungTVPlus/GBBC900015D3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20230823T001644SQUARE.png_20230823001645.png" group-title="国际",BBC Earth
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200010LE_20230912T232702SQUARE.png_20230912232703.png" group-title="国际",BBC Food 
@@ -758,6 +763,8 @@ https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBA300032J7.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" tvg-chno="2050" group-title="国际",FOX Sports
 https://i.mjh.nz/PlutoTV/5a74b8e1e22a61737979c6bf-alt.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000197P_20230726T033534SQUARE.png_20230726033537.png" group-title="国际",GoUSA TV
+https://i.mjh.nz/SamsungTVPlus/GBAJ49000197P.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900005T0_20221012T015916SQUARE.png_20221012015916.png" group-title="国际",Haunt TV
 https://i.mjh.nz/SamsungTVPlus/GBBC900005T0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA2200005ZA_20230426T015613SQUARE.png_20230426015614.png" group-title="国际",History Hit
@@ -768,6 +775,8 @@ https://i.mjh.nz/SamsungTVPlus/GBBC900013K9.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBD500002R4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ42000023T_20230125T022347SQUARE.png_20230125022347.png" group-title="国际",INFAST
 https://i.mjh.nz/SamsungTVPlus/GBAJ42000023T.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA220000751_20230125T022345SQUARE.png_20230125022346.png" group-title="国际",INWILD
+https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ42000038R_20230125T022343SQUARE.png_20230125022344.png" group-title="国际",INWONDER
 https://i.mjh.nz/SamsungTVPlus/GBAJ42000038R.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="国际",Love Nature 4K
@@ -810,12 +819,20 @@ https://i.mjh.nz/SamsungTVPlus/CABB2500020SS.m3u8
 https://i.mjh.nz/SamsungTVPlus/ATBA2200008XN.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900003JT_20230614T010153SQUARE.png_20230614010154.png" group-title="国际",The Chat Show Channel
 https://i.mjh.nz/SamsungTVPlus/GBBD1900003JT.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ2400003DD_20220323T071326SQUARE.png_20220323071329.png" group-title="国际",The Guardian
+https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900004G9_20230614T010155SQUARE.png_20230614010156.png" group-title="国际",The Wicked Tuna Channel
 https://i.mjh.nz/SamsungTVPlus/GBBC900004G9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000184K_20221026T004715SQUARE.png_20221026004716.png" group-title="国际",Travelxp
+https://i.mjh.nz/SamsungTVPlus/GBAJ49000184K.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100007AC_20230913T031544SQUARE.png_20230913031545.png" group-title="国际",True Crime UK from CBS Reality
 https://i.mjh.nz/SamsungTVPlus/GBBD1100007AC.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/金砖电视.png" group-title="国际",TV BRICS
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC300003UQ_20220412T152612SQUARE.png_20220412152612.png" group-title="国际",WaterBear
+https://i.mjh.nz/SamsungTVPlus/GBBC300003UQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4300002RW_20230125T022354SQUARE.png_20230125022354.png" group-title="国际",WildEarth
+https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20230823T033115SQUARE.png_20230823033116.png" group-title="国际",Wild Planet
 https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100001UI_20230510T044353SQUARE.png_20230510044353.png" group-title="国际"World War TV
@@ -1438,6 +1455,8 @@ CTV中视新闻：http://www.terrykang.xyz:35455/youtube/TCnaIE_SAtM
 SET三立inews：https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 TVBS News：http://www.terrykang.xyz:35455/youtube/m_dhMSvUCIc
 TVBS News：https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
+TVBS News：https://tv.iill.top/youtube/m_dhMSvUCIc
+TWIWAN+：https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 mnews·镜新闻：https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 
 # 国际
@@ -1516,6 +1535,7 @@ France 24 fast：https://i.mjh.nz/SamsungTVPlus/DEBD1100002II.m3u8
 France 24 fast：https://i.mjh.nz/SamsungTVPlus/ESBD1100001PQ.m3u8
 France 24 fast：https://i.mjh.nz/SamsungTVPlus/GBBD1100002L5.m3u8
 France 24 fast：https://i.mjh.nz/SamsungTVPlus/ITBD1100002WX.m3u8
+GBN：https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
 Tennis Channel：https://i.mjh.nz/SamsungTVPlus/CHBA22000080G.m3u8
 Tennis Channel：https://i.mjh.nz/SamsungTVPlus/DEBA2200008NL.m3u8
 Tennis Channel：https://i.mjh.nz/SamsungTVPlus/ESBD2600001ME.m3u8
