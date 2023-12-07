@@ -527,13 +527,27 @@ https://live.goodiptv.club/api/cqyx.php?id=cqrongmei
 #EXTINF:-1 tvg-id="" tvg-name="河北公共" tvg-logo="https://epg.112114.xyz/logo/河北公共.png" group-title="地方",河北公共
 
 #EXTINF:-1 tvg-id="" tvg-name="河南新闻" tvg-logo="https://epg.112114.xyz/logo/河南新闻.png" group-title="地方",河南新闻频道
-
+http://222.89.19.115:9901/tsfile/live/1005_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="河南公共" tvg-logo="https://epg.112114.xyz/logo/河南公共.png" group-title="地方",河南公共频道
+http://222.89.19.115:9901/tsfile/live/1007_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="" tvg-name="河南都市" tvg-logo="https://epg.112114.xyz/logo/河南都市.png" group-title="地方",河南都市频道
-
-#EXTINF:-1 tvg-id="" tvg-name="河南法制" tvg-logo="https://epg.112114.xyz/logo/河南法制.png" group-title="地方",河南法制频道
-
-#EXTINF:-1 tvg-id="" tvg-name="河南国际" tvg-logo="https://epg.112114.xyz/logo/河南国际.png" group-title="地方",河南国际频道
-
+http://222.89.19.115:9901/tsfile/live/1001_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="河南法制" tvg-logo="https://epg.112114.xyz/logo/河南法制.png" group-title="地方",河南法治频道
+http://222.89.19.115:9901/tsfile/live/1003_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="河南民生" tvg-logo="https://epg.112114.xyz/logo/河南民生.png" group-title="地方",河南民生频道
+http://222.89.19.115:9901/tsfile/live/1002_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="河南电视剧" tvg-logo="https://epg.112114.xyz/logo/河南电视剧.png" group-title="地方",河南电视剧频道
+http://222.89.19.115:9901/tsfile/live/1004_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="河南乡村频道" tvg-logo="https://epg.112114.xyz/logo/河南乡村频道.png" group-title="地方",河南乡村频道
+http://222.89.19.115:9901/tsfile/live/1008_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="河南国际" tvg-logo="https://epg.112114.xyz/logo/河南国际.png" group-title="地方",河南国际
+http://222.140.11.244:9901/tsfile/live/1033_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="河南梨园" tvg-logo="https://epg.112114.xyz/logo/河南梨园.png" group-title="地方",河南戏曲
+http://222.89.19.115:9901/tsfile/live/1011_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="河南收藏天下" tvg-logo="https://epg.112114.xyz/logo/河南收藏天下.png" group-title="地方",河南收藏天下
+http://222.89.19.115:9901/tsfile/live/1010_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河南中华功夫
+http://222.89.19.115:9901/tsfile/live/1012_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江新闻法治" tvg-logo="https://epg.112114.xyz/logo/黑龙江新闻法治.png" group-title="地方",黑龙江新闻法治
 http://[2409:8087:1a01:df::4036]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江文体" tvg-logo="https://epg.112114.xyz/logo/黑龙江文体.png" group-title="地方",黑龙江文体
