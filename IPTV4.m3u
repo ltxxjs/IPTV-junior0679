@@ -2,83 +2,83 @@
 
 # 央视
 
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV1.png" group-title="央视",CCTV-1 综合
-http://60.174.40.117:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV2.png" group-title="央视",CCTV-2 财经
-http://60.174.40.117:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV3.png" group-title="央视",CCTV-3 综艺
-http://60.174.40.117:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV4.png" group-title="央视",CCTV-4 中文国际
-http://60.174.40.117:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4欧洲" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV4欧洲.png" group-title="央视",CCTV-4 中文国际 欧洲
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv1.png" group-title="央视",CCTV-1 综合
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv2.png" group-title="央视",CCTV-2 财经
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv3.png" group-title="央视",CCTV-3 综艺
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv4.png" group-title="央视",CCTV-4 中文国际
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4欧洲" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv4欧洲.png" group-title="央视",CCTV-4 中文国际 欧洲
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/57/01.m3u8?&HlsSubType=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4美洲" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV4美洲.png" group-title="央视",CCTV-4 中文国际 美洲
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4美洲" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv4美洲.png" group-title="央视",CCTV-4 中文国际 美洲
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/57/01.m3u8?&HlsSubType=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV5.png" group-title="央视",CCTV-5 体育
-http://60.174.40.117:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV6.png" group-title="央视",CCTV-6 电影
-http://60.174.40.117:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV7.png" group-title="央视",CCTV-7 国防军事
-http://60.174.40.117:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV8.png" group-title="央视",CCTV-8 电视剧
-http://60.174.40.117:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV9.png" group-title="央视",CCTV-9 纪录
-http://60.174.40.117:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV10.png" group-title="央视",CCTV-10 科教
-http://60.174.40.117:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV11.png" group-title="央视",CCTV-11 戏曲
-http://60.174.40.117:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV12.png" group-title="央视",CCTV-12 社会与法
-http://60.174.40.117:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV13.png" group-title="央视",CCTV-13 新闻
-http://60.174.40.117:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV14.png" group-title="央视",CCTV-14 少儿
-http://60.174.40.117:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV15.png" group-title="央视",CCTV-15 音乐
-http://60.174.40.117:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv5.png" group-title="央视",CCTV-5 体育
 
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV17.png" group-title="央视",CCTV-17 农业农村
-http://171.213.0.99:4022/udp/239.93.0.92:5140
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv6.png" group-title="央视",CCTV-6 电影
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv7.png" group-title="央视",CCTV-7 国防军事
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv8.png" group-title="央视",CCTV-8 电视剧
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv9.png" group-title="央视",CCTV-9 纪录
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv10.png" group-title="央视",CCTV-10 科教
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv11.png" group-title="央视",CCTV-11 戏曲
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv12.png" group-title="央视",CCTV-12 社会与法
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv13.png" group-title="央视",CCTV-13 新闻
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv14.png" group-title="央视",CCTV-14 少儿
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv15.png" group-title="央视",CCTV-15 音乐
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv16.png" group-title="央视",CCTV-16 奥林匹克
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv17.png" group-title="央视",CCTV-17 农业农村
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv5+.png" group-title="央视",CCTV-5+ 体育赛事
 http://117.141.149.101:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV世界地理.png" group-title="央视",CCTV 世界地理
+#EXTINF:-1 tvg-id="" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv世界地理.png" group-title="央视",CCTV 世界地理
 
-#EXTINF:-1 tvg-id="" tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV风云剧场.png" group-title="央视",CCTV 风云剧场
+#EXTINF:-1 tvg-id="" tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv风云剧场.png" group-title="央视",CCTV 风云剧场
 
-#EXTINF:-1 tvg-id="" tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV第一剧场.png" group-title="央视",CCTV 第一剧场
+#EXTINF:-1 tvg-id="" tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv第一剧场.png" group-title="央视",CCTV 第一剧场
 
-#EXTINF:-1 tvg-id="" tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV女性时尚.png" group-title="央视",CCTV 女性时尚
+#EXTINF:-1 tvg-id="" tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv女性时尚.png" group-title="央视",CCTV 女性时尚
 
-#EXTINF:-1 tvg-id="" tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV怀旧剧场.png" group-title="央视",CCTV 怀旧剧场
+#EXTINF:-1 tvg-id="" tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv怀旧剧场.png" group-title="央视",CCTV 怀旧剧场
 
-#EXTINF:-1 tvg-id="" tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV风云音乐.png" group-title="央视",CCTV 风云音乐
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv风云音乐.png" group-title="央视",CCTV 风云音乐
 
-#EXTINF:-1 tvg-id="" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV央视台球.png" group-title="央视",CCTV 央视台球
+#EXTINF:-1 tvg-id="" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv央视台球.png" group-title="央视",CCTV 央视台球
 
-#EXTINF:-1 tvg-id="" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV风云足球.png" group-title="央视",CCTV 风云足球
+#EXTINF:-1 tvg-id="" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv风云足球.png" group-title="央视",CCTV 风云足球
 
-#EXTINF:-1 tvg-id="" tvg-name="文化精品" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV央视文化精品.png" group-title="央视",CCTV 央视文化精品
+#EXTINF:-1 tvg-id="" tvg-name="文化精品" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv央视文化精品.png" group-title="央视",CCTV 央视文化精品
 
-#EXTINF:-1 tvg-id="" tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV高尔夫网球.png" group-title="央视",CCTV 高尔夫·网球
+#EXTINF:-1 tvg-id="" tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv高尔夫网球.png" group-title="央视",CCTV 高尔夫·网球
 
-#EXTINF:-1 tvg-id="" tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV兵器科技.png" group-title="央视",CCTV 兵器科技
+#EXTINF:-1 tvg-id="" tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv兵器科技.png" group-title="央视",CCTV 兵器科技
 
-#EXTINF:-1 tvg-id="" tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV卫生健康.png" group-title="央视",CCTV 卫生健康
+#EXTINF:-1 tvg-id="" tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv卫生健康.png" group-title="央视",CCTV 卫生健康
 
-#EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV电视指南.png" group-title="央视",CCTV 电视指南
+#EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv电视指南.png" group-title="央视",CCTV 电视指南
 
-#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CGTN.png" group-title="央视",CGTN
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cgtn.png" group-title="央视",CGTN
 
-#EXTINF:-1 tvg-id="" tvg-name="CGTNDOCUMENTARY" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CGTN纪录.png" group-title="央视",CGTN DOCUMENTARY
+#EXTINF:-1 tvg-id="" tvg-name="CGTNDOCUMENTARY" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cgtn纪录.png" group-title="央视",CGTN DOCUMENTARY
 http://175.9.162.125:9999/udp/239.76.252.67:9000
-#EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CGTN俄语.png" group-title="央视",CGTN РУССКИЙ
+#EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cgtn俄语.png" group-title="央视",CGTN РУССКИЙ
 
-#EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CGTN法语.png" group-title="央视",CGTN FRANÇAIS
+#EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cgtn法语.png" group-title="央视",CGTN FRANÇAIS
 
-#EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CGTN西语.png" group-title="央视",CGTN ESPAÑOL
+#EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cgtn西语.png" group-title="央视",CGTN ESPAÑOL
 
-#EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CGTN阿拉伯语.png" group-title="央视",CGTN العربية‎
+#EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cgtn阿拉伯语.png" group-title="央视",CGTN العربية‎
 
 
 # 卫视
@@ -90,7 +90,7 @@ http://175.9.162.125:9999/udp/239.76.252.115:9000
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/东方卫视.png" group-title="卫视",东方卫视
 http://175.9.162.125:9999/udp/239.76.253.186:9000
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/四川卫视.png" group-title="卫视",四川卫视
-http://171.213.0.99:4022/udp/239.93.0.20:1235
+
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/天津卫视.png" group-title="卫视",天津卫视
 http://175.9.162.125:9999/udp/239.76.253.185:9000
 #EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/安徽卫视.png" group-title="卫视",安徽卫视
@@ -100,7 +100,7 @@ http://175.9.162.125:9999/udp/239.76.253.195:9000
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/广东卫视.png" group-title="卫视",广东卫视
 http://175.9.162.125:9999/udp/239.76.252.189:9000
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/广西卫视.png" group-title="卫视",广西卫视
-http://171.213.0.99:4022/udp/239.93.42.46:5140
+
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://175.9.162.125:9999/udp/239.76.253.181:9000
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/江西卫视.png" group-title="卫视",江西卫视
@@ -126,7 +126,7 @@ http://175.9.162.125:9999/udp/239.76.252.198:9000
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://175.9.162.125:9999/udp/239.76.252.197:9000
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/重庆卫视.png" group-title="卫视",重庆卫视
-http://171.213.0.99:4022/udp/239.93.1.107:5140
+
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://175.9.162.125:9999/udp/239.76.253.200:9000
 #EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/宁夏卫视.png" group-title="卫视",宁夏卫视
@@ -134,9 +134,9 @@ http://175.9.162.125:9999/udp/239.76.253.200:9000
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/陕西卫视.png" group-title="卫视",陕西卫视
 
 #EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/甘肃卫视.png" group-title="卫视",甘肃卫视
-http://171.213.0.99:4022/udp/239.93.0.81:5140
+
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/吉林卫视.png" group-title="卫视",吉林卫视
-http://171.213.0.99:4022/udp/239.93.0.248:5140
+
 #EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/云南卫视.png" group-title="卫视",云南卫视
 
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/三沙卫视.png" group-title="卫视",三沙卫视
