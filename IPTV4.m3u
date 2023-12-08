@@ -69,7 +69,7 @@ http://117.141.149.101:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CCTV电视指南.png" group-title="央视",CCTV 电视指南
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CGTN.png" group-title="央视",CGTN
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 #EXTINF:-1 tvg-id="" tvg-name="CGTNDOCUMENTARY" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CGTN纪录.png" group-title="央视",CGTN DOCUMENTARY
 http://175.9.162.125:9999/udp/239.76.252.67:9000
 #EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CGTN俄语.png" group-title="央视",CGTN РУССКИЙ
