@@ -450,6 +450,10 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/ind
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
 #EXTINF:-1 tvg-id="" tvg-name="云南都市" tvg-logo="https://live.fanmingming.com/tv/云南都市.png" group-title="地方",云南都市频道
 
+#EXTINF:-1 tvg-id="" tvg-name="云南影视" tvg-logo="https://live.fanmingming.com/tv/云南影视.png" group-title="地方",云南影视频道
+
+#EXTINF:-1 tvg-id="" tvg-name="云南娱乐" tvg-logo="https://live.fanmingming.com/tv/云南娱乐.png" group-title="地方",云南娱乐频道
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",贵州-2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",贵州-3
@@ -515,7 +519,7 @@ https://live.goodiptv.club/api/cqyx.php?id=cqseHD
 #EXTINF:-1,tvg-id="" tvg-name="重庆科教" tvg-logo="https://epg.112114.xyz/logo/重庆科教.png" group-title="地方",重庆科教
 https://live.goodiptv.club/api/cqyx.php?id=CQTVkejiaoHD
 #EXTINF:-1,tvg-id="" tvg-name="汽摩" tvg-logo="https://epg.112114.xyz/logo/汽摩.png" group-title="地方",重庆汽摩
-https://live.goodiptv.club/api/cqyx.php?id=cqcarSD
+http://wdnas.190301.xyz:6188/udp/225.0.4.195:7980
 #EXTINF:-1,tvg-id="" tvg-name="重庆移动高清" tvg-logo="https://epg.112114.xyz/logo/重庆移动.png" group-title="地方",重庆移动
 https://live.goodiptv.club/api/cqyx.php?id=mryyHD
 #EXTINF:-1,tvg-id="重广融媒" tvg-name="重广融媒" tvg-logo="https://epg.112114.xyz/logo/重广融媒.png" group-title="地方",重广融媒
@@ -1163,6 +1167,7 @@ CCTV超高清 8K：http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/
 湖南金鹰纪实：http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001230/index.m3u8?
 山东体育：http://119.183.206.43:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育：http://60.217.76.197:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆汽摩：https://live.goodiptv.club/api/cqyx.php?id=cqcarSD
 
 # 港澳台
 凤凰卫视中文台：http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/肥羊/224/3221228527/index.m3u8
@@ -1287,7 +1292,6 @@ Reuters：https://i.mjh.nz/SamsungTVPlus/FRBA3300024L2.m3u8
 Reuters：https://i.mjh.nz/SamsungTVPlus/GBBA33000219V.m3u8
 
 # 数字
-求索纪录：https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
 求索纪录：http://171.213.0.99:4022/udp/239.93.42.24:5140
 江苏移动8K测试：http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 
