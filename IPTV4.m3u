@@ -169,13 +169,13 @@ http://wot2020.asuscomm.com:20121/bysid/259
 https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
 #EXTINF:-1,tvg-id="" tvg-name="求索动物" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/求索动物.png" group-title="其他",求索动物
 
-#EXTINF:-1,tvg-id="" tvg-name="求索记录" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/求索记录.png" group-title="其他",求索记录
+#EXTINF:-1,tvg-id="" tvg-name="求索纪录" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/求索纪录.png" group-title="其他",求索纪录
 https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
 #EXTINF:-1,tvg-id="" tvg-name="求索科学" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/求索科学.png" group-title="其他",求索科学
 
 #EXTINF:-1,tvg-id="" tvg-name="求索生活" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/求索生活.png" group-title="其他",求索生活
 
-#EXTINF:-1,tvg-id="" tvg-name="北京纪实" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/BRTV纪实科教.png" group-title="其他",BRTV纪实科教
+#EXTINF:-1,tvg-id="" tvg-name="北京纪实" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京纪实科教.png" group-title="其他",BRTV纪实科教
 https://live.goodiptv.club/api/cqyx.php?id=bjayjsSD
 #EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/纪实人文.png" group-title="其他",纪实人文
 http://wdnas.190301.xyz:6188/udp/225.0.4.99:7980
