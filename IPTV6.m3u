@@ -169,17 +169,17 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2228825807_1324573507
 # 地方
 
 #EXTINF:-1,tvg-id="" tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="地方",BRTV新闻
-http://221.219.98.211:4022/udp/239.3.1.159:8000
+
 #EXTINF:-1,tvg-id="" tvg-name="北京财经" tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="地方",BRTV财经
-http://221.219.98.211:4022/udp/239.3.1.116:8000
+
 #EXTINF:-1,tvg-id="" tvg-name="北京生活" tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="地方",BRTV生活
-http://221.219.98.211:4022/udp/239.3.1.117:8000
+
 #EXTINF:-1,tvg-id="" tvg-name="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="地方",BRTV文艺
 
 #EXTINF:-1,tvg-id="" tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="地方",BRTV体育休闲
 
 #EXTINF:-1,tvg-id="" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="地方",BRTV影视
-http://221.219.98.211:4022/udp/239.3.1.158:8000
+
 #EXTINF:-1,tvg-id="" tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="地方",BRTV卡酷少儿
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="地方",BRTV纪实科教
@@ -191,17 +191,17 @@ http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="地方",BRTV体育休闲
 
 #EXTINF:-1,tvg-id="" tvg-name="北京淘剧场" tvg-logo="https://epg.112114.xyz/logo/淘剧场.png" group-title="地方",北京IPTV·淘剧场
-http://221.219.98.211:4022/udp/239.3.1.95:8001
+
 #EXTINF:-1,tvg-id="" tvg-name="北京淘娱乐" tvg-logo="https://epg.112114.xyz/logo/淘娱乐.png" group-title="地方",北京IPTV·淘娱乐
-http://221.219.98.211:4022/udp/239.3.1.100:8001
+
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/萌宠TV.png" group-title="地方",北京IPTV·萌宠TV
-http://221.219.98.211:4022/udp/239.3.1.102:8001
+
 #EXTINF:-1,tvg-id="" tvg-name="北京淘精彩" tvg-logo="" group-title="地方",北京IPTV·淘精彩
-http://221.219.98.211:4022/udp/239.3.1.178:8001
+
 #EXTINF:-1,tvg-id="" tvg-name="北京淘BABY" tvg-logo="" group-title="地方",北京IPTV·淘BABY
-http://221.219.98.211:4022/udp/239.3.1.238:8001
+
 #EXTINF:-1,tvg-id="" tvg-name="北京淘电影" tvg-logo="https://epg.112114.xyz/logo/淘电影.png" group-title="地方",北京IPTV·淘电影
-http://221.219.98.211:4022/udp/239.3.1.250:8001
+
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/大健康.png" group-title="地方",北京IPTV·大健康
 
 #EXTINF:-1,tvg-id="" tvg-name="北京4K" tvg-logo="https://epg.112114.xyz/logo/北京4K.png" group-title="地方",北京IPTV·4K超清
@@ -247,59 +247,59 @@ https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1 tvg-id="" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="地方",魅力足球
 
 #EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="地方",大湾区卫视
-http://61.140.235.103:4000/udp/239.77.0.215:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="地方",广东新闻
-http://61.140.235.103:4000/udp/239.77.0.173:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="地方",广东经济科教
-http://61.140.235.103:4000/udp/239.77.0.167:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="地方",广东民生
-http://61.140.235.103:4000/udp/239.77.0.225:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="地方",广东珠江
-http://61.140.235.103:4000/udp/239.77.0.114:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="地方",广东影视
-http://61.140.235.103:4000/udp/239.77.0.217:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="广东少儿" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png" group-title="地方",广东少儿
-http://61.140.235.103:4000/udp/239.77.0.250:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="广东综艺" tvg-logo="https://live.fanmingming.com/tv/广东综艺.png" group-title="地方",广东综艺
-http://61.140.235.103:4000/udp/239.77.1.236:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="地方",广东体育
-http://61.140.235.103:4000/udp/239.77.0.168:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="地方",嘉佳卡通
-http://61.140.235.103:4000/udp/239.77.0.179:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南国都市4K
-http://61.140.235.103:4000/udp/239.253.43.99:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="地方",广州综合
-http://61.140.235.103:4000/udp/239.253.43.71:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="地方",广州新闻
-http://61.140.235.103:4000/udp/239.253.43.72:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="广州影视" tvg-logo="https://live.fanmingming.com/tv/广州影视.png" group-title="地方",广州影视
-http://61.140.235.103:4000/udp/239.253.43.73:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="广州法治" tvg-logo="https://live.fanmingming.com/tv/广州法治.png" group-title="地方",广州法治
-http://61.140.235.103:4000/udp/239.253.43.74:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="深圳公共" tvg-logo="https://epg.112114.xyz/logo/深圳公共.png" group-title="地方",深圳公共频道
-http://61.140.235.103:4000/udp/239.77.1.126:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="深圳财经生活" tvg-logo="https://epg.112114.xyz/logo/深圳财经.png" group-title="地方",深圳财经生活
-http://61.140.235.103:4000/udp/239.77.1.242:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="深圳都市" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png" group-title="地方",深圳都市频道
-http://61.140.235.103:4000/udp/239.77.1.124:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧.png" group-title="地方",深圳电视剧频道
-http://61.140.235.103:4000/udp/239.77.1.125:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="深圳娱乐" tvg-logo="https://epg.112114.xyz/logo/深圳娱乐.png" group-title="地方",深圳娱乐频道
-http://61.140.235.103:4000/udp/239.77.1.243:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="深圳少儿" tvg-logo="https://epg.112114.xyz/logo/深圳少儿.png" group-title="地方",深圳少儿频道
-http://61.140.235.103:4000/udp/239.77.1.244:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="深圳体育健康" tvg-logo="https://epg.112114.xyz/logo/深圳体育.png" group-title="地方",深圳体育健康
-http://61.140.235.103:4000/udp/239.77.1.128:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="深圳龙岗" tvg-logo="https://epg.112114.xyz/logo/深圳龙岗.png" group-title="地方",深圳龙岗频道
-http://61.140.235.103:4000/udp/239.77.1.223:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="深圳宝安" tvg-logo="https://epg.112114.xyz/logo/深圳宝安.png" group-title="地方",深圳宝安频道
-http://61.140.235.103:4000/udp/239.77.1.67:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="深圳东部" tvg-logo="https://epg.112114.xyz/logo/深圳东部.png" group-title="地方",深圳东部频道
-http://61.140.235.103:4000/udp/239.77.1.224:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="深圳众创TV" tvg-logo="https://epg.112114.xyz/logo/深圳众创TV.png" group-title="地方",深圳众创TV
-http://61.140.235.103:4000/udp/239.77.1.247:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳移动电视
-http://61.140.235.103:4000/udp/239.77.1.175:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="地方",浙江新闻
 http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江经视" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="地方",浙江经济生活
@@ -351,27 +351,27 @@ http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3614839407_-1644050596/o
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/suzhou4k.png" group-title="地方",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="安徽公共" tvg-logo="https://epg.112114.xyz/logo/安徽公共.png" group-title="地方",安徽公共
-http://117.64.135.99:4022/udp/238.1.79.43:4456
+
 #EXTINF:-1 tvg-id="" tvg-name="安徽经济生活" tvg-logo="https://epg.112114.xyz/logo/安徽经济生活.png" group-title="地方",安徽经济生活
-http://117.64.135.99:4022/udp/238.1.79.44:4464
+
 #EXTINF:-1 tvg-id="" tvg-name="安徽影视" tvg-logo="https://epg.112114.xyz/logo/安徽影视.png" group-title="地方",安徽影视
-http://117.64.135.99:4022/udp/238.1.79.42:4448
+
 #EXTINF:-1 tvg-id="" tvg-name="安徽农业科教" tvg-logo="https://epg.112114.xyz/logo/安徽农业科教.png" group-title="地方",安徽农业·科教
-http://117.64.135.99:4022/udp/238.1.79.40:4432
+
 #EXTINF:-1 tvg-id="" tvg-name="安徽综艺体育" tvg-logo="https://epg.112114.xyz/logo/安徽综艺体育.png" group-title="地方",安徽综艺·体育
-http://117.64.135.99:4022/udp/238.1.79.41:4440
+
 #EXTINF:-1 tvg-id="" tvg-name="安徽国际" tvg-logo="https://epg.112114.xyz/logo/安徽国际.png" group-title="地方",安徽国际
-http://117.64.135.99:4022/udp/238.1.78.61:6360
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",屯溪融媒
-http://117.64.135.99:4022/udp/238.1.79.45:4472
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海豚少儿
-http://117.64.135.99:4022/udp/238.1.79.32:4368
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海豚健康
-http://117.64.135.99:4022/udp/238.1.79.33:4376
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海豚影视
-http://117.64.135.99:4022/udp/238.1.79.34:4384
+
 #EXTINF:-1 tvg-id="" tvg-name="合肥新闻" tvg-logo="https://epg.112114.xyz/logo/合肥新闻.png" group-title="地方",合肥新闻
-http://117.64.135.99:4022/udp/238.1.78.111:6760
+
 #EXTINF:-1 tvg-id="" tvg-name="山东新闻" tvg-logo="https://epg.112114.xyz/logo/山东新闻.png" group-title="地方",山东新闻
 http://119.183.206.43:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="山东齐鲁" tvg-logo="https://epg.112114.xyz/logo/山东齐鲁.png" group-title="地方",山东齐鲁
@@ -451,7 +451,7 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/ind
 #EXTINF:-1 tvg-id="" tvg-name="云南都市" tvg-logo="https://live.fanmingming.com/tv/云南都市.png" group-title="地方",云南都市频道
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",贵州-2
-http://[2409:8087:6a01:1010::32]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225682/1/index.m3u8?fmt=ts2hls
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",贵州-3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",贵州-4
@@ -1439,19 +1439,6 @@ CCTV超高清 8K：http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/
 五星体育：http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
 劲爆体育：http://alltzy.cn/dl/bestv.php?id=jbtyhd8m/8000000
 乐游：http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001200/index.m3u8?
-广东珠江：http://61.140.235.103:4000/udp/239.77.0.1:5146
-广东珠江：http://119.145.89.210:9901/tsfile/live/1005_1.m3u8
-广东经济科教：http://61.140.235.103:4000/udp/239.77.0.85:5146
-广东体育：http://61.140.235.103:4000/udp/239.77.0.112:5146
-广东综艺 4K：http://61.140.235.103:4000/udp/239.77.1.237:5146
-广东综艺(4k)：http://61.140.235.103:4000/udp/239.77.0.244:5146
-广东综艺 宽色域(4k)：http://61.140.235.103:4000/udp/239.77.0.246:5146
-广东综艺(4k)：http://61.140.235.103:4000/udp/239.77.0.245:5146
-广东综艺 宽色域AVS2(4k) (AVS2)：http://61.140.235.103:4000/udp/239.77.0.252:5146
-深圳公共频道：http://61.140.235.103:4000/udp/239.77.1.178:5146
-深圳都市频道：http://61.140.235.103:4000/udp/239.77.1.176:5146
-深圳电视剧频道：http://61.140.235.103:4000/udp/239.77.1.177:5146
-深圳体育健康：http://61.140.235.103:4000/udp/239.77.1.140:5146
 湖南金鹰纪实：http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001230/index.m3u8?
 山东体育：http://119.183.206.43:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育：http://60.217.76.197:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
