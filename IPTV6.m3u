@@ -77,7 +77,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806fb631afe/index.m
 #EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视",CGTN西语
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859LpCL6J7ZtZvSzaGNoejhX%2FbNh%2FUg28dwPszgBZkEAMg2VxNQuvSmdjhzvIIS4yJP4
 #EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视",CGTN阿语
-
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视",CETV1
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="央视",CETV2
@@ -581,6 +581,91 @@ http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",吉林公共新闻
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",吉林都市
+
+#EXTINF:-1 group-title="未分类",汉中教育频道
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001263/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",汉中公共频道
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001262/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",1585新闻综合
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001585/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",2797公共频道
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002797/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",榆林综合
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001710/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",1721综合
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001721/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",宝鸡公共频道
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001737/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",商洛公共
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002765/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",商洛综合
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001734/index.m3u8?virtualDomain=yinhe.live_hls.zte.com                
+#EXTINF:-1 group-title="未分类",西安教育台
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001789/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",咸阳综合
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001799/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",宝鸡综合频道
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001829/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",宁强综合频道 
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001870/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",佛坪综合频道
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001929/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",西乡融媒
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002207/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",城固
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002375/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",洋县电视台-1
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002405/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",千阳
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002425/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",吴起电视台
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002556/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",2564 ××××××
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002564/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",扶风
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002563/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",FGTV-1
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002565/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",神木-1
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002575/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",紫阳综合
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002605/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",榆阳1
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002685/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",HSTV-1
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002695/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",旬邑
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002708/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",志丹
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002757/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",2755
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002755/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",岚皋电视台
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002761/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",合阳
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002762/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",宁陕电视台 
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002787/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",新闻综合 
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002792/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",2806
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002806/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",镇坪综合 
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002815/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",2807 CTV
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002807/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",CHTV-淳化
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002880/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",眉县新闻综合 
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002882/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",2885
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002885/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",太白电视台
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002881/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",LYTV
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002895/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",子洲TV
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002915/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-name="甘肃都市" tvg-logo="https://epg.112114.xyz/logo/甘肃都市.png" group-title="地方",甘肃都市
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226248/1.m3u8
