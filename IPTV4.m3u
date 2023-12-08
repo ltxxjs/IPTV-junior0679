@@ -165,11 +165,13 @@ http://wot2020.asuscomm.com:20121/bysid/259
 #EXTINF:-1,tvg-id="" tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="其他",求索动物
 
 #EXTINF:-1,tvg-id="" tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="其他",求索记录
-
+https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
 #EXTINF:-1,tvg-id="" tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="其他",求索科学
 
 #EXTINF:-1,tvg-id="" tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="其他",求索生活
 
+#EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="其他",上海纪实人文
+http://wdnas.190301.xyz:6188/udp/225.0.4.99:7980
 #EXTINF:-1,tvg-id="" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="其他",金鹰纪实
 http://175.9.162.125:9999/udp/239.76.252.122:9000
 #EXTINF:-1 tvg-id="" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="地方",快乐垂钓
