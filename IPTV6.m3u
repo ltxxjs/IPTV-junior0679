@@ -170,6 +170,22 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2228825807_1324573507
 
 # 地方
 
+## 云南
+
+#EXTINF:-1 tvg-id="" tvg-name="云南都市" tvg-logo="https://live.fanmingming.com/tv/云南都市.png" group-title="地方",云南都市
+
+#EXTINF:-1 tvg-id="" tvg-name="云南影视" tvg-logo="https://live.fanmingming.com/tv/云南影视.png" group-title="地方",云南影视
+http://106.57.1.135:55555/udp/239.200.200.15:8856
+#EXTINF:-1 tvg-id="" tvg-name="云南娱乐" tvg-logo="https://live.fanmingming.com/tv/云南娱乐.png" group-title="地方",云南娱乐
+
+#EXTINF:-1 tvg-id="" tvg-name="云南康旅" tvg-logo="https://live.fanmingming.com/tv/云南娱乐.png" group-title="地方",云南康旅
+http://106.57.1.135:55555/udp/239.200.200.31:8860
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",楚雄新闻
+http://106.57.1.135:55555/udp/239.200.200.116:8708
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",楚雄文旅
+http://106.57.1.135:55555/udp/239.200.200.117:8712
+
 ## 北京
 
 #EXTINF:-1,tvg-id="" tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京新闻.png" group-title="北京",BRTV新闻
@@ -503,6 +519,9 @@ http://182.96.238.25:8888/udp/239.252.220.100:5140
 http://182.96.238.25:8888/udp/239.252.220.241:5140
 #EXTINF:-1 tvg-id="" tvg-name="江西教育" tvg-logo="" group-title="地方",江西教育
 http://182.96.238.25:8888/udp/239.252.219.115:5140
+
+## 湖北
+
 #EXTINF:-1 tvg-id="" tvg-name="湖北公共·新闻" tvg-logo="https://epg.112114.xyz/logo/湖北公共.png" group-title="地方",湖北公共新闻
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
 #EXTINF:-1 tvg-id="" tvg-name="湖北经济" tvg-logo="https://epg.112114.xyz/logo/湖北经视.png" group-title="地方",湖北经视
@@ -517,6 +536,23 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
 #EXTINF:-1 tvg-id="" tvg-name="湖北综合" tvg-logo="https://epg.112114.xyz/logo/湖北综合.png" group-title="地方",湖北综合
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
+#EXTINF:-1 tvg-id="" tvg-name="武汉新闻综合" tvg-logo="https://epg.112114.xyz/logo/武汉新闻综合.png" group-title="地方",武汉新闻综合
+http://27.16.178.143:4567/rtp/239.69.1.145:10506
+#EXTINF:-1 tvg-id="" tvg-name="武汉电视剧" tvg-logo="https://epg.112114.xyz/logo/武汉电视剧.png" group-title="地方",武汉电视剧
+http://27.16.178.143:4567/rtp/239.69.1.146:10512
+#EXTINF:-1 tvg-id="" tvg-name="武汉科技生活" tvg-logo="https://epg.112114.xyz/logo/武汉科技生活.png" group-title="地方",武汉科技生活
+http://27.16.178.143:4567/rtp/239.69.1.251:11148
+#EXTINF:-1 tvg-id="" tvg-name="武汉经济" tvg-logo="https://epg.112114.xyz/logo/武汉经济.png" group-title="地方",武汉经济
+http://27.16.178.143:4567/rtp/239.69.1.35:9850
+#EXTINF:-1 tvg-id="" tvg-name="武汉文体" tvg-logo="https://epg.112114.xyz/logo/武汉文体.png" group-title="地方",武汉文体
+http://27.16.178.143:4567/rtp/239.69.1.147:10518
+#EXTINF:-1 tvg-id="" tvg-name="武汉外语" tvg-logo="https://epg.112114.xyz/logo/武汉外语.png" group-title="地方",武汉外语
+http://27.16.178.143:4567/rtp/239.69.1.36:9856
+#EXTINF:-1 tvg-id="" tvg-name="武汉教育" tvg-logo="https://epg.112114.xyz/logo/武汉教育.png" group-title="地方",武汉教育
+http://27.16.178.143:4567/rtp/239.69.1.60:9994
+
+## 湖南
+
 #EXTINF:-1 tvg-id="" tvg-name="湖南经视" tvg-logo="https://live.fanmingming.com/tv/湖南经视.png" group-title="地方",湖南经视
 http://175.9.162.59:9999/udp/239.76.252.116:9000
 #EXTINF:-1 tvg-id="" tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/湖南爱晚.png" group-title="地方",湖南爱晚
@@ -549,10 +585,26 @@ http://175.9.162.59:9999/udp/239.76.252.23:9000
 http://175.9.162.59:9999/udp/239.76.252.204:9000
 #EXTINF:-1 tvg-id="" tvg-name="长沙政法" tvg-logo="https://epg.112114.xyz/logo/长沙政法.png" group-title="地方",长沙政法频道
 http://175.9.162.59:9999/udp/239.76.253.122:9000
-#EXTINF:-1 tvg-id="" tvg-name="广西新闻" tvg-logo="https://epg.112114.xyz/logo/广西新闻.png" group-title="地方",广西新闻
 
+## 广西
+
+#EXTINF:-1 tvg-id="" tvg-name="广西新闻" tvg-logo="https://epg.112114.xyz/logo/广西新闻.png" group-title="地方",广西新闻
+http://180.140.127.231:8000/udp/239.81.0.248:4056
+#EXTINF:-1 tvg-id="" tvg-name="广西影视" tvg-logo="https://epg.112114.xyz/logo/广西影视.png" group-title="地方",广西影视
+http://180.140.127.231:8000/udp/239.81.0.250:4056
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南宁新闻综合
-http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8?zguangxd
+http://180.140.127.231:8000/udp/239.81.0.241:4056
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南宁文旅生活
+http://180.140.127.231:8000/udp/239.81.0.139:4056
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南宁公共
+http://180.140.127.231:8000/udp/239.81.0.141:4056
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南宁影视娱乐
+http://180.140.127.231:8000/udp/239.81.0.140:4056
+
+## 福建
+
+#EXTINF:-1 tvg-id="" tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/海峡卫视.png" group-title="地方",海峡卫视
+http://121.206.28.220:9999/udp/239.61.2.151:8894
 #EXTINF:-1 tvg-id="" tvg-name="福建新闻" tvg-logo="https://epg.112114.xyz/logo/福建新闻.png" group-title="地方",福建新闻
 http://121.206.28.220:9999/udp/239.61.4.4:1025
 #EXTINF:-1 tvg-id="" tvg-name="福建综合" tvg-logo="https://epg.112114.xyz/logo/福建综合.png" group-title="地方",福建综合
@@ -577,6 +629,9 @@ http://121.206.28.220:9999/udp/239.61.5.99:1025
 http://121.206.28.220:9999/udp/239.61.4.140:1025
 #EXTINF:-1 tvg-id="" tvg-name="福州新闻" tvg-logo="https://epg.112114.xyz/logo/福州新闻.png" group-title="地方",福州FZTV-1
 http://121.206.28.220:9999/udp/239.61.5.97:1025
+
+## 海南
+
 #EXTINF:-1 tvg-id="" tvg-name="海南新闻" tvg-logo="https://epg.112114.xyz/logo/海南新闻.png" group-title="地方",海南新闻
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?IAS
 #EXTINF:-1 tvg-id="" tvg-name="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="地方",海南文旅
@@ -587,14 +642,8 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/ind
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?fmmv6
 #EXTINF:-1 tvg-id="" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="地方",海南少儿
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
-#EXTINF:-1 tvg-id="" tvg-name="云南都市" tvg-logo="https://live.fanmingming.com/tv/云南都市.png" group-title="地方",云南都市
 
-#EXTINF:-1 tvg-id="" tvg-name="云南影视" tvg-logo="https://live.fanmingming.com/tv/云南影视.png" group-title="地方",云南影视
-http://106.57.1.135:55555/udp/239.200.200.15:8856
-#EXTINF:-1 tvg-id="" tvg-name="云南娱乐" tvg-logo="https://live.fanmingming.com/tv/云南娱乐.png" group-title="地方",云南娱乐
-
-#EXTINF:-1 tvg-id="" tvg-name="云南康旅" tvg-logo="https://live.fanmingming.com/tv/云南娱乐.png" group-title="地方",云南康旅
-http://106.57.1.135:55555/udp/239.200.200.31:8860
+## 贵州
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",贵州-2
 
@@ -608,11 +657,32 @@ http://106.57.1.135:55555/udp/239.200.200.31:8860
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",贵州-7
 
+## 河北
+
 #EXTINF:-1 tvg-id="" tvg-name="河北经济" tvg-logo="https://epg.112114.xyz/logo/河北经济生活.png" group-title="地方",河北经济生活
-
-#EXTINF:-1 tvg-id="" tvg-name="河北少儿科教" tvg-logo="https://epg.112114.xyz/logo/河北少儿科教.png" group-title="地方",河北少儿科教
-
+http://106.113.147.149:2222/rtp/239.254.200.18:6000
 #EXTINF:-1 tvg-id="" tvg-name="河北公共" tvg-logo="https://epg.112114.xyz/logo/河北公共.png" group-title="地方",河北公共
+http://106.113.147.149:2222/rtp/239.254.200.22:6000
+#EXTINF:-1 tvg-id="" tvg-name="河北少儿科教" tvg-logo="https://epg.112114.xyz/logo/河北少儿科教.png" group-title="地方",河北少儿科教
+http://106.113.147.149:2222/rtp/239.254.200.21:6000
+#EXTINF:-1 tvg-id="" tvg-name="河北都市" tvg-logo="https://epg.112114.xyz/logo/河北都市.png" group-title="地方",河北都市
+http://106.113.147.149:2222/rtp/239.254.200.19:6000
+#EXTINF:-1 tvg-id="" tvg-name="河北影视剧" tvg-logo="https://epg.112114.xyz/logo/河北影视剧.png" group-title="地方",河北影视剧
+http://106.113.147.149:2222/rtp/239.254.200.20:6000
+#EXTINF:-1 tvg-id="" tvg-name="河北农民" tvg-logo="https://epg.112114.xyz/logo/河北农民.png" group-title="地方",河北农民
+http://106.113.147.149:2222/rtp/239.254.200.23:6000
+#EXTINF:-1 tvg-id="" tvg-name="睛彩河北" tvg-logo="https://epg.112114.xyz/logo/睛彩河北.png" group-title="地方",睛彩河北
+http://106.113.147.149:2222/rtp/239.254.200.27:6000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/石家庄新闻.png" group-title="地方",石家庄新闻综合
+http://106.113.147.149:2222/rtp/239.254.200.157:6000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/石家庄娱乐.png" group-title="地方",石家庄娱乐
+http://106.113.147.149:2222/rtp/239.254.200.29:6000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/石家庄生活.png" group-title="地方",石家庄生活
+http://106.113.147.149:2222/rtp/239.254.200.30:6000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/石家庄都市.png" group-title="地方",石家庄都市
+http://106.113.147.149:2222/rtp/239.254.200.31:6000
+
+## 河南
 
 #EXTINF:-1 tvg-id="" tvg-name="河南新闻" tvg-logo="https://epg.112114.xyz/logo/河南新闻.png" group-title="地方",河南新闻频道
 http://219.156.48.95:9999/udp/225.1.4.56:1085
@@ -652,6 +722,9 @@ http://219.156.48.95:9999/udp/225.1.4.147:1183
 http://219.156.48.95:9999/udp/225.1.4.149:1185
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",郑州教育
 http://219.156.48.95:9999/udp/225.1.4.191:1241
+
+## 黑龙江
+
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江新闻法治" tvg-logo="https://epg.112114.xyz/logo/黑龙江新闻法治.png" group-title="地方",黑龙江新闻法治
 http://[2409:8087:1a01:df::4036]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江文体" tvg-logo="https://epg.112114.xyz/logo/黑龙江文体.png" group-title="地方",黑龙江文体
@@ -664,6 +737,9 @@ http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江影视" tvg-logo="https://epg.112114.xyz/logo/黑龙江影视.png" group-title="地方",黑龙江影视
 http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
+
+## 辽宁
+
 #EXTINF:-1 tvg-id="" tvg-name="辽宁公共" tvg-logo="https://epg.112114.xyz/logo/辽宁公共.png" group-title="地方",辽宁公共
 http://119.113.236.167:60000/rtp/232.0.0.156:9322
 #EXTINF:-1 tvg-id="" tvg-name="辽宁经济" tvg-logo="https://epg.112114.xyz/logo/辽宁经济.png" group-title="地方",辽宁经济
@@ -709,6 +785,7 @@ http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226285/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",兰州文旅频道
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226597/1.m3u8
 
+## 内蒙古
 
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古新闻综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古新闻综合.png" group-title="地方",内蒙古新闻综合
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
