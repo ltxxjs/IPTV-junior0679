@@ -171,6 +171,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2228825807_1324573507
 # 地方
 
 ## 北京
+
 #EXTINF:-1,tvg-id="" tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京新闻.png" group-title="北京",BRTV新闻
 http://221.216.69.4:8180/udp/239.3.1.159:8000
 #EXTINF:-1,tvg-id="" tvg-name="北京财经" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京财经.png" group-title="北京",BRTV财经
@@ -181,125 +182,131 @@ http://221.216.69.4:8180/udp/239.3.1.117:8000
 http://221.216.69.4:8180/udp/239.3.1.242:8000
 #EXTINF:-1,tvg-id="" tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京影视.png" group-title="北京",BRTV影视
 http://221.216.69.4:8180/udp/239.3.1.158:8000
-#EXTINF:-1,tvg-id="" tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京卡酷少儿.png" group-title="北京",BRTV卡酷少儿
+#EXTINF:-1,tvg-id="" tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京卡酷少儿.png" group-title="北京",BRTV卡酷少儿
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="北京纪实" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京纪实科教.png" group-title="北京",BRTV纪实科教
+#EXTINF:-1,tvg-id="" tvg-name="纪实科教" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京纪实科教.png" group-title="北京",BRTV纪实科教
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw1542052607_1430934483/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1669704438&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-id="" tvg-name="北京纪实" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京纪实科教8k.png" group-title="北京",BRTV纪实科教8K
+#EXTINF:-1,tvg-id="" tvg-name="纪实科教8K" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京纪实科教8k.png" group-title="北京",BRTV纪实科教8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京体育休闲.png" group-title="北京",BRTV体育休闲
 http://221.216.69.4:8180/udp/239.3.1.243:8000
 #EXTINF:-1,tvg-id="" tvg-name="北京国际频道" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京国际.png" group-title="北京",BRTV International
 http://221.216.69.4:8180/udp/239.3.1.235:8000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京淘剧场.png" group-title="北京",北京IPTV·淘剧场
+#EXTINF:-1,tvg-id="" tvg-name="北京淘剧场" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京淘剧场.png" group-title="北京",北京IPTV·淘剧场
 http://221.216.69.4:8180/udp/239.3.1.95:8001
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京淘娱乐.png" group-title="北京",北京IPTV·淘娱乐
+#EXTINF:-1,tvg-id="" tvg-name="北京淘娱乐" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京淘娱乐.png" group-title="北京",北京IPTV·淘娱乐
 http://221.216.69.4:8180/udp/239.3.1.100:8001
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京萌宠tv.png" group-title="北京",北京IPTV·萌宠TV
 http://221.216.69.4:8180/udp/239.3.1.102:8001
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京淘精彩.png" group-title="北京",北京IPTV·淘精彩
+#EXTINF:-1,tvg-id="" tvg-name="北京淘精彩" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京淘精彩.png" group-title="北京",北京IPTV·淘精彩
 http://221.216.69.4:8180/udp/239.3.1.178:8001
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京淘baby.png" group-title="北京",北京IPTV·淘BABY
+#EXTINF:-1,tvg-id="" tvg-name="北京淘BABY" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京淘baby.png" group-title="北京",北京IPTV·淘BABY
 http://221.216.69.4:8180/udp/239.3.1.238:8001
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京淘电影.png" group-title="北京",北京IPTV·淘电影
+#EXTINF:-1,tvg-id="" tvg-name="北京淘电影" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京淘电影.png" group-title="北京",北京IPTV·淘电影
 http://221.216.69.4:8180/udp/239.3.1.250:8001
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京大健康.png" group-title="北京",北京IPTV·大健康
 http://221.216.69.4:8180/udp/239.3.1.251:8001
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京4k超清.png" group-title="北京",北京IPTV·4K超清
+#EXTINF:-1,tvg-id="" tvg-name="北京4K" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京4k超清.png" group-title="北京",北京IPTV·4K超清
 http://221.216.69.4:8180/udp/239.3.1.249:8001
+
 ## 上海
-#EXTINF:-1 tvg-id="" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海",新闻综合
+
+#EXTINF:-1 tvg-id="" tvg-name="上海新闻综合" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/上海新闻综合.png" group-title="上海",新闻综合
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海",东方影视
+#EXTINF:-1 tvg-id="" tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/上海都市.png" group-title="上海",都市频道
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/东方影视.png" group-title="上海",东方影视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="上海",ICS
+#EXTINF:-1 tvg-id="" tvg-name="ICS外语" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/ics外语.png" group-title="上海",ICS外语
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海",五星体育
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/东方财经.png" group-title="上海",东方财经
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海",第一财经
+#EXTINF:-1 tvg-id="" tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/第一财经.png" group-title="上海",第一财经
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海",都市频道
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="上海",生活时尚
+#EXTINF:-1 tvg-id="" tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/生活时尚.png" group-title="上海",生活时尚
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="上海",法治天地
+#EXTINF:-1 tvg-id="" tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/法治天地.png" group-title="上海",法治天地
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/SITV都市剧场.png" group-title="上海",都市剧场
+#EXTINF:-1 tvg-id="" tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/都市剧场.png" group-title="上海",都市剧场
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="上海",七彩戏剧
+#EXTINF:-1 tvg-id="" tvg-name="七彩戏剧" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/七彩戏剧.png" group-title="上海",七彩戏剧
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上海教育台" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="上海",上海教育电视台
+#EXTINF:-1 tvg-id="" tvg-name="上海教育台" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/上海教育.png" group-title="上海",上海教育台
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="上海",金色学堂
+#EXTINF:-1 tvg-id="" tvg-name="金色学堂" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/金色学堂.png" group-title="上海",金色学堂
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/xuandong.png" group-title="上海",哈哈炫动
+#EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/哈哈炫动.png" group-title="上海",哈哈炫动
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="上海",游戏风云
+#EXTINF:-1 tvg-id="" tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/游戏风云.png" group-title="上海",游戏风云
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="上海",欢笑剧场
+#EXTINF:-1 tvg-id="" tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/欢笑剧场.png" group-title="上海",欢笑剧场
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海",纪实人文
+#EXTINF:-1 tvg-id="" tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/纪实人文.png" group-title="上海",纪实人文
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1669704189&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="" tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="上海",乐游
+#EXTINF:-1 tvg-id="" tvg-name="乐游" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo//乐游.png" group-title="上海",乐游
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="上海",劲爆体育
+#EXTINF:-1 tvg-id="" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/五星体育.png" group-title="上海",五星体育
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/劲爆体育.png" group-title="上海",劲爆体育
 https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1 tvg-id="" tvg-name="魅力足球" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/魅力足球.png" group-title="上海",魅力足球
 https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
+
 ## 广东
-#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="地方",大湾区卫视
+
+#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/大湾区卫视.png" group-title="地方",大湾区卫视
 http://116.22.253.78:8899/udp/239.77.0.215:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png" group-title="地方",广东新闻
+#EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/广东新闻.png" group-title="地方",广东新闻
 http://116.22.253.78:8899/udp/239.77.0.173:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="地方",广东经济科教
+#EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/广东经济科教.png" group-title="地方",广东经济科教
 http://116.22.253.78:8899/udp/239.77.0.167:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="地方",广东民生
+#EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/广东民生.png" group-title="地方",广东民生
 http://116.22.253.78:8899/udp/239.77.0.225:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="地方",广东珠江
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/广东珠江.png" group-title="地方",广东珠江
 http://116.22.253.78:8899/udp/239.77.0.114:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="地方",广东影视
+#EXTINF:-1 tvg-id="" tvg-name="广东影视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/广东影视.png" group-title="地方",广东影视
 http://116.22.253.78:8899/udp/239.77.0.217:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东少儿" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png" group-title="地方",广东少儿
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/广东少儿.png" group-title="地方",广东少儿
 http://116.22.253.78:8899/udp/239.77.0.250:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东综艺" tvg-logo="https://live.fanmingming.com/tv/广东综艺.png" group-title="地方",广东综艺
-http://116.22.253.78:8899/udp/239.77.1.236:5146
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="地方",广东体育
+#EXTINF:-1 tvg-id="" tvg-name="广东综艺" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/广东综艺.png" group-title="地方",广东综艺
+
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/广东体育.png" group-title="地方",广东体育
 http://116.22.253.78:8899/udp/239.77.0.168:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南国都市4K
-http://116.22.253.78:8899/udp/239.253.43.99:5146
-#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="地方",广州综合
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/广东4K超高清.png" group-title="地方",广东4K超高清
+http://116.22.253.78:8899/udp/239.77.1.236:5146
+#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/广州综合.png" group-title="地方",广州综合
 http://116.22.253.78:8899/udp/239.253.43.72:5146
-#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="地方",广州新闻
+#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/广州新闻.png" group-title="地方",广州新闻
 http://116.22.253.78:8899/udp/239.253.43.72:5146
-#EXTINF:-1 tvg-id="" tvg-name="广州影视" tvg-logo="https://live.fanmingming.com/tv/广州影视.png" group-title="地方",广州影视
+#EXTINF:-1 tvg-id="" tvg-name="广州影视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/广州影视.png" group-title="地方",广州影视
 http://116.22.253.78:8899/udp/239.253.43.73:5146
-#EXTINF:-1 tvg-id="" tvg-name="广州法治" tvg-logo="https://live.fanmingming.com/tv/广州法治.png" group-title="地方",广州法治
+#EXTINF:-1 tvg-id="" tvg-name="广州法治" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/广州法治.png" group-title="地方",广州法治
 http://116.22.253.78:8899/udp/239.253.43.74:5146
-#EXTINF:-1 tvg-id="" tvg-name="广州竞赛" tvg-logo="https://live.fanmingming.com/tv/广州竞赛.png" group-title="地方",广州竞赛
+#EXTINF:-1 tvg-id="" tvg-name="广州竞赛" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/广州竞赛.png" group-title="地方",广州竞赛
 http://116.22.253.78:8899/udp/239.253.43.75:5146
-#EXTINF:-1 tvg-id="" tvg-name="深圳公共" tvg-logo="https://epg.112114.xyz/logo/深圳公共.png" group-title="地方",深圳公共频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/广州南国都市" group-title="地方",广州南国都市
+http://116.22.253.78:8899/udp/239.253.43.99:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳公共" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/深圳公共.png" group-title="地方",深圳公共频道
 http://116.22.253.78:8899/udp/239.77.1.126:5146
-#EXTINF:-1 tvg-id="" tvg-name="深圳财经生活" tvg-logo="https://epg.112114.xyz/logo/深圳财经.png" group-title="地方",深圳财经生活
+#EXTINF:-1 tvg-id="" tvg-name="深圳财经生活" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/深圳财经.png" group-title="地方",深圳财经生活
 http://116.22.253.78:8899/udp/239.77.1.242:5146
-#EXTINF:-1 tvg-id="" tvg-name="深圳都市" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png" group-title="地方",深圳都市频道
+#EXTINF:-1 tvg-id="" tvg-name="深圳都市" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/深圳都市.png" group-title="地方",深圳都市频道
 http://116.22.253.78:8899/udp/239.77.1.124:5146
-#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧.png" group-title="地方",深圳电视剧频道
+#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/深圳电视剧.png" group-title="地方",深圳电视剧频道
 http://116.22.253.78:8899/udp/239.77.1.125:5146
-#EXTINF:-1 tvg-id="" tvg-name="深圳娱乐" tvg-logo="https://epg.112114.xyz/logo/深圳娱乐.png" group-title="地方",深圳娱乐频道
+#EXTINF:-1 tvg-id="" tvg-name="深圳娱乐" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/深圳娱乐.png" group-title="地方",深圳娱乐频道
 http://116.22.253.78:8899/udp/239.77.1.243:5146
-#EXTINF:-1 tvg-id="" tvg-name="深圳少儿" tvg-logo="https://epg.112114.xyz/logo/深圳少儿.png" group-title="地方",深圳少儿频道
+#EXTINF:-1 tvg-id="" tvg-name="深圳少儿" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/深圳少儿.png" group-title="地方",深圳少儿频道
 http://116.22.253.78:8899/udp/239.77.1.244:5146
-#EXTINF:-1 tvg-id="" tvg-name="深圳体育健康" tvg-logo="https://epg.112114.xyz/logo/深圳体育.png" group-title="地方",深圳体育健康
+#EXTINF:-1 tvg-id="" tvg-name="深圳体育健康" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/深圳体育.png" group-title="地方",深圳体育健康
 http://116.22.253.78:8899/udp/239.77.1.128:5146
-#EXTINF:-1 tvg-id="" tvg-name="深圳龙岗" tvg-logo="https://epg.112114.xyz/logo/深圳龙岗.png" group-title="地方",深圳龙岗频道
+#EXTINF:-1 tvg-id="" tvg-name="深圳龙岗" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/深圳龙岗.png" group-title="地方",深圳龙岗频道
 http://116.22.253.78:8899/udp/239.77.1.223:5146
-#EXTINF:-1 tvg-id="" tvg-name="深圳宝安" tvg-logo="https://epg.112114.xyz/logo/深圳宝安.png" group-title="地方",深圳宝安频道
+#EXTINF:-1 tvg-id="" tvg-name="深圳宝安" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/深圳宝安.png" group-title="地方",深圳宝安频道
 http://116.22.253.78:8899/udp/239.77.1.67:5146
-#EXTINF:-1 tvg-id="" tvg-name="深圳东部" tvg-logo="https://epg.112114.xyz/logo/深圳东部.png" group-title="地方",深圳东部频道
+#EXTINF:-1 tvg-id="" tvg-name="深圳东部" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/深圳东部.png" group-title="地方",深圳东部频道
 http://116.22.253.78:8899/udp/239.77.1.224:5146
-#EXTINF:-1 tvg-id="" tvg-name="深圳众创TV" tvg-logo="https://epg.112114.xyz/logo/深圳众创TV.png" group-title="地方",深圳众创TV
+#EXTINF:-1 tvg-id="" tvg-name="深圳众创TV" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/深圳众创TV.png" group-title="地方",深圳众创TV
 http://116.22.253.78:8899/udp/239.77.1.247:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳移动电视
 http://116.22.253.78:8899/udp/239.77.1.175:5146
