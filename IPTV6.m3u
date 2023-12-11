@@ -587,11 +587,14 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/ind
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?fmmv6
 #EXTINF:-1 tvg-id="" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="地方",海南少儿
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
-#EXTINF:-1 tvg-id="" tvg-name="云南都市" tvg-logo="https://live.fanmingming.com/tv/云南都市.png" group-title="地方",云南都市频道
-http://116.55.173.81:4000/ch/custom25/mqlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="云南影视" tvg-logo="https://live.fanmingming.com/tv/云南影视.png" group-title="地方",云南影视频道
+#EXTINF:-1 tvg-id="" tvg-name="云南都市" tvg-logo="https://live.fanmingming.com/tv/云南都市.png" group-title="地方",云南都市
 
-#EXTINF:-1 tvg-id="" tvg-name="云南娱乐" tvg-logo="https://live.fanmingming.com/tv/云南娱乐.png" group-title="地方",云南娱乐频道
+#EXTINF:-1 tvg-id="" tvg-name="云南影视" tvg-logo="https://live.fanmingming.com/tv/云南影视.png" group-title="地方",云南影视
+http://106.57.1.135:55555/udp/239.200.200.15:8856
+#EXTINF:-1 tvg-id="" tvg-name="云南娱乐" tvg-logo="https://live.fanmingming.com/tv/云南娱乐.png" group-title="地方",云南娱乐
+
+#EXTINF:-1 tvg-id="" tvg-name="云南康旅" tvg-logo="https://live.fanmingming.com/tv/云南娱乐.png" group-title="地方",云南康旅
+http://106.57.1.135:55555/udp/239.200.200.31:8860
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",贵州-2
 
