@@ -332,7 +332,7 @@ http://116.22.253.78:8899/udp/239.77.1.175:5146
 http://171.223.198.158:8123/udp/239.93.0.47:5140
 #EXTINF:-1 tvg-id="" tvg-name="四川经济" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/四川经济.png" group-title="四川",四川经济
 http://171.223.198.158:8123/udp/239.93.1.101:5140
-#EXTINF:-1 tvg-id="" tvg-name="四川文化旅游" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/四川文化旅游.png" group-title="",四川文化旅游
+#EXTINF:-1 tvg-id="" tvg-name="四川文化旅游" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/四川文化旅游.png" group-title="四川",四川文化旅游
 http://171.223.198.158:8123/udp/239.93.1.102:5140
 #EXTINF:-1 tvg-id="" tvg-name="四川影视文艺" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/四川影视文艺.png" group-title="四川",四川影视文艺
 http://171.223.198.158:8123/udp/239.93.0.166:5140
