@@ -830,7 +830,7 @@ http://119.113.236.167:60000/rtp/232.0.0.97:8534
 http://119.113.236.167:60000/rtp/232.0.0.211:9240
 #EXTINF:-1 tvg-id="" tvg-name="辽宁生活" tvg-logo="https://epg.112114.xyz/logo/辽宁生活.png" group-title="辽宁",辽宁生活
 http://119.113.236.167:60000/rtp/232.0.0.212:9242
-#EXTINF:-1 tvg-id="" tvg-name="辽宁教育青少" tvg-logo="https://epg.112114.xyz/logo/辽宁教育青少.png" group-title="地方",辽宁教育·青少
+#EXTINF:-1 tvg-id="" tvg-name="辽宁教育青少" tvg-logo="https://epg.112114.xyz/logo/辽宁教育青少.png" group-title="辽宁",辽宁教育·青少
 http://119.113.236.167:60000/rtp/232.0.0.230:9356
 #EXTINF:-1 tvg-id="" tvg-name="辽宁体育" tvg-logo="https://epg.112114.xyz/logo/辽宁体育.png" group-title="辽宁",辽宁体育
 http://119.113.236.167:60000/rtp/232.0.0.66:8820
