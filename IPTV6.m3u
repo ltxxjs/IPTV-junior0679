@@ -320,7 +320,7 @@ http://218.19.110.187:9999/udp/239.253.43.99:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳公共" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/深圳公共.png" group-title="深圳",深圳公共
 http://218.19.110.187:9999/udp/239.77.1.126:5146
-#EXTINF:-1 tvg-id="" tvg-name="深圳财经生活" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/深圳财经.png" group-title="深圳",深圳财经生活
+#EXTINF:-1 tvg-id="" tvg-name="深圳财经生活" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/深圳财经生活.png" group-title="深圳",深圳财经生活
 http://218.19.110.187:9999/udp/239.77.1.242:5146
 #EXTINF:-1 tvg-id="" tvg-name="深圳都市" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/深圳都市.png" group-title="深圳",深圳都市
 http://218.19.110.187:9999/udp/239.77.1.124:5146
@@ -330,7 +330,7 @@ http://218.19.110.187:9999/udp/239.77.1.125:5146
 http://218.19.110.187:9999/udp/239.77.1.243:5146
 #EXTINF:-1 tvg-id="" tvg-name="深圳少儿" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/深圳少儿.png" group-title="深圳",深圳少儿
 http://218.19.110.187:9999/udp/239.77.1.244:5146
-#EXTINF:-1 tvg-id="" tvg-name="深圳体育健康" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/深圳体育.png" group-title="深圳",深圳体育健康
+#EXTINF:-1 tvg-id="" tvg-name="深圳体育健康" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/深圳体育健康.png" group-title="深圳",深圳体育健康
 http://218.19.110.187:9999/udp/239.77.1.128:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/深圳龙岗.png" group-title="深圳",深圳龙岗
 http://218.19.110.187:9999/udp/239.77.1.223:5146
