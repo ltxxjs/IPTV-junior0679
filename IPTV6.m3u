@@ -177,10 +177,15 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2228825807_1324573507
 #EXTINF:-1 tvg-id="" tvg-name="云南影视" tvg-logo="https://live.fanmingming.com/tv/云南影视.png" group-title="云南",云南影视
 http://106.57.1.135:55555/udp/239.200.200.15:8856
 #EXTINF:-1 tvg-id="" tvg-name="云南娱乐" tvg-logo="https://live.fanmingming.com/tv/云南娱乐.png" group-title="云南",云南娱乐
-
+http://106.57.1.135:55555/udp/239.200.200.13:8848
 #EXTINF:-1 tvg-id="" tvg-name="云南康旅" tvg-logo="https://live.fanmingming.com/tv/云南娱乐.png" group-title="云南",云南康旅
 http://106.57.1.135:55555/udp/239.200.200.31:8860
-
+#EXTINF:-1 tvg-id="" tvg-name="云南少儿" tvg-logo="https://live.fanmingming.com/tv/云南少儿.png" group-title="云南",云南少儿
+http://106.57.1.135:55555/udp/239.200.200.32:8864
+#EXTINF:-1 tvg-id="" tvg-name="澜湄国际" tvg-logo="https://live.fanmingming.com/tv/澜湄国际.png" group-title="云南",澜湄国际
+http://106.57.1.135:55555/udp/239.200.200.33:8024
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南4K
+http://106.57.1.135:55555/udp/239.200.200.178:8884
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",楚雄新闻
 http://106.57.1.135:55555/udp/239.200.200.116:8708
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",楚雄文旅
@@ -266,7 +271,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/劲爆体育.png" group-title="上海",劲爆体育
 https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1 tvg-id="" tvg-name="魅力足球" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/魅力足球.png" group-title="上海",魅力足球
-http://60.27.103.231:9999/udp/225.1.1.137:5002
+http://117.59.89.164/__cl/cg:live/__c/mlzqHD/__op/default/__f/index.m3u8
 
 ## 广东
 
@@ -345,43 +350,47 @@ http://116.22.253.78:8899/udp/239.77.1.175:5146
 ## 四川
 
 #EXTINF:-1 tvg-id="" tvg-name="四川新闻" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/四川新闻.png" group-title="四川",四川新闻
-http://171.223.198.158:8123/udp/239.93.0.47:5140
+http://118.114.220.184:8000/udp/239.93.0.47:5140
 #EXTINF:-1 tvg-id="" tvg-name="四川经济" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/四川经济.png" group-title="四川",四川经济
-http://171.223.198.158:8123/udp/239.93.1.101:5140
+http://118.114.220.184:8000/udp/239.93.1.101:5140
 #EXTINF:-1 tvg-id="" tvg-name="四川文化旅游" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/四川文化旅游.png" group-title="四川",四川文化旅游
-http://171.223.198.158:8123/udp/239.93.1.102:5140
+http://118.114.220.184:8000/udp/239.93.1.102:5140
 #EXTINF:-1 tvg-id="" tvg-name="四川影视文艺" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/四川影视文艺.png" group-title="四川",四川影视文艺
-http://171.223.198.158:8123/udp/239.93.0.166:5140
+http://118.114.220.184:8000/udp/239.93.0.166:5140
 #EXTINF:-1 tvg-id="" tvg-name="四川科教" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/四川科教.png" group-title="四川",四川科教
-http://171.223.198.158:8123/udp/239.93.42.44:5140
+http://118.114.220.184:8000/udp/239.93.42.44:5140
 #EXTINF:-1 tvg-id="" tvg-name="四川乡村" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/四川乡村.png" group-title="四川",四川乡村
-http://171.223.198.158:8123/udp/239.93.0.52:5140
+http://118.114.220.184:8000/udp/239.93.0.52:5140
 #EXTINF:-1 tvg-id="" tvg-name="四川妇女儿童" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/四川妇女儿童.png" group-title="四川",四川妇女儿童
-http://171.223.198.158:8123/udp/239.93.0.219:5140
+http://118.114.220.184:8000/udp/239.93.0.219:5140
 #EXTINF:-1 tvg-id="" tvg-name="峨眉电影" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/峨眉电影.png" group-title="四川",峨眉电影
-http://171.223.198.158:8123/udp/239.93.0.252:5140
+http://118.114.220.184:8000/udp/239.93.0.252:5140
 #EXTINF:-1 tvg-id="" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/康巴卫视.png" group-title="四川",康巴卫视
-http://171.223.198.158:8123/udp/239.93.0.41:5140
+http://118.114.220.184:8000/udp/239.93.0.41:5140
 #EXTINF:-1 tvg-id="" tvg-name="成都综合" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/成都新闻综合.png" group-title="四川",成都 CDTV.1 综合
-http://171.223.198.158:8123/udp/239.93.0.16:5140
+http://118.114.220.184:8000/udp/239.93.0.16:5140
 #EXTINF:-1 tvg-id="" tvg-name="成都经济" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/成都经济资讯.png" group-title="四川",成都 CDTV.2 经济
-http://171.223.198.158:8123/udp/239.93.0.17:1239
+http://118.114.220.184:8000/udp/239.93.0.17:1239
 #EXTINF:-1 tvg-id="" tvg-name="成都生活" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/成都都市生活.png" group-title="四川",成都 CDTV.3 生活
-http://171.223.198.158:8123/udp/239.93.0.18:1238
+http://118.114.220.184:8000/udp/239.93.0.18:1238
 #EXTINF:-1 tvg-id="" tvg-name="成都影视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/成都影视文艺.png" group-title="四川",成都 CDTV.4 影视
-http://171.223.198.158:8123/udp/239.93.0.19:1250
+http://118.114.220.184:8000/udp/239.93.0.19:1250
 #EXTINF:-1 tvg-id="" tvg-name="成都公共" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/成都公共频道.png" group-title="四川",成都 CDTV.5 公共
-http://171.223.198.158:8123/udp/239.93.1.231:5140
+http://118.114.220.184:8000/udp/239.93.1.231:5140
 #EXTINF:-1 tvg-id="" tvg-name="成都少儿" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/成都少儿频道.png" group-title="四川",成都 CDTV.6 少儿
-http://171.223.198.158:8123/udp/239.93.0.21:1251
+http://118.114.220.184:8000/udp/239.93.0.21:1251
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",成都体育
-http://171.223.198.158:8123/udp/239.93.0.224:1281
+http://118.114.220.184:8000/udp/239.93.0.224:1281
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",蓉城先锋
-http://171.223.198.158:8123/udp/239.93.0.91:2101
+http://118.114.220.184:8000/udp/239.93.0.91:2101
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",熊猫频道1
-http://171.223.198.158:8123/udp/239.93.0.211:9148
+http://118.114.220.184:8000/udp/239.93.0.211:9148
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",熊猫频道2
-http://171.223.198.158:8123/udp/239.93.1.178:5140
+http://118.114.220.184:8000/udp/239.93.1.178:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",自贡综合
+http://live.goodiptv.club/api/sxg.php?id=zgxw_4000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",自贡文化生活
+http://live.goodiptv.club/api/sxg.php?id=zggg_4000
 
 ## 重庆
 
@@ -531,11 +540,27 @@ http://114.97.214.101:8888/udp/238.1.78.111:6760
 ## 山东
 
 #EXTINF:-1 tvg-id="" tvg-name="山东新闻" tvg-logo="https://epg.112114.xyz/logo/山东新闻.png" group-title="山东",山东新闻
-http://119.183.206.43:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://182.32.160.11:9999/udp/239.21.1.140:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东齐鲁" tvg-logo="https://epg.112114.xyz/logo/山东齐鲁.png" group-title="山东",山东齐鲁
-
-#EXTINF:-1 tvg-id="" tvg-name="山东体育" tvg-logo="http://n.ysyz.top:99/buyaolian/sdty.png" group-title="山东",山东体育
-http://58.58.107.102:9901/tsfile/live/1020_1.m3u8?key=txiptv&url=tvzb.com
+http://182.32.160.11:9999/udp/239.21.1.134:5002
+#EXTINF:-1 tvg-id="" tvg-name="山东体育" tvg-logo="https://epg.112114.xyz/logo/山东体育.png" group-title="山东",山东体育
+http://182.32.160.11:9999/udp/239.21.1.141:5002
+#EXTINF:-1 tvg-id="" tvg-name="山东文旅" tvg-logo="https://epg.112114.xyz/logo/山东文旅.png" group-title="山东",山东文旅
+http://182.32.160.11:9999/udp/239.21.1.176:5002
+#EXTINF:-1 tvg-id="" tvg-name="山东农科" tvg-logo="https://epg.112114.xyz/logo/山东农科.png" group-title="山东",山东农科
+http://182.32.160.11:9999/udp/239.21.1.183:5002
+#EXTINF:-1 tvg-id="" tvg-name="山东少儿" tvg-logo="https://epg.112114.xyz/logo/山东少儿.png" group-title="山东",山东少儿
+http://182.32.160.11:9999/udp/239.21.1.208:5002
+#EXTINF:-1 tvg-id="" tvg-name="山东生活" tvg-logo="https://epg.112114.xyz/logo/山东生活.png" group-title="山东",山东生活
+http://182.32.160.11:9999/udp/239.21.1.175:5002
+#EXTINF:-1 tvg-id="" tvg-name="山东综艺" tvg-logo="https://epg.112114.xyz/logo/山东综艺.png" group-title="山东",山东综艺
+http://182.32.160.11:9999/udp/239.21.1.177:5002
+#EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" group-title="山东",山东教育卫视
+http://182.32.160.11:9999/udp/239.21.1.169:5002
+#EXTINF:-1 tvg-id="" tvg-name="济南新闻综合" tvg-logo="https://epg.112114.xyz/logo/济南新闻综合.png" group-title="山东",济南新闻综合
+http://182.32.160.11:9999/udp/239.21.1.94:5002
+#EXTINF:-1 tvg-id="" tvg-name="济南教育" tvg-logo="https://epg.112114.xyz/logo/济南教育.png" group-title="山东",济南教育
+http://182.32.160.11:9999/udp/239.21.1.133:5002
 
 ## 江西
 
@@ -590,21 +615,21 @@ http://27.16.178.143:4567/rtp/239.69.1.60:9994
 ## 湖南
 
 #EXTINF:-1 tvg-id="" tvg-name="湖南经视" tvg-logo="https://live.fanmingming.com/tv/湖南经视.png" group-title="湖南",湖南经视
-http://175.9.162.59:9999/udp/239.76.252.116:9000
+http://175.11.193.151:7000/udp/239.76.252.116:9000
 #EXTINF:-1 tvg-id="" tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/湖南爱晚.png" group-title="湖南",湖南爱晚
-http://175.9.162.59:9999/udp/239.76.252.123:9000
+http://175.11.193.151:7000/udp/239.76.252.123:9000
 #EXTINF:-1 tvg-id="" tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.com/tv/湖南娱乐.png" group-title="湖南",湖南娱乐
-http://175.9.162.59:9999/udp/239.76.252.121:9000
+http://175.11.193.151:7000/udp/239.76.252.121:9000
 #EXTINF:-1 tvg-id="" tvg-name="湖南都市" tvg-logo="https://live.fanmingming.com/tv/湖南都市.png" group-title="湖南",湖南都市
-http://175.9.162.59:9999/udp/239.76.252.117:9000
+http://175.11.193.151:7000/udp/239.76.252.117:9000
 #EXTINF:-1 tvg-id="" tvg-name="湖南电影" tvg-logo="https://live.fanmingming.com/tv/湖南电影.png" group-title="湖南",湖南电影
-http://175.9.162.59:9999/udp/239.76.252.119:9000
+http://175.11.193.151:7000/udp/239.76.252.119:9000
 #EXTINF:-1 tvg-id="" tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png" group-title="湖南",湖南电视剧
-http://175.9.162.59:9999/udp/239.76.252.118:9000
+http://175.11.193.151:7000/udp/239.76.252.118:9000
 #EXTINF:-1 tvg-id="" tvg-name="湖南教育" tvg-logo="https://live.fanmingming.com/tv/湖南教育.png" group-title="湖南",湖南教育台
-http://175.9.162.59:9999/udp/239.76.252.233:9000
+http://175.11.193.151:7000/udp/239.76.252.233:9000
 #EXTINF:-1 tvg-id="" tvg-name="湖南国际" tvg-logo="https://live.fanmingming.com/tv/湖南国际.png" group-title="湖南",湖南国际频道
-http://175.9.162.59:9999/udp/239.76.252.124:9000
+http://175.11.193.151:7000/udp/239.76.252.124:9000
 #EXTINF:-1,tvg-id="" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="湖南",金鹰纪实
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="湖南",金鹰卡通
@@ -614,13 +639,13 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="湖南",茶频道 
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="长沙新闻" tvg-logo="https://epg.112114.xyz/logo/长沙新闻.png" group-title="湖南",长沙新闻综合
-http://175.9.162.59:9999/udp/239.76.253.121:9000
+http://175.11.193.151:7000/udp/239.76.253.121:9000
 #EXTINF:-1 tvg-id="" tvg-name="长沙女性" tvg-logo="https://epg.112114.xyz/logo/长沙女性.png" group-title="湖南",长沙女性频道
-http://175.9.162.59:9999/udp/239.76.252.23:9000
+http://175.11.193.151:7000/udp/239.76.252.23:9000
 #EXTINF:-1 tvg-id="" tvg-name="长沙影视" tvg-logo="https://epg.112114.xyz/logo/长沙影视.png" group-title="湖南",长沙影视频道
-http://175.9.162.59:9999/udp/239.76.252.204:9000
+http://175.11.193.151:7000/udp/239.76.252.204:9000
 #EXTINF:-1 tvg-id="" tvg-name="长沙政法" tvg-logo="https://epg.112114.xyz/logo/长沙政法.png" group-title="湖南",长沙政法频道
-http://175.9.162.59:9999/udp/239.76.253.122:9000
+http://175.11.193.151:7000/udp/239.76.253.122:9000
 
 ## 广西
 
@@ -692,6 +717,22 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/ind
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="贵州",贵州-6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="贵州",贵州-7
+
+## 陕西
+#EXTINF:-1 tvg-id="" tvg-name="陕西新闻资讯" tvg-logo="陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
+http://117.32.85.137:8014/udp/239.111.205.28:5140
+#EXTINF:-1 tvg-id="" tvg-name="陕西体育休闲" tvg-logo="陕西体育休闲.png" group-title="陕西",陕西体育休闲
+http://117.32.85.137:8014/udp/239.111.205.36:5140
+#EXTINF:-1 tvg-id="" tvg-name="陕西都市青春" tvg-logo="陕西都市青春.png" group-title="陕西",陕西都市青春
+http://117.32.85.137:8014/udp/239.111.205.42:5140
+#EXTINF:-1 tvg-id="" tvg-name="陕西生活" tvg-logo="陕西生活.png" group-title="陕西",陕西生活
+http://117.32.85.137:8014/udp/239.111.205.98:5140
+#EXTINF:-1 tvg-id="" tvg-name="陕西影视" tvg-logo="陕西影视.png" group-title="陕西",陕西影视
+http://117.32.85.137:8014/udp/239.111.205.99:5140
+#EXTINF:-1 tvg-id="" tvg-name="陕西公共" tvg-logo="陕西公共.png" group-title="陕西",陕西公共
+http://117.32.85.137:8014/udp/239.111.205.100:5140
+#EXTINF:-1 tvg-id="" tvg-name="陕西西部电影" tvg-logo="陕西西部电影.png" group-title="陕西",陕西西部电影
+http://117.32.85.137:8014/udp/239.111.205.102:5140
 
 ## 河北
 
@@ -792,6 +833,7 @@ http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.
 http://hls1.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",东北戏曲
 
+rtp://239.37.0.99:5540
 
 ## 甘肃
 
@@ -811,6 +853,25 @@ http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226242/1.m3u8
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226285/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="甘肃",兰州文旅频道
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226597/1.m3u8
+
+## 宁夏
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宁夏",宁夏公共
+http://106.45.2.216:8888/udp/239.121.4.97:8556
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宁夏",宁夏教育
+http://106.45.2.216:8888/udp/239.121.4.200:9184
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宁夏",宁夏经济
+http://106.45.2.216:8888/udp/239.121.4.91:8520
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宁夏",宁夏少儿
+http://106.45.2.216:8888/udp/239.121.4.63:8352
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宁夏",宁夏文旅
+http://106.45.2.216:8888/udp/239.121.4.93:8532
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宁夏",银川公共
+http://106.45.2.216:8888/udp/239.121.4.21:8100
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宁夏",银川生活
+http://106.45.2.216:8888/udp/239.121.4.106:8610
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宁夏",银川文体
+http://106.45.2.216:8888/udp/239.121.4.22:8106
 
 ## 新疆
 
@@ -1530,7 +1591,7 @@ Reuters：https://i.mjh.nz/SamsungTVPlus/FRBA3300024L2.m3u8
 Reuters：https://i.mjh.nz/SamsungTVPlus/GBBA33000219V.m3u8
 
 # 数字
-求索纪录：http://171.223.198.158:8123/udp/239.93.42.24:5140
+求索纪录：http://118.114.220.184:8000/udp/239.93.42.24:5140
 江苏移动8K测试：http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 
 # 台标
