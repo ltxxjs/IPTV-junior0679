@@ -749,6 +749,8 @@ http://117.32.85.137:8014/udp/239.111.205.99:5140
 http://117.32.85.137:8014/udp/239.111.205.100:5140
 #EXTINF:-1 tvg-id="" tvg-name="陕西西部电影" tvg-logo="陕西西部电影.png" group-title="陕西",陕西西部电影
 http://117.32.85.137:8014/udp/239.111.205.102:5140
+#EXTINF:-1 tvg-id="" tvg-name="西安新闻" tvg-logo="西安新闻.png" group-title="陕西",西安新闻
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225993/index.m3u8
 
 ## 河北
 
@@ -849,7 +851,6 @@ http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.
 http://hls1.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",东北戏曲
 
-rtp://239.37.0.99:5540
 
 ## 甘肃
 
