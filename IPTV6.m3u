@@ -736,22 +736,25 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/ind
 /rtp/238.255.2.9:5999
 
 ## 陕西
+http://222.90.97.254:9901/tsfile/live/1031_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陕西新闻资讯" tvg-logo="陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
 http://117.32.84.132:8008/udp/239.111.205.28:5140
 #EXTINF:-1 tvg-id="" tvg-name="陕西体育休闲" tvg-logo="陕西体育休闲.png" group-title="陕西",陕西体育休闲
 http://117.32.84.132:8008/udp/239.111.205.36:5140
 #EXTINF:-1 tvg-id="" tvg-name="陕西都市青春" tvg-logo="陕西都市青春.png" group-title="陕西",陕西都市青春
-http://117.32.84.132:8008/udp/239.111.205.42:5140
+http://222.90.97.254:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陕西生活" tvg-logo="陕西生活.png" group-title="陕西",陕西生活
 http://117.32.84.132:8008/udp/239.111.205.98:5140
 #EXTINF:-1 tvg-id="" tvg-name="陕西影视" tvg-logo="陕西影视.png" group-title="陕西",陕西影视
-http://117.32.84.132:8008/udp/239.111.205.99:5140
+http://222.90.97.254:9901/tsfile/live/1016_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陕西公共" tvg-logo="陕西公共.png" group-title="陕西",陕西公共
-http://117.32.84.132:8008/udp/239.111.205.100:5140
+http://222.90.97.254:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陕西西部电影" tvg-logo="陕西西部电影.png" group-title="陕西",陕西西部电影
-http://117.32.84.132:8008/udp/239.111.205.102:5140
+http://222.90.97.254:9901/tsfile/live/1014_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="西安新闻" tvg-logo="西安新闻.png" group-title="陕西",西安新闻
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225993/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="西安教育电视台" tvg-logo="西安教育电视台.png" group-title="陕西",西安教育电视台
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001789/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 ## 河北
 
