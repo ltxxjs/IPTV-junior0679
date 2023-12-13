@@ -172,17 +172,17 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2228825807_1324573507
 
 ## 云南
 
-#EXTINF:-1 tvg-id="" tvg-name="云南都市" tvg-logo="https://live.fanmingming.com/tv/云南都市.png" group-title="云南",云南都市
+#EXTINF:-1 tvg-id="" tvg-name="云南都市" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/云南都市.png" group-title="云南",云南都市
 http://106.57.1.135:55555/udp/239.200.200.12:8844
-#EXTINF:-1 tvg-id="" tvg-name="云南影视" tvg-logo="https://live.fanmingming.com/tv/云南影视.png" group-title="云南",云南影视
+#EXTINF:-1 tvg-id="" tvg-name="云南影视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/云南影视.png" group-title="云南",云南影视
 http://106.57.1.135:55555/udp/239.200.200.15:8856
-#EXTINF:-1 tvg-id="" tvg-name="云南娱乐" tvg-logo="https://live.fanmingming.com/tv/云南娱乐.png" group-title="云南",云南娱乐
+#EXTINF:-1 tvg-id="" tvg-name="云南娱乐" tvg-logo=https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/云南娱乐.png" group-title="云南",云南娱乐
 http://106.57.1.135:55555/udp/239.200.200.13:8848
-#EXTINF:-1 tvg-id="" tvg-name="云南康旅" tvg-logo="https://live.fanmingming.com/tv/云南娱乐.png" group-title="云南",云南康旅
+#EXTINF:-1 tvg-id="" tvg-name="云南康旅" tvg-logo="" group-title="云南",云南康旅
 http://106.57.1.135:55555/udp/239.200.200.31:8860
-#EXTINF:-1 tvg-id="" tvg-name="云南少儿" tvg-logo="https://live.fanmingming.com/tv/云南少儿.png" group-title="云南",云南少儿
+#EXTINF:-1 tvg-id="" tvg-name="云南少儿" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/云南少儿.png" group-title="云南",云南少儿
 http://106.57.1.135:55555/udp/239.200.200.32:8864
-#EXTINF:-1 tvg-id="" tvg-name="澜湄国际" tvg-logo="https://live.fanmingming.com/tv/澜湄国际.png" group-title="云南",澜湄国际
+#EXTINF:-1 tvg-id="" tvg-name="澜湄国际" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/澜湄国际.png" group-title="云南",澜湄国际
 http://106.57.1.135:55555/udp/239.200.200.33:8024
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南4K
 http://106.57.1.135:55555/udp/239.200.200.178:8884
@@ -384,9 +384,9 @@ http://118.114.220.184:8000/udp/239.93.0.211:9148
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",熊猫频道2
 http://118.114.220.184:8000/udp/239.93.1.178:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",自贡综合
-http://live.goodiptv.club/api/sxg.php?id=zgxw_4000
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",自贡文化生活
-http://live.goodiptv.club/api/sxg.php?id=zggg_4000
+
 
 ## 重庆
 
@@ -442,7 +442,7 @@ http://60.27.103.231:9999/udp/225.1.2.14:5002
 
 #EXTINF:-1 tvg-id="" tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="浙江",浙江新闻
 http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江经视" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="浙江",浙江经济生活
+#EXTINF:-1 tvg-id="" tvg-name="浙江经济生活" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="浙江",浙江经济生活
 http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="浙江",浙江国际
 http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
@@ -454,19 +454,19 @@ http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="浙江",钱江都市
 http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江数码时代" tvg-logo="https://live.fanmingming.com/tv/之江记录.png" group-title="浙江",之江记录
+#EXTINF:-1 tvg-id="" tvg-name="之江记录" tvg-logo="https://live.fanmingming.com/tv/之江记录.png" group-title="浙江",之江记录
 http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="杭州综合" tvg-logo="https://live.fanmingming.com/tv/杭州综合.png" group-title="浙江",杭州综合
+#EXTINF:-1 tvg-id="" tvg-name="杭州综合" tvg-logo="" group-title="浙江",杭州综合
 http://125.119.104.219:9999/udp/233.50.201.173:5140
-#EXTINF:-1 tvg-id="" tvg-name="杭州明珠" tvg-logo="https://live.fanmingming.com/tv/杭州明珠.png" group-title="浙江",杭州明珠
+#EXTINF:-1 tvg-id="" tvg-name="杭州明珠" tvg-logo="" group-title="浙江",杭州明珠
 http://125.119.104.219:9999/udp/233.50.201.174:5140
-#EXTINF:-1 tvg-id="" tvg-name="杭州生活" tvg-logo="https://live.fanmingming.com/tv/杭州生活.png" group-title="浙江",杭州生活
+#EXTINF:-1 tvg-id="" tvg-name="杭州生活" tvg-logo="" group-title="浙江",杭州生活
 http://125.119.104.219:9999/udp/233.50.201.175:5140
-#EXTINF:-1 tvg-id="" tvg-name="杭州影视" tvg-logo="https://live.fanmingming.com/tv/杭州影视.png" group-title="浙江",杭州影视
+#EXTINF:-1 tvg-id="" tvg-name="杭州影视" tvg-logo="" group-title="浙江",杭州影视
 http://125.119.104.219:9999/udp/233.50.201.176:5140
-#EXTINF:-1 tvg-id="" tvg-name="杭州青少" tvg-logo="https://live.fanmingming.com/tv/杭州青少.png" group-title="浙江",杭州青少·体育
+#EXTINF:-1 tvg-id="" tvg-name="杭州少儿" tvg-logo="" group-title="浙江",杭州青少·体育
 http://125.119.104.219:9999/udp/233.50.201.177:5140
-#EXTINF:-1 tvg-id="" tvg-name="杭州导视" tvg-logo="https://live.fanmingming.com/tv/杭州导视.png" group-title="浙江",杭州导视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江",杭州导视
 http://125.119.104.219:9999/udp/233.50.201.182:5140
 
 ## 江苏
