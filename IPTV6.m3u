@@ -845,15 +845,15 @@ http://119.113.236.167:60000/rtp/232.0.0.167:9338
 
 ## 吉林
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",吉林公共·新闻
+#EXTINF:-1 tvg-id="" tvg-name="吉林公共新闻" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/吉林公共新闻.png" group-title="吉林",吉林公共·新闻
 http://hls1.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",吉林都市
+#EXTINF:-1 tvg-id="" tvg-name="吉林都市" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/吉林都市.png" group-title="吉林",吉林都市
 http://hls1.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",吉林生活
+#EXTINF:-1 tvg-id="" tvg-name="吉林生活" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/吉林生活.png" group-title="吉林",吉林生活
 http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",吉林影视
+#EXTINF:-1 tvg-id="" tvg-name="吉林影视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/吉林影视.png" group-title="吉林",吉林影视
 http://hls1.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="吉林",东北戏曲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/东北戏曲.png" group-title="吉林",东北戏曲
 
 
 ## 甘肃
