@@ -853,6 +853,10 @@ http://hls1.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.
 http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="吉林影视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/吉林影视.png" group-title="吉林",吉林影视
 http://hls1.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="吉林综艺文化" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/吉林综艺文化.png" group-title="吉林",吉林综艺文化
+
+#EXTINF:-1 tvg-id="" tvg-name="吉林乡村" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/吉林乡村.png" group-title="吉林",吉林乡村
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/东北戏曲.png" group-title="吉林",东北戏曲
 
 
