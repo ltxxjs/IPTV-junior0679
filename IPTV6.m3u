@@ -862,40 +862,40 @@ http://hls1.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.
 
 ## 甘肃
 
-#EXTINF:-1 tvg-id="" tvg-name="甘肃都市" tvg-logo="https://epg.112114.xyz/logo/甘肃都市.png" group-title="甘肃",甘肃都市
+#EXTINF:-1 tvg-id="" tvg-name="甘肃都市" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/甘肃都市.png" group-title="甘肃",甘肃都市
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226248/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="甘肃经济" tvg-logo="https://epg.112114.xyz/logo/甘肃经济.png" group-title="甘肃",甘肃经济
+#EXTINF:-1 tvg-id="" tvg-name="甘肃经济" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/甘肃经济.png" group-title="甘肃",甘肃经济
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226252/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="甘肃文化影视" tvg-logo="https://epg.112114.xyz/logo/甘肃文化影视.png" group-title="甘肃",甘肃文化影视
+#EXTINF:-1 tvg-id="" tvg-name="甘肃文化影视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/甘肃文化影视.png" group-title="甘肃",甘肃文化影视
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226287/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="甘肃少儿" tvg-logo="https://epg.112114.xyz/logo/甘肃少儿.png" group-title="甘肃",甘肃少儿
+#EXTINF:-1 tvg-id="" tvg-name="甘肃少儿" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/甘肃少儿.png" group-title="甘肃",甘肃少儿
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226289/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="甘肃公共" tvg-logo="https://epg.112114.xyz/logo/甘肃公共.png" group-title="甘肃",甘肃公共应急
+#EXTINF:-1 tvg-id="" tvg-name="甘肃公共" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/甘肃公共应急.png" group-title="甘肃",甘肃公共应急
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226250/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="兰州新闻综合" tvg-logo="" group-title="甘肃",兰州新闻综合
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226242/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="h" group-title="甘肃",兰州生活经济
+#EXTINF:-1 tvg-id="" tvg-name="兰州生活经济" tvg-logo="h" group-title="甘肃",兰州生活经济
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226285/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="甘肃",兰州文旅频道
+#EXTINF:-1 tvg-id="" tvg-name="兰州文旅" tvg-logo="" group-title="甘肃",兰州文旅
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226597/1.m3u8
 
 ## 宁夏
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宁夏",宁夏公共
-http://www.kkk8861.tk:8888/udp/239.121.4.97:8556
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宁夏",宁夏教育
-http://www.kkk8861.tk:8888/udp/239.121.4.200:9184
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宁夏",宁夏经济
+#EXTINF:-1 tvg-id="" tvg-name="宁夏公共" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/宁夏公共.png" group-title="宁夏",宁夏公共
+http://www.kkk8861.tk:8888/udp/239.121.4.97:855
+#EXTINF:-1 tvg-id="" tvg-name="宁夏经济" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/宁夏经济.png" group-title="宁夏",宁夏经济
 http://www.kkk8861.tk:8888/udp/239.121.4.91:8520
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宁夏",宁夏少儿
+#EXTINF:-1 tvg-id="" tvg-name="宁夏少儿" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/宁夏少儿.png" group-title="宁夏",宁夏少儿
 http://www.kkk8861.tk:8888/udp/239.121.4.63:8352
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宁夏",宁夏文旅
+#EXTINF:-1 tvg-id="" tvg-name="宁夏文旅" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/宁夏文旅.png" group-title="宁夏",宁夏文旅
 http://www.kkk8861.tk:8888/udp/239.121.4.93:8532
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宁夏",银川公共
+#EXTINF:-1 tvg-id="" tvg-name="宁夏教育" tvg-logo="" group-title="宁夏",宁夏教育
+http://www.kkk8861.tk:8888/udp/239.121.4.200:9184
+#EXTINF:-1 tvg-id="" tvg-name="银川公共" tvg-logo="" group-title="宁夏",银川公共
 http://www.kkk8861.tk:8888/udp/239.121.4.21:8100
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宁夏",银川生活
+#EXTINF:-1 tvg-id="" tvg-name="银川生活" tvg-logo="" group-title="宁夏",银川生活
 http://www.kkk8861.tk:8888/udp/239.121.4.106:8610
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="宁夏",银川文体
+#EXTINF:-1 tvg-id="" tvg-name="银川文体" tvg-logo="" group-title="宁夏",银川文体
 http://www.kkk8861.tk:8888/udp/239.121.4.22:8106
 
 ## 新疆
@@ -904,31 +904,31 @@ http://www.kkk8861.tk:8888/udp/239.121.4.22:8106
 
 ## 黑龙江
 
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江新闻法治" tvg-logo="https://epg.112114.xyz/logo/黑龙江新闻法治.png" group-title="黑龙江",黑龙江新闻法治
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江新闻法治" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/黑龙江新闻法治.png" group-title="黑龙江",黑龙江新闻法治
 http://[2409:8087:1a01:df::4036]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江文体" tvg-logo="https://epg.112114.xyz/logo/黑龙江文体.png" group-title="黑龙江",黑龙江文体
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江文体" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/黑龙江文体.png" group-title="黑龙江",黑龙江文体
 http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江公共农业" tvg-logo="https://epg.112114.xyz/logo/黑龙江农业科教.png" group-title="黑龙江",黑龙江农业·科教
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江公共农业" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/黑龙江农业科教.png" group-title="黑龙江",黑龙江农业·科教
 http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江都市" tvg-logo="https://epg.112114.xyz/logo/黑龙江都市.png" group-title="黑龙江",黑龙江都市
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江都市" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/黑龙江都市.png" group-title="黑龙江",黑龙江都市
 http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江少儿" tvg-logo="https://epg.112114.xyz/logo/黑龙江少儿.png" group-title="黑龙江",黑龙江少儿
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江少儿" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/黑龙江少儿.png" group-title="黑龙江",黑龙江少儿
 http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江影视" tvg-logo="https://epg.112114.xyz/logo/黑龙江影视.png" group-title="黑龙江",黑龙江影视
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江影视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/黑龙江影视.png" group-title="黑龙江",黑龙江影视
 http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
 
 ## 内蒙古
 
-#EXTINF:-1 tvg-id="" tvg-name="内蒙古新闻综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古新闻综合" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
-#EXTINF:-1 tvg-id="" tvg-name="内蒙古经济生活" tvg-logo="https://live.fanmingming.com/tv/内蒙古经济生活.png" group-title="内蒙古",内蒙古经济生活
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古经济生活" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/内蒙古经济生活.png" group-title="内蒙古",内蒙古经济生活
 https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
-#EXTINF:-1 tvg-id="" tvg-name="内蒙古少儿" tvg-logo="https://live.fanmingming.com/tv/内蒙古少儿.png" group-title="内蒙古",内蒙古少儿频道
-https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
-#EXTINF:-1 tvg-id="" tvg-name="内蒙古文体娱乐" tvg-logo="https://live.fanmingming.com/tv/内蒙古文体娱乐.png" group-title="内蒙古",内蒙古文体娱乐
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古文体娱乐" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/内蒙古文体娱乐.png" group-title="内蒙古",内蒙古文体娱乐
 https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
-#EXTINF:-1 tvg-id="" tvg-name="内蒙古农牧" tvg-logo="https://live.fanmingming.com/tv/内蒙古农牧.png" group-title="内蒙古",内蒙古农牧频道
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古农牧" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/内蒙古农牧.png" group-title="内蒙古",内蒙古农牧
 https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古少儿" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/内蒙古少儿.png" group-title="内蒙古",内蒙古少儿
+https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="内蒙古",内蒙古蒙古语卫视
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="内蒙古",内蒙古蒙古语文化
