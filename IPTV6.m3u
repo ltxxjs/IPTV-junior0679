@@ -719,6 +719,12 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/ind
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?fmmv6
 #EXTINF:-1 tvg-id="" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="海南",海南少儿
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南",海口1
+http://153.0.158.159:16080/live/hktv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南",海口2
+http://153.0.158.159:16080/live/hktv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南",海口3
+http://153.0.158.159:16080/live/hktv3.m3u8
 
 ## 贵州
 
@@ -736,7 +742,7 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/ind
 /rtp/238.255.2.9:5999
 
 ## 陕西
-http://222.90.97.254:9901/tsfile/live/1031_1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="陕西新闻资讯" tvg-logo="陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
 http://117.32.84.132:8008/udp/239.111.205.28:5140
 #EXTINF:-1 tvg-id="" tvg-name="陕西体育休闲" tvg-logo="陕西体育休闲.png" group-title="陕西",陕西体育休闲
