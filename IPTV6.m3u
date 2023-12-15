@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml, https://epg.112114.xyz/pp.xml.gz, http://epg.51zmt.top:8000/e.xml, http://epg.aptvapp.com/xml, https://live.fanmingming.com/e.xml, https://epg.pw/xmltv.html?lang=zh-hans, https://xmltv.tvkaista.net/guides/default.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 # 央视
 
