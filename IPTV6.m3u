@@ -173,23 +173,23 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2228825807_1324573507
 ## 云南
 
 #EXTINF:-1 tvg-id="" tvg-name="云南都市" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/云南都市.png" group-title="云南",云南都市
-http://106.57.1.135:55555/udp/239.200.200.12:8844
+/udp/239.200.200.12:8844
 #EXTINF:-1 tvg-id="" tvg-name="云南影视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/云南影视.png" group-title="云南",云南影视
-http://106.57.1.135:55555/udp/239.200.200.15:8856
+/udp/239.200.200.15:8856
 #EXTINF:-1 tvg-id="" tvg-name="云南娱乐" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/云南娱乐.png" group-title="云南",云南娱乐
-http://106.57.1.135:55555/udp/239.200.200.13:8848
+/udp/239.200.200.13:8848
 #EXTINF:-1 tvg-id="" tvg-name="云南康旅" tvg-logo="" group-title="云南",云南康旅
-http://106.57.1.135:55555/udp/239.200.200.31:8860
+/udp/239.200.200.31:8860
 #EXTINF:-1 tvg-id="" tvg-name="云南少儿" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/云南少儿.png" group-title="云南",云南少儿
-http://106.57.1.135:55555/udp/239.200.200.32:8864
+/udp/239.200.200.32:8864
 #EXTINF:-1 tvg-id="" tvg-name="澜湄国际" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/澜湄国际.png" group-title="云南",澜湄国际
-http://106.57.1.135:55555/udp/239.200.200.33:8024
+/udp/239.200.200.33:8024
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南4K
-http://106.57.1.135:55555/udp/239.200.200.178:8884
+/udp/239.200.200.178:8884
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",楚雄新闻
-http://106.57.1.135:55555/udp/239.200.200.116:8708
+/udp/239.200.200.116:8708
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",楚雄文旅
-http://106.57.1.135:55555/udp/239.200.200.117:8712
+/udp/239.200.200.117:8712
 
 ## 北京
 
