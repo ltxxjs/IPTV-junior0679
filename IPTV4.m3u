@@ -3,45 +3,45 @@
 # 央视
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv1.png" group-title="央视",CCTV-1 综合
-https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv2.png" group-title="央视",CCTV-2 财经
-https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv3.png" group-title="央视",CCTV-3 综艺
-https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv4.png" group-title="央视",CCTV-4 中文国际
-https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4欧洲" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv4欧洲.png" group-title="央视",CCTV-4 中文国际 欧洲
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/57/01.m3u8?&HlsSubType=&encrypt=1
+
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4美洲" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv4美洲.png" group-title="央视",CCTV-4 中文国际 美洲
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/57/01.m3u8?&HlsSubType=&encrypt=1
+
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv5.png" group-title="央视",CCTV-5 体育
-https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv6.png" group-title="央视",CCTV-6 电影
-https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv7.png" group-title="央视",CCTV-7 国防军事
-https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv8.png" group-title="央视",CCTV-8 电视剧
-https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv9.png" group-title="央视",CCTV-9 纪录
-https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv10.png" group-title="央视",CCTV-10 科教
-https://live.goodiptv.club/api/cqyx.php?id=cctv10HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv11.png" group-title="央视",CCTV-11 戏曲
-https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv12.png" group-title="央视",CCTV-12 社会与法
-https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv13.png" group-title="央视",CCTV-13 新闻
-https://live.goodiptv.club/api/cqyx.php?id=CCTVNewsHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv14.png" group-title="央视",CCTV-14 少儿
-https://live.goodiptv.club/api/cqyx.php?id=cctvseHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv15.png" group-title="央视",CCTV-15 音乐
-https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv16.png" group-title="央视",CCTV-16 奥林匹克
-https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv17.png" group-title="央视",CCTV-17 农业农村
-https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv5+.png" group-title="央视",CCTV-5+ 体育赛事
-http://117.141.149.101:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv世界地理.png" group-title="央视",CCTV 世界地理
 
 #EXTINF:-1 tvg-id="" tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv风云剧场.png" group-title="央视",CCTV 风云剧场
