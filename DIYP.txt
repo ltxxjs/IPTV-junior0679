@@ -243,6 +243,7 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/
 山西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1574076400_-2066173512/ott.mobaibox.com/PLTV/3/224/3221227559/index.m3u8
 山西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
 
+陕西卫视,http://36.46.99.54:8009/udp/239.111.205.35:5140
 陕西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2360314992_451435426/ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
 
@@ -278,15 +279,14 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/
 湖南卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 江西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1965546073_-1364170119/ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8?icpid=3&RTS=1669700566&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
+江西卫视,http://182.96.203.56:8888/udp/239.252.220.63:5140
 江西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8
 
 东南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0a]/wh7f454c46tw2900649569_-743777193/ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8?icpid=3&RTS=1669701501&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 东南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
 
-厦门卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-厦门卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
-
 广西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw2325655923_1638953995/ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8?icpid=3&RTS=1669700926&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+广西卫视,http://58.59.239.153:8086/udp/239.81.0.107:4056
 广西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8
 
 四川卫视,http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2502717081_11504314/ott.mobaibox.com/PLTV/3/224/3221227556/index.m3u8?icpid=3&RTS=1669701103&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
@@ -296,13 +296,16 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/
 贵州卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
 
 云南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
+云南卫视,http://106.57.0.39:55555/udp/239.200.200.145:8840
 云南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
 
 海南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2843123663_1489055229/ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8?icpid=3&RTS=1669701444&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 海南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
+海南卫视,/rtp/239.253.64.253:5140
 
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 三沙卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002801/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+三沙卫视,/rtp/239.253.64.112:5140
 
 宁夏卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001061/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 宁夏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8
@@ -543,18 +546,100 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/
 
 陕西,#genre#
 
-陕西新闻资讯,/udp/239.111.205.28:5140
+陕西新闻资讯,http://36.46.99.54:8009/udp/239.111.205.28:5140
 陕西都市青春,http://222.90.97.254:9901/tsfile/live/1012_1.m3u8
-陕西生活,/udp/239.111.205.98:5140
+陕西都市青春,http://36.46.99.54:8009/udp/239.111.205.42:5140
+陕西生活,http://36.46.99.54:8009/udp/239.111.205.98:5140
 陕西影视,http://222.90.97.254:9901/tsfile/live/1016_1.m3u8
+陕西影视,http://36.46.99.54:8009/udp/239.111.205.99:5140
 陕西公共,http://222.90.97.254:9901/tsfile/live/1015_1.m3u8
-陕西体育休闲,/udp/239.111.205.36:5140
+陕西公共,http://36.46.99.54:8009/udp/239.111.205.100:5140
+陕西体育休闲,http://36.46.99.54:8009/udp/239.111.205.36:5140
 陕西西部电影,http://222.90.97.254:9901/tsfile/live/1014_1.m3u8
+陕西西部电影,http://36.46.99.54:8009/udp/239.111.205.102:5140
 
 江苏,#genre#
+
+江苏新闻,http://222.95.182.149:4022/rtp/239.49.9.40:6000
+江苏城市,http://222.95.182.149:4022/rtp/239.49.9.35:6000
+江苏国际,http://2016.328326.com:3005/jstv/video?vodId=jsgj
+江苏综艺,http://222.95.182.149:4022/rtp/239.49.9.36:6000
+江苏影视,http://222.95.182.149:4022/rtp/239.49.9.38:6000
+江苏教育,http://222.95.182.149:4022/rtp/239.49.9.42:6000
+江苏体育休闲,http://222.95.182.149:4022/rtp/239.49.9.37:6000
+优漫卡通,http://222.95.182.149:4022/rtp/239.49.9.39:6000
+南京新闻,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/ott.mobaibox.com/PLTV/4/224/3221227213/index.m3u8
+南京信息,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/ott.mobaibox.com/PLTV/4/224/3221227730/index.m3u8
+南京娱乐,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221227722/index.m3u8
+南京少儿,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3425352611_209642410/ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8
+南京教科,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3484211223_471033633/ott.mobaibox.com/PLTV/4/224/3221227194/index.m3u8
+南京生活,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3530023629_201686832/ott.mobaibox.com/PLTV/4/224/3221227786/index.m3u8
+南京影视,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3614839407_-1644050596/ott.mobaibox.com/PLTV/4/224/3221227719/index.m3u8
+南京十八,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3568749588_-1882152959/ott.mobaibox.com/PLTV/4/224/3221227178/index.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+
 安徽,#genre#
+
+安徽公共,http://114.97.209.64:8888/udp/238.1.79.43:4456
+安徽经济生活,http://114.97.214.101:8888/udp/238.1.79.44:4464
+安徽影视,http://114.97.214.101:8888/udp/238.1.79.42:4448
+安徽农业科教,http://114.97.214.101:8888/udp/238.1.79.40:4432
+安徽综艺体育,http://114.97.214.101:8888/udp/238.1.79.41:4440
+安徽国际,http://114.97.214.101:8888/udp/238.1.78.61:6360
+屯溪融媒,http://114.97.214.101:8888/udp/238.1.79.45:4472
+海豚生活,http://114.97.214.101:8888/udp/238.1.79.50:4512
+海豚少儿,http://114.97.214.101:8888/udp/238.1.79.32:4368
+海豚健康,http://114.97.214.101:8888/udp/238.1.79.33:4376
+海豚影视,http://114.97.214.101:8888/udp/238.1.79.34:4384
+合肥新闻,http://114.97.214.101:8888/udp/238.1.78.111:6760
+
 浙江,#genre#
+
+浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江新闻,http://iptv.myxcwh.com:8888/udp/233.50.201.137:5140
+浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江经济生活,http://iptv.myxcwh.com:8888/udp/233.50.201.133:5140
+浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://iptv.myxcwh.com:8888/udp/233.50.201.138:5140
+浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江教科影视,http://iptv.myxcwh.com:8888/udp/233.50.201.134:5140
+浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江民生休闲,http://iptv.myxcwh.com:8888/udp/233.50.201.136:5140
+钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+钱江都市,http://iptv.myxcwh.com:8888/udp/233.50.201.132:5140
+之江记录,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+之江记录,http://iptv.myxcwh.com:8888/udp/233.50.202.25:5140
+杭州综合,http://iptv.myxcwh.com:8888/udp/233.50.201.173:5140
+杭州明珠,http://iptv.myxcwh.com:8888/udp/233.50.201.174:5140
+杭州生活,http://iptv.myxcwh.com:8888/udp/233.50.201.175:5140
+杭州影视,http://iptv.myxcwh.com:8888/udp/233.50.201.176:5140
+杭州青少体育,http://iptv.myxcwh.com:8888/udp/233.50.201.177:5140
+杭州导视,http://iptv.myxcwh.com:8888/udp/233.50.201.182:5140
+
 湖北,#genre#
+
+湖北公共新闻,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
+湖北公共新闻,http://iay.cx:4567/rtp/239.69.1.40:9880
+湖北综合,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
+湖北综合,http://iay.cx:4567/rtp/239.69.1.42:9892
+湖北经视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU
+湖北经视,http://iay.cx:4567/rtp/239.69.1.41:9886
+湖北教育,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
+湖北教育,http://iay.cx:4567/rtp/239.69.1.206:10878
+湖北垄上,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo
+湖北垄上,http://iay.cx:4567/rtp/239.69.1.43:9898
+湖北生活,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKJPodw5BcDirSOw7egztI5bUvJjqPzSNAhrA37GrbRBIAjGQpzP0QmgsmuHnQyd2c
+湖北生活,http://iay.cx:4567/rtp/239.69.1.205:10872
+湖北影视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
+湖北影视,http://iay.cx:4567/rtp/239.69.1.204:10866
+武汉新闻综合,http://iay.cx:4567/rtp/239.69.1.145:10506
+武汉电视剧,http://iay.cx:4567/rtp/239.69.1.146:10512
+武汉科技生活,http://iay.cx:4567/rtp/239.69.1.251:11148
+武汉经济,http://iay.cx:4567/rtp/239.69.1.35:9850
+武汉文体,http://iay.cx:4567/rtp/239.69.1.147:10518
+武汉外语,http://iay.cx:4567/rtp/239.69.1.36:9856
+武汉教育,http://iay.cx:4567/rtp/239.69.1.60:9994
 
 湖南,#genre#
 
@@ -582,12 +667,104 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/
 长沙政法,http://175.9.142.49:8888/udp/239.76.253.122:9000
 
 江西,#genre#
+
+江西新闻,http://182.96.203.56:8888/udp/239.252.220.100:5140
+江西都市,http://182.96.203.56:8888/udp/239.252.220.238:5140
+江西生活,http://182.96.203.56:8888/udp/239.252.219.173:5140
+江西影视,http://182.96.203.56:8888/udp/239.252.220.242:5140
+江西公共,http://182.96.203.56:8888/udp/239.252.220.102:5140
+江西少儿,http://182.96.203.56:8888/udp/239.252.219.113:5140
+江西移动,http://182.96.203.56:8888/udp/239.252.220.241:5140
+江西教育,http://182.96.203.56:8888/udp/239.252.219.115:5140
+
 福建,#genre#
+
+海峡卫视,http://117.28.129.36:8888/udp/239.61.2.151:8894
+福建新闻,http://117.28.129.36:8888/udp/239.61.4.4:1025
+福建综合,http://117.28.129.36:8888/udp/239.61.5.167:1025
+福建经济,http://117.28.129.36:8888/udp/239.61.4.7:1025
+福建旅游,http://117.28.129.36:8888/udp/239.61.4.6:1025
+福建文体,http://117.28.129.36:8888/udp/239.61.5.44:1025
+福建电视剧,http://117.28.129.36:8888/udp/239.61.4.5:1025
+福建少儿,http://117.28.129.36:8888/udp/239.61.4.9:1025
+福建乡村振兴公共,http://117.28.129.36:8888/udp/239.61.4.3:1025
+福建教育,http://117.28.129.36:8888/udp/239.61.5.60:1025
+厦门卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+厦门卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
+厦门1,http://117.28.129.36:8888/udp/239.61.5.99:1025
+厦门2,http://117.28.129.36:8888/udp/239.61.4.140:1025
+福州FZTV-1,http://117.28.129.36:8888/udp/239.61.5.97:1025
+
 广西,#genre#
+
+广西新闻,http://58.59.239.153:8086/udp/239.81.0.248:4056
+广西都市,http://58.59.239.153:8086/udp/239.81.0.247:4056
+广西影视,http://58.59.239.153:8086/udp/239.81.0.250:4056
+广西综艺旅游,http://58.59.239.153:8086/udp/239.81.0.214:4056
+南宁新闻综合,http://58.59.239.153:8086/udp/239.81.0.241:4056
+南宁文旅生活,http://58.59.239.153:8086/udp/239.81.0.139:4056
+南宁公共,http://58.59.239.153:8086/udp/239.81.0.141:4056
+南宁影视娱乐,http://58.59.239.153:8086/udp/239.81.0.140:4056
+
 四川,#genre#
+
+四川经济,http://171.217.58.196:8088/udp/239.93.1.101:5140
+四川文化旅游,http://171.217.58.196:8088/udp/239.93.1.102:5140
+四川新闻,http://171.217.58.196:8088/udp/239.93.0.47:5140
+四川影视文艺,http://171.217.58.196:8088/udp/239.93.0.166:5140
+四川妇女儿童,http://171.217.58.196:8088/udp/239.93.0.219:5140
+四川科教,http://171.217.58.196:8088/udp/239.93.42.44:5140
+四川乡村,http://171.217.58.196:8088/udp/239.93.0.52:5140
+康巴卫视,http://171.217.58.196:8088/udp/239.93.0.41:5140
+峨眉电影,http://171.217.58.196:8088/udp/239.93.0.252:5140
+成都 CDTV.1 综合,http://171.217.58.196:8088/udp/239.93.0.16:5140
+成都 CDTV.2 经济,http://171.217.58.196:8088/udp/239.93.0.17:1239
+成都 CDTV.3 生活,http://171.217.58.196:8088/udp/239.93.0.18:1238
+成都 CDTV.4 影视,http://171.217.58.196:8088/udp/239.93.0.19:1250
+成都 CDTV.5 公共,http://171.217.58.196:8088/udp/239.93.1.231:5140
+成都 CDTV.6 少儿,http://171.217.58.196:8088/udp/239.93.0.21:1251
+GDTV 蓉城先锋,http://171.217.58.196:8088/udp/239.93.0.91:2101
+成都体育,http://171.217.58.196:8088/udp/239.93.0.224:1281
+熊猫频道1,http://171.217.58.196:8088/udp/239.93.0.211:9148
+熊猫频道2,http://171.217.58.196:8088/udp/239.93.1.178:5140
+
 贵州,#genre#
+
+贵州公共,http://220.172.21.222:4022/rtp/238.255.2.2:5999
+贵州影视文艺,http://220.172.21.222:4022/rtp/238.255.2.3:5999
+贵州大众生活,http://220.172.21.222:4022/rtp/238.255.2.4:5999
+贵州生态乡村,http://220.172.21.222:4022/rtp/238.255.2.5:5999
+贵州科教健康,http://220.172.21.222:4022/rtp/238.255.2.6:5999
+贵州经济,http://220.172.21.222:4022/rtp/238.255.2.9:5999
+
 云南,#genre#
+
+云南都市,http://106.57.0.39:55555/udp/239.200.200.12:8844
+云南影视,http://106.57.0.39:55555/udp/239.200.200.15:8856
+云南娱乐,http://106.57.0.39:55555/udp/239.200.200.13:8848
+云南康旅,http://106.57.0.39:55555/udp/239.200.200.31:8860
+云南少儿,http://106.57.0.39:55555/udp/239.200.200.32:8864
+澜湄国际,http://106.57.0.39:55555/udp/239.200.200.33:8024
+云南4K,http://106.57.0.39:55555/udp/239.200.200.178:8884
+楚雄新闻,http://106.57.0.39:55555/udp/239.200.200.116:8708
+楚雄文旅,http://106.57.0.39:55555/udp/239.200.200.117:8712
+
 海南,#genre#
+
+海南新闻,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?IAS
+海南新闻,/rtp/239.253.64.121:5140
+海南文旅,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?fmmv6
+海南文旅,/rtp/239.253.64.122:5140
+海南公共,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?fmmv6
+海南公共,/rtp/239.253.64.14:5140
+海南自贸,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?fmmv6
+海南自贸,/rtp/239.253.64.119:5140
+海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
+海南少儿,/rtp/239.253.64.124:5140
+海口1,http://153.0.158.159:16080/live/hktv1.m3u8
+海口2,http://153.0.158.159:16080/live/hktv2.m3u8
+海口3,http://153.0.158.159:16080/live/hktv3.m3u8
+
 宁夏,#genre#
 甘肃,#genre#
 青海,#genre#
