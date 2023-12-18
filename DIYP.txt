@@ -988,13 +988,19 @@ GDTV 蓉城先锋,http://cdn.swes.cn:8089/udp/239.93.0.91:2101
 凤凰卫视香港台,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 凤凰卫视香港台,http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/3/224/3221228530/1.m3u8
 凤凰卫视香港台,http://wot2020.asuscomm.com:20121/bysid/259
+TVB翡翠台,http://r.jdshipin.com/qClQf
+TVB无线新闻台,http://live.cooltv.top/tv/tvb.php?id=1&hq
+TVB无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 TVB无线新闻台,http://gwtv.cnv8.tv:8097/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a8
-TVB财经体育资讯台,http://r.jdshipin.com/LiYdg
+TVB财经体育资讯台,http://live.cooltv.top/tv/tvb.php?id=3&hq
+TVB财经体育资讯台,http://live.cooltv.top/tv/tvb.php?id=2&hq
 TVB直播台,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
 HOY国际财经台,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 HOY资讯台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8?
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 台湾,#genre#
 
@@ -1025,6 +1031,7 @@ mnews·镜新闻,https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 年代新闻,http://gwtv.cnv8.tv:8097/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 非凡新闻,
+壹新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1242
 Taiwan+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 Taiwan+,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
@@ -1130,6 +1137,12 @@ Fashion TV,https://i.mjh.nz/SamsungTVPlus/FRAJ4500020YA.m3u8
 Fashion TV,https://i.mjh.nz/SamsungTVPlus/GBAJ4900002DE.m3u8
 Fashion TV,https://i.mjh.nz/SamsungTVPlus/INBA51000038B.m3u8
 Fashion TV,https://i.mjh.nz/SamsungTVPlus/ITAJ4500017PG.m3u8
+欧洲华文电视台1,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+欧洲华文电视台1,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+欧洲华文电视台2,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+欧洲华文电视台2,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+欧洲华文电视台6,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
+欧洲华文电视台6,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
 
 数字,#genre#
 
@@ -1322,3 +1335,8 @@ Fashion TV,https://i.mjh.nz/SamsungTVPlus/ITAJ4500017PG.m3u8
 咪咕直播-53,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000032106/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000032106&livemode=1&stbId=3
 咪咕直播4K-1,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕直播4K-2,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+
+测试,#genre#
+
+中天新闻,https://www.youtube.com/watch?v=oIsyagVTHrQ
+TVBS,https://www.youtube.com/watch?v=LUaihoTWjOE
