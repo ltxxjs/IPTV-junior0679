@@ -1078,13 +1078,11 @@ Bloomberg TV+,https://i.mjh.nz/SamsungTVPlus/KRBB500039Y5.m3u8
 Bloomberg TV+,https://i.mjh.nz/SamsungTVPlus/USAJ3400011A8.m3u8
 Bloomberg TV+,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8?zshijd
 Bloomberg TV+,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-BBC World News,http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/418112
-BBC World News,http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/508035
+BBC World News,
 CNN,https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8
 CNN,https://i.mjh.nz/SamsungTVPlus/CHBD800001D0.m3u8
 CNN,https://i.mjh.nz/SamsungTVPlus/DEBD800001S4.m3u8
 CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-CNN,http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/418435
 CNN FAST,https://i.mjh.nz/SamsungTVPlus/ATBD190000101.m3u8
 CNN FAST,https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
 CNN FAST,https://i.mjh.nz/SamsungTVPlus/CHBD1900001JB.m3u8
