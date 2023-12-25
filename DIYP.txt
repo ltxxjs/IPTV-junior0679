@@ -28,6 +28,8 @@ CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/in
 CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV1,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV1,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV1,http://221.213.69.82:8888/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV1,http://119.62.142.2:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV1,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210103.m3u8
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV1,https://tv.iill.top/cqyx/cctv1HD
@@ -44,6 +46,8 @@ CCTV2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/in
 CCTV2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV2,http://221.213.69.82:8888/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV2,http://119.62.142.2:9901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV2,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203603.m3u8
 CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 CCTV2,https://tv.iill.top/cqyx/cctv2HD
@@ -68,6 +72,8 @@ CCTV3,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u
 CCTV3,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001186/index.m3u8?love=freedom
 CCTV3,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV3,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV3,http://221.213.69.82:8888/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV3,http://119.62.142.2:9901/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV3,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
 CCTV3,https://tv.iill.top/cqyx/cctv3HD
 CCTV3,http://iptv.8t.cx:8180/udp/239.3.1.172:8001
@@ -86,6 +92,8 @@ CCTV4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u
 CCTV4,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001221/index.m3u8?love=freedom
 CCTV4,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV4,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV4,http://221.213.69.82:8888/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4,http://119.62.142.2:9901/tsfile/live/0004_1.m3u8?key=txiptv
 CCTV4,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204803.m3u8
 CCTV4,https://tv.iill.top/cqyx/cctv4HD
 CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
@@ -107,6 +115,8 @@ CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8
 CCTV5,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001187/index.m3u8?love=freedom
 CCTV5,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV5,http://221.213.69.82:8888/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5,http://119.62.142.2:9901/tsfile/live/0005_1.m3u8?key=txiptv
 CCTV5,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV5,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205102.m3u8
 CCTV5,https://tv.iill.top/cqyx/cctv5HD
@@ -126,7 +136,8 @@ CCTV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001275/in
 CCTV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV6,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV6,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV6,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
+CCTV6,http://221.213.69.82:8888/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV6,http://119.62.142.2:9901/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV6,https://tv.iill.top/cqyx/cctv6HD
 CCTV6,http://iptv.8t.cx:8180/udp/239.3.1.174:8001
 CCTV6,http://www.kkk8861.tk:8888/rtp/239.121.4.153:8902
@@ -141,6 +152,8 @@ CCTV7,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u
 CCTV7,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001236/index.m3u8?love=freedom
 CCTV7,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV7,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV7,http://221.213.69.82:8888/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7,http://119.62.142.2:9901/tsfile/live/0007_1.m3u8?key=txiptv
 CCTV7,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000510002.m3u8
 CCTV7,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
 CCTV7,https://tv.iill.top/cqyx/cctv7HD
@@ -158,6 +171,8 @@ CCTV8,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001189/index.m3u
 CCTV8,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001189/index.m3u8?love=freedom
 CCTV8,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV8,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV8,http://221.213.69.82:8888/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV8,http://119.62.142.2:9901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV8,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
 CCTV8,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 CCTV8,https://tv.iill.top/cqyx/cctv8HD
@@ -174,6 +189,8 @@ CCTV9,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u
 CCTV9,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001237/index.m3u8?love=freedom
 CCTV9,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV9,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV9,http://221.213.69.82:8888/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV9,http://119.62.142.2:9901/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV9,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
 CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 CCTV9,https://tv.iill.top/cqyx/cctv9HD
@@ -190,6 +207,8 @@ CCTV10,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3
 CCTV10,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001238/index.m3u8?love=freedom
 CCTV10,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV10,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV10,http://221.213.69.82:8888/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10,http://119.62.142.2:9901/tsfile/live/0010_1.m3u8?key=txiptv
 CCTV10,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
 CCTV10,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 CCTV10,https://tv.iill.top/cqyx/cctv10HD
@@ -221,6 +240,8 @@ CCTV12,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3
 CCTV12,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001239/index.m3u8?love=freedom
 CCTV12,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV12,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV12,http://221.213.69.82:8888/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV12,http://119.62.142.2:9901/tsfile/live/0012_1.m3u8?key=txiptv
 CCTV12,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8
 CCTV12,https://tv.iill.top/cqyx/cctv12HD
 CCTV12,http://iptv.8t.cx:8180/udp/239.3.1.64:8124
@@ -251,6 +272,8 @@ CCTV14,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3
 CCTV14,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001240/index.m3u8?love=freedom
 CCTV14,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV14,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV14,http://221.213.69.82:8888/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14,http://119.62.142.2:9901/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV14,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204403.m3u8
 CCTV14,https://tv.iill.top/cqyx/cctvseHD
 CCTV14,http://iptv.8t.cx:8180/udp/239.3.1.65:8132
@@ -471,6 +494,8 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 北京卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001029/index.m3u8?love=freedom
 北京卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+北京卫视,http://221.213.69.82:8888/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
+北京卫视,http://119.62.142.2:9901/tsfile/live/0122_1.m3u8?key=txiptv
 北京卫视,https://tv.iill.top/cqyx/beijingHD
 北京卫视,http://iptv.8t.cx:8180/udp/239.3.1.241:8000
 北京卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.117:8684
@@ -486,6 +511,8 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 东方卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
 东方卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001028/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+东方卫视,http://221.213.69.82:8888/tsfile/live/0135_2.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://119.62.142.2:9901/tsfile/live/0130_1.m3u8?key=txiptv
 东方卫视,https://tv.iill.top/cqyx/shanghaiHD
 东方卫视,http://iptv.8t.cx:8180/udp/239.3.1.136:8032
 东方卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.109:8636
@@ -502,6 +529,8 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 广东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001031/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 广东卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 广东卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001031/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+广东卫视,http://221.213.69.82:8888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://119.62.142.2:9901/tsfile/live/0120_1.m3u8?key=txiptv
 广东卫视,https://tv.iill.top/cqyx/guangdongHD
 广东卫视,http://iptv.8t.cx:8180/udp/239.3.1.142:8048
 广东卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.118:8690
@@ -517,6 +546,8 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 深圳卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001029/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 深圳卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 深圳卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001029/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+深圳卫视,http://221.213.69.82:8888/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳卫视,http://119.62.142.2:9901/tsfile/live/0138_1.m3u8?key=txiptv
 深圳卫视,https://tv.iill.top/cqyx/shenzhenHD
 深圳卫视,http://iptv.8t.cx:8180/udp/239.3.1.134:8020
 深圳卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.119:8696
@@ -530,6 +561,8 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 天津卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001036/index.m3u8?love=freedom
 天津卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 天津卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+天津卫视,http://221.213.69.82:8888/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+天津卫视,http://119.62.142.2:9901/tsfile/live/0135_1.m3u8?key=txiptv
 天津卫视,https://tv.iill.top/cqyx/tianjinHD
 天津卫视,http://iptv.8t.cx:8180/udp/239.3.1.141:1234
 天津卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.72:8406
@@ -543,6 +576,8 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 重庆卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001129/index.m3u8
 重庆卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 重庆卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+重庆卫视,http://221.213.69.82:8888/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://119.62.142.2:9901/tsfile/live/0126_1.m3u8?key=txiptv
 重庆卫视,http://iptv.8t.cx:8180/udp/239.3.1.122:8160
 重庆卫视,http://www.kkk8861.tk:8888/udp/239.121.4.36:8190
 重庆卫视,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
@@ -558,6 +593,8 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 黑龙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001274/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 黑龙江卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 黑龙江卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001274/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+黑龙江卫视,http://221.213.69.82:8888/tsfile/live/0138_2.m3u8?key=txiptv&playlive=0&authid=0
+黑龙江卫视,http://119.62.142.2:9901/tsfile/live/0123_1.m3u8?key=txiptv
 黑龙江卫视,https://tv.iill.top/cqyx/heilongjiangHD
 黑龙江卫视,http://iptv.8t.cx:8180/udp/239.3.1.133:8016
 黑龙江卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.120:8702
@@ -567,6 +604,8 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 吉林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
 吉林卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001225/index.m3u8?love=freedom
 吉林卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001225/index.m3u8
+吉林卫视,http://221.213.69.82:8888/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林卫视,http://119.62.142.2:9901/tsfile/live/0139_2.m3u8?key=txiptv
 吉林卫视,https://tv.iill.top/cqyx/jilinHD
 吉林卫视,http://iptv.8t.cx:8180/udp/239.3.1.240:8172
 吉林卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.43:8232
@@ -580,6 +619,8 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 辽宁卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001296/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 辽宁卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 辽宁卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001296/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+辽宁卫视,http://221.213.69.82:8888/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+辽宁卫视,http://119.62.142.2:9901/tsfile/live/0121_1.m3u8?key=txiptv
 辽宁卫视,https://tv.iill.top/cqyx/liaoningHD
 辽宁卫视,http://iptv.8t.cx:8180/udp/239.3.1.210:8056
 辽宁卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.163:8962
@@ -590,6 +631,8 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 河北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8
 河北卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001229/index.m3u8?love=freedom
 河北卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001229/index.m3u8
+河北卫视,http://221.213.69.82:8888/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://119.62.142.2:9901/tsfile/live/0118_1.m3u8?key=txiptv
 河北卫视,https://tv.iill.top/cqyx/hebeiSD
 河北卫视,http://iptv.8t.cx:8180/udp/239.3.1.148:8072
 河北卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.76:8430
@@ -601,6 +644,8 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 河南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8
 河南卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001222/index.m3u8?love=freedom
 河南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
+河南卫视,http://221.213.69.82:8888/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://119.62.142.2:9901/tsfile/live/0125_1.m3u8?key=txiptv
 河南卫视,https://tv.iill.top/cqyx/henanHD
 河南卫视,http://iptv.8t.cx:8180/udp/239.3.1.27:8128
 河南卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.40:8214
@@ -617,18 +662,24 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 山东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 山东卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 山东卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+山东卫视,http://221.213.69.82:8888/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://119.62.142.2:9901/tsfile/live/0142_1.m3u8?key=txiptv
 山东卫视,http://iptv.8t.cx:8180/udp/239.3.1.209:8052
 山东卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.162:8956
 
 山西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1574076400_-2066173512/ott.mobaibox.com/PLTV/3/224/3221227559/index.m3u8
 山西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
 山西卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001070/index.m3u8
+山西卫视,http://221.213.69.82:8888/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+山西卫视,http://119.62.142.2:9901/tsfile/live/0116_1.m3u8?key=txiptv
 山西卫视,http://iptv.8t.cx:8180/udp/239.3.1.42:8172
 山西卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.32:8166
 
 陕西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2360314992_451435426/ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
 陕西卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001067/index.m3u8
+陕西卫视,http://221.213.69.82:8888/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0
+陕西卫视,http://119.62.142.2:9901/tsfile/live/0113_1.m3u8?key=txiptv
 陕西卫视,http://iptv.8t.cx:8180/udp/239.3.1.41:8140
 陕西卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.38:8202
 
@@ -641,6 +692,8 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 江苏卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001033/index.m3u8?love=freedom
 江苏卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 江苏卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+江苏卫视,http://221.213.69.82:8888/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+江苏卫视,http://119.62.142.2:9901/tsfile/live/0127_1.m3u8?key=txiptv
 江苏卫视,https://tv.iill.top/cqyx/jiangsuHD
 江苏卫视,http://iptv.8t.cx:8180/udp/239.3.1.135:8028
 江苏卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.115:8672
@@ -656,6 +709,8 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 安徽卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+安徽卫视,http://221.213.69.82:8888/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://119.62.142.2:9901/tsfile/live/0135_2.m3u8?key=txiptv
 安徽卫视,https://tv.iill.top/cqyx/anhuiSD
 安徽卫视,http://iptv.8t.cx:8180/udp/239.3.1.211:8064
 安徽卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.161:8950
@@ -673,6 +728,8 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 浙江卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001026/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 浙江卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://221.213.69.82:8888/tsfile/live/0127_2.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视,http://119.62.142.2:9901/tsfile/live/0124_1.m3u8?key=txiptv
 浙江卫视,https://tv.iill.top/cqyx/zhejiangHD
 浙江卫视,http://iptv.8t.cx:8180/udp/239.3.1.137:8036
 浙江卫视,http://www.kkk8861.tk:8888/udp/239.121.4.116:8678
@@ -687,6 +744,8 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 湖北卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001299/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖北卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖北卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001299/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+湖北卫视,http://221.213.69.82:8888/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北卫视,http://119.62.142.2:9901/tsfile/live/0143_1.m3u8?key=txiptv
 湖北卫视,https://tv.iill.top/cqyx/hubeiSD
 湖北卫视,http://iptv.8t.cx:8180/udp/239.3.1.138:8044
 湖北卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.126:8738
@@ -698,6 +757,8 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 湖南卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001026/index.m3u8?love=freedom
 湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖南卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+湖南卫视,http://221.213.69.82:8888/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南卫视,http://119.62.142.2:9901/tsfile/live/0122_2.m3u8?key=txiptv
 湖南卫视,https://tv.iill.top/cqyx/hunanHD
 湖南卫视,http://iptv.8t.cx:8180/udp/239.3.1.132:8012
 湖南卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.114:8666
@@ -720,6 +781,8 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 东南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
 东南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001201/index.m3u8
 东南卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001201/index.m3u8?love=freedom
+东南卫视,http://221.213.69.82:8888/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
+东南卫视,http://119.62.142.2:9901/tsfile/live/0139_1.m3u8?key=txiptv
 东南卫视,https://tv.iill.top/cqyx/dongnanHD
 东南卫视,http://iptv.8t.cx:8180/udp/239.3.1.156:8148
 东南卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.102:9226
@@ -728,6 +791,8 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 厦门卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
 厦门卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
+厦门卫视,http://221.213.69.82:8888/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
+厦门卫视,http://119.62.142.2:9901/tsfile/live/0109_2.m3u8?key=txiptv
 厦门卫视,http://iptv.8t.cx:8180/udp/239.3.1.143:4120
 
 广西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw2325655923_1638953995/ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8?icpid=3&RTS=1669700926&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
@@ -736,6 +801,8 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 广西卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001224/index.m3u8
 广西卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001224/index.m3u8?love=freedom
 广西卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001054/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+广西卫视,http://221.213.69.82:8888/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
+广西卫视,http://119.62.142.2:9901/tsfile/live/0136_1.m3u8?key=txiptv
 广西卫视,https://tv.iill.top/cqyx/guangxiHD
 广西卫视,http://iptv.8t.cx:8180/udp/239.3.1.39:8300
 广西卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.47:8256
@@ -747,6 +814,8 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 四川卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
 四川卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001130/index.m3u8?love=freedom
 四川卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001130/index.m3u8
+四川卫视,http://221.213.69.82:8888/tsfile/live/0139_2.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://119.62.142.2:9901/tsfile/live/0132_1.m3u8?key=txiptv
 四川卫视,https://tv.iill.top/cqyx/sichuanHD
 四川卫视,http://iptv.8t.cx:8180/udp/239.3.1.29:8288
 四川卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.110:8642
@@ -759,6 +828,8 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 贵州卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
 贵州卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001184/index.m3u8?love=freedom
 贵州卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001184/index.m3u8
+贵州卫视,http://221.213.69.82:8888/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+贵州卫视,http://119.62.142.2:9901/tsfile/live/0138_2.m3u8?key=txiptv
 贵州卫视,https://tv.iill.top/cqyx/guizhouHD
 贵州卫视,http://iptv.8t.cx:8180/udp/239.3.1.149:8076
 贵州卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.65:8364
@@ -766,6 +837,7 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 云南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
 云南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
 云南卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8?love=freedom
+云南卫视,http://119.62.142.2:9901/tsfile/live/0019_1.m3u8?key=txiptv
 云南卫视,https://tv.iill.top/cqyx/yunnanSD
 云南卫视,http://iptv.8t.cx:8180/udp/239.3.1.26:8108
 云南卫视,http://www.kkk8861.tk:8888/udp/239.121.4.48:8262
@@ -775,6 +847,8 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 海南卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225978/index.m3u8
 海南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 海南卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001183/index.m3u8?love=freedom
+海南卫视,http://221.213.69.82:8888/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
+海南卫视,http://119.62.142.2:9901/tsfile/live/0112_1.m3u8?key=txiptv
 海南卫视,https://tv.iill.top/cqyx/hainanSD
 海南卫视,http://iptv.8t.cx:8180/udp/239.3.1.45:8304
 海南卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.50:8274
@@ -796,18 +870,24 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 甘肃卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8
 甘肃卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001298/index.m3u8?love=freedom
 甘肃卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001298/index.m3u8
+甘肃卫视,http://221.213.69.82:8888/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+甘肃卫视,http://119.62.142.2:9901/tsfile/live/0109_1.m3u8?key=txiptv
 甘肃卫视,http://iptv.8t.cx:8180/udp/239.3.1.49:8188
 甘肃卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.25:8124
 
 青海卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1221605145_-1738716276/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8?icpid=3&RTS=1668600311&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 青海卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001450/index.m3u8
 青海卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001033/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+青海卫视,http://221.213.69.82:8888/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+青海卫视,http://119.62.142.2:9901/tsfile/live/0140_1.m3u8?key=txiptv
 青海卫视,http://iptv.8t.cx:8180/udp/239.3.1.44:8184
 青海卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.55:8304
 
 内蒙古卫视,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2228825807_1324573507/ott.mobaibox.com/PLTV/3/224/3221227557/index.m3u8
 内蒙古卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
 内蒙古卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8
+内蒙古卫视,http://221.213.69.82:8888/tsfile/live/0109_2.m3u8?key=txiptv&playlive=0&authid=0
+内蒙古卫视,http://119.62.142.2:9901/tsfile/live/0141_1.m3u8?key=txiptv
 内蒙古卫视,http://iptv.8t.cx:8180/udp/239.3.1.43:8176
 内蒙古卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.57:8316
 
@@ -830,21 +910,20 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 云南,#genre#
 
 云南都市,http://221.213.69.82:8888/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
-云南都市,http://116.55.178.3:4000/udp/239.200.200.12:8844
-云南影视,http://116.55.178.3:4000/udp/239.200.200.15:8856
+云南都市,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
+云南影视,
 云南娱乐,http://221.213.69.82:8888/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-云南娱乐,http://116.55.178.3:4000/udp/239.200.200.13:8848
+云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
 云南康旅,http://221.213.69.82:8888/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
-云南康旅,http://116.55.178.3:4000/udp/239.200.200.31:8860
-云南少儿,http://116.55.178.3:4000/udp/239.200.200.32:8864
-澜湄国际,http://116.55.178.3:4000/udp/239.200.200.33:8024
+云南康旅,http://tvlive.ynradio.com/live/yunnangonggong/chunks.m3u8
+云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
+澜湄国际,
 红河州HHTV-1,http://tv.drs.hhtv.cc:8100/channellive/hhtv-1.flv?zyund
 红河州HHTV-2,http://tv.drs.hhtv.cc:8100/channellive/hhtv-2.flv?zyund
 红河县,http://tv.drs.hhtv.cc:8100/channellive/hhxdst.flv?zyund
 福贡县,http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8?zyund
 麻栗坡,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?zyund
-文山公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
-文山新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
+文山新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 西双版纳文化旅游,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8?zyund
 西双版纳新闻综合,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8?zyund
 
@@ -885,6 +964,7 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 上海教育台,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001268/index.m3u8?love=freedom
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?love=freedom
+魅力足球,http://dl.ye23.win/iptv/cbnbntv.php?id=mlzqHD
 魅力足球,https://tv.iill.top/cqyx/mlzqHD
 
 黑龙江新闻法治,http://[2409:8087:1a01:df::4036]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
@@ -1156,6 +1236,11 @@ TV BRICS (en),http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 欧洲华文电视台2,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 欧洲华文电视台6,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
 欧洲华文电视台6,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
+sky sports news,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
+sky sports football,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
+sky soprts cricket,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
+EuroSport2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
+拜仁体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
 
 数字,#genre#
 
