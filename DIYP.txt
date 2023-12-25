@@ -631,6 +631,8 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 河北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8
 河北卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001229/index.m3u8?love=freedom
 河北卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001229/index.m3u8
+河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
+河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.flv?t=2510710360&k=14376f1bfbae59edda8d6e8de3ceb0c6
 河北卫视,http://221.213.69.82:8888/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 河北卫视,http://119.62.142.2:9901/tsfile/live/0118_1.m3u8?key=txiptv
 河北卫视,https://tv.iill.top/cqyx/hebeiSD
@@ -692,6 +694,9 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 江苏卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001033/index.m3u8?love=freedom
 江苏卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 江苏卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+江苏卫视,https://live-hls.jstv.com/livezhuzhan/jsws.m3u8?upt=9525d28f2510710360
+江苏卫视,https://live-hls.jstv.com/livezhuzhan/jsws.flv?upt=a1c4bb8c2510710360
+江苏卫视,rtmp://live-hls.jstv.com/livezhuzhan/jsws?upt=974907582510710360
 江苏卫视,http://221.213.69.82:8888/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
 江苏卫视,http://119.62.142.2:9901/tsfile/live/0127_1.m3u8?key=txiptv
 江苏卫视,https://tv.iill.top/cqyx/jiangsuHD
@@ -861,6 +866,7 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 宁夏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8
 宁夏卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001061/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 宁夏卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001074/index.m3u8
+宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 宁夏卫视,http://iptv.8t.cx:8180/udp/239.3.1.46:8124
 宁夏卫视,http://www.kkk8861.tk:8888/rtp/239.121.4.94:8538
 
@@ -878,6 +884,7 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 青海卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1221605145_-1738716276/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8?icpid=3&RTS=1668600311&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 青海卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001450/index.m3u8
 青海卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001033/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 青海卫视,http://221.213.69.82:8888/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
 青海卫视,http://119.62.142.2:9901/tsfile/live/0140_1.m3u8?key=txiptv
 青海卫视,http://iptv.8t.cx:8180/udp/239.3.1.44:8184
@@ -983,17 +990,57 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 黑龙江影视,http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
 黑龙江影视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225973/index.m3u8
 
+河北都市.http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=0a371e84fa6980927f5b617687e1ad11
+河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.flv?t=2510710360&k=7bd4710986c2af7552dcf3d4686da62b
+河北公共,http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=753a034a499730b224c99667ec91eb4e
+河北公共,http://tv.pull.hebtv.com/jishi/gonggongpindao.flv?t=2510710360&k=cff96e95e38e24efef71d7b2d9e884b9
+河北生活,http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=5ae52d7ff5118e85c19a12237a3518cb
+河北生活,http://tv.pull.hebtv.com/jishi/jingjishenghuo.flv?t=2510710360&k=6494958546ba14f920b575250b82577d
+河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=35e8479f6ac81ee25729454e88afa17c
+河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.flv?t=2510710360&k=9a91756059554d7dceec82db96be148b
+河北影视剧,http://tv.pull.hebtv.com/jishi/yingshijupindao.m3u8?t=2510710360&k=22da13f91d94e04e4935c5ed39dbdb62
+河北影视剧,http://tv.pull.hebtv.com/jishi/yingshijupindao.flv?t=2510710360&k=615492494de96b182322e871a6df4eb2
+河北农民,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=1c19f1e16256d45e9fdcb9b6725647cc
+河北农民,http://tv.pull.hebtv.com/jishi/nongminpindao.flv?t=2510710360&k=644e1285d17a22dfa4febf82d6a7edb5
+
+江苏新闻,https://live-hls.jstv.com/livezhuzhan/jsgg.m3u8?upt=4383b1d62510710360
+江苏新闻,https://live-hls.jstv.com/livezhuzhan/jsgg.flv?upt=3ffbf2232510710360
+江苏新闻,rtmp://live-hls.jstv.com/livezhuzhan/jsgg?upt=def530a82510710360
+江苏城市,https://live-hls.jstv.com/livezhuzhan/jscs.m3u8?upt=9bc4860f2510710360
+江苏城市,https://live-hls.jstv.com/livezhuzhan/jscs.flv?upt=d361165c2510710360
+江苏城市,rtmp://live-hls.jstv.com/livezhuzhan/jscs?upt=30a544992510710360
+江苏影视,https://live-hls.jstv.com/livezhuzhan/jsys.m3u8?upt=2012408f2510710360
+江苏影视,https://live-hls.jstv.com/livezhuzhan/jsys.flv?upt=8f2db1292510710360
+江苏影视,rtmp://live-hls.jstv.com/livezhuzhan/jsys?upt=ed57b6e62510710360
+江苏综艺,https://live-hls.jstv.com/livezhuzhan/jszy.m3u8?upt=c472cfa22510710360
+江苏综艺,https://live-hls.jstv.com/livezhuzhan/jszy.flv?upt=ad3deaf02510710360
+江苏综艺,rtmp://live-hls.jstv.com/livezhuzhan/jszy?upt=5fdf59522510710360
+江苏体育休闲,https://live-hls.jstv.com/livezhuzhan/jsty.m3u8?upt=7f5cca872510710360
+江苏体育休闲,https://live-hls.jstv.com/livezhuzhan/jsty.flv?upt=a21c61662510710360
+江苏体育休闲,rtmp://live-hls.jstv.com/livezhuzhan/jsty?upt=292ea6c82510710360
+江苏教育,https://live-hls.jstv.com/livezhuzhan/jsjy.m3u8?upt=cb7c273e2510710360
+江苏教育,https://live-hls.jstv.com/livezhuzhan/jsjy.flv?upt=b2077e7a2510710360
+江苏国际,https://live-hls.jstv.com/livezhuzhan/jsgj.m3u8?upt=624fbf672510710360
+江苏国际,https://live-hls.jstv.com/livezhuzhan/jsgj.flv?upt=9911a6af2510710360
+江苏国际,rtmp://live-hls.jstv.com/livezhuzhan/jsgj?upt=a1c2319c2510710360
+
 南京新闻,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/ott.mobaibox.com/PLTV/4/224/3221227213/index.m3u8
 南京新闻,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3127461495_-1929938189/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
+南京新闻,http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
 南京信息,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/ott.mobaibox.com/PLTV/4/224/3221227730/index.m3u8
 南京信息,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3029680014_-204362700/ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8
+南京信息,http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8
 南京娱乐,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221227722/index.m3u8
 南京娱乐,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
+南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
 南京少儿,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3425352611_209642410/ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8
 南京教科,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3484211223_471033633/ott.mobaibox.com/PLTV/4/224/3221227194/index.m3u8
+南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 南京生活,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3530023629_201686832/ott.mobaibox.com/PLTV/4/224/3221227786/index.m3u8
+南京生活,http://live.nbs.cn/channels/njtv/shpd/nbs06.m3u8
 南京影视,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3614839407_-1644050596/ott.mobaibox.com/PLTV/4/224/3221227719/index.m3u8
 南京十八,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3568749588_-1882152959/ott.mobaibox.com/PLTV/4/224/3221227178/index.m3u8
+南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
 
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -1041,6 +1088,22 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 兰州新闻综合,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226242/1.m3u8
 兰州生活经济,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226285/1.m3u8
 兰州文旅,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226597/1.m3u8
+
+宁夏公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
+宁夏公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.flv
+宁夏公共,rtmp://hls.ningxiahuangheyun.com/live/nxgg1M
+宁夏经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
+宁夏经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.flv
+宁夏经济,rtmp://hls.ningxiahuangheyun.com/live/nxjj1M
+宁夏文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
+宁夏文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.flv
+宁夏文旅,rtmp://hls.ningxiahuangheyun.com/live/nxwl1M
+宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
+宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.flv
+宁夏少儿,rtmp://hls.ningxiahuangheyun.com/live/nxse1M
+
+青海经视,http://stream.qhbtv.com/qhsh/playlist.m3u8
+青海都市,http://stream.qhbtv.com/qhds/playlist.m3u8
 
 内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
@@ -1235,6 +1298,7 @@ Fashion TV,https://i.mjh.nz/SamsungTVPlus/FRAJ4500020YA.m3u8
 Fashion TV,https://i.mjh.nz/SamsungTVPlus/GBAJ4900002DE.m3u8
 Fashion TV,https://i.mjh.nz/SamsungTVPlus/INBA51000038B.m3u8
 Fashion TV,https://i.mjh.nz/SamsungTVPlus/ITAJ4500017PG.m3u8
+Fashion TV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 TV BRICS (zh),http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 TV BRICS (en),http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 欧洲华文电视台1,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
