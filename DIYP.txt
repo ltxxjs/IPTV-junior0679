@@ -1041,6 +1041,11 @@ CCTV-8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ys
 南京影视,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3614839407_-1644050596/ott.mobaibox.com/PLTV/4/224/3221227719/index.m3u8
 南京十八,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3568749588_-1882152959/ott.mobaibox.com/PLTV/4/224/3221227178/index.m3u8
 南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
+苏州新闻综合,http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
+苏州社会经济,http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
+苏州文化生活,http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
+苏州生活资讯,http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
