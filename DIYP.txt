@@ -1171,10 +1171,14 @@ RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中视新闻,http://www.terrykang.xyz:35455/youtube/TCnaIE_SAtM
 东森新闻,http://gwtv.cnv8.tv:8097/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
+东森新闻,https://tv.iill.top/youtube/E0zhe2gkXBs
 东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+东森财经新闻,https://tv.iill.top/youtube/WHEPzbFA3hw
+东森财经新闻,https://tv.iill.top/youtube/LbS-xQ67fos
 三立,
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立新闻,https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
+三立新闻,https://tv.iill.top/youtube/oZdzzvxTfUY
 TVBS,http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 TVBS新闻,http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
 TVBS News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
@@ -1184,11 +1188,13 @@ TVBS News,https://tv.iill.top/youtube/m_dhMSvUCIc
 台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台视新闻,http://www.terrykang.xyz:35455/youtube/xL0ch83RAK8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+台视新闻,https://tv.iill.top/youtube/xL0ch83RAK8
 民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 民视新闻,http://www.terrykang.xyz:35455/youtube/ylYJSBUgaMA
 mnews·镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 mnews·镜新闻,https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇新闻,https://tv.iill.top/youtube/6IquAgfvYmc
 年代新闻,http://gwtv.cnv8.tv:8097/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 非凡新闻,
 壹新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1242
