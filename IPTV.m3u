@@ -219,12 +219,16 @@ https://tv.iill.top/youtube/E0zhe2gkXBs
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",三立
 https://tv.iill.top/youtube/P-7-AqzVT9g
-#EXTINF:-1 tvg-id="" tvg-name="三立新闻台" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/三立新闻.png" group-title="台湾",三立新闻
+#EXTINF:-1 tvg-id="" tvg-name="三立新闻台" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/三立新闻台.png" group-title="台湾",三立新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/tvbs新闻台.png" group-title="台湾",TVBS CH55
 https://tv.iill.top/youtube/2mCSYvcfhtc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/tvbs新闻台.png" group-title="台湾",TVBS CH56
 https://tv.iill.top/youtube/YvdcZ_jpLXE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/tvbs新闻台.png" group-title="台湾",TVBS 新闻台
+https://tv.iill.top/youtube/wW6nX2-FIxI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/tvbs新闻台.png" group-title="台湾",TVBS 新闻大白话
+https://tv.iill.top/youtube/GpEB6_Z3AXs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/tvbs新闻台.png" group-title="台湾",TVBS News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="台视新闻台" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/台视新闻.png" group-title="台湾",台视新闻
@@ -236,13 +240,11 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="寰宇新闻" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/寰宇新闻.png" group-title="台湾",寰宇新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="年代新闻台" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/年代新闻.png" group-title="台湾",年代新闻
-http://gwtv.cnv8.tv:8097/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+
 #EXTINF:-1 tvg-id="" tvg-name="非凡新闻台" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/非凡新闻.png" group-title="台湾",非凡新闻
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/taiwan+.jpg" group-title="台湾",Taiwan+
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/taiwan+.jpg" group-title="台湾",测试
-https://www.youtube.com/watch?v=GpEB6_Z3AXs
 
 # 国际
 
@@ -615,5 +617,3 @@ http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕2",咪咕直播-56
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-id="3624" tvg-logo="http://epg.it999.ru/img/3624.png" group-title="测试",NBC Golf (CA)
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6481/index.m3u8
