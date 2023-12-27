@@ -1116,6 +1116,7 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 三立新闻,https://tv.iill.top/youtube/oZdzzvxTfUY
 TVBS,
 TVBS新闻,
+TVBS新闻大白话,https://tv.iill.top/youtube/GpEB6_Z3AXs
 TVBS News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 TVBS News,http://www.terrykang.xyz:35455/youtube/m_dhMSvUCIc
 TVBS News,https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
@@ -1481,3 +1482,5 @@ EuroSport2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
 咪咕直播-53,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000032106/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000032106&livemode=1&stbId=3
 咪咕直播4K-1,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕直播4K-2,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+
+测试,https://youtu.be/YvdcZ_jpLXE
