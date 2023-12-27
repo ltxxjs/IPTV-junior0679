@@ -1092,7 +1092,7 @@ TVB直播台,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
 HOY国际财经台,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 HOY资讯台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8?
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
@@ -1103,20 +1103,19 @@ RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 中天新闻,https://tv.iill.top/youtube/oIgbl7t0S_w
 中天新闻2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 中天新闻2,https://tv.iill.top/youtube/WPfPjbOLNfE
-华视新闻,
+华视新闻,https://tv.iill.top/youtube/wM0g8EoUZ_E
 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中视新闻,http://www.terrykang.xyz:35455/youtube/TCnaIE_SAtM
-东森新闻,http://gwtv.cnv8.tv:8097/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
 东森新闻,https://tv.iill.top/youtube/E0zhe2gkXBs
 东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 东森财经新闻,https://tv.iill.top/youtube/WHEPzbFA3hw
 东森财经新闻,https://tv.iill.top/youtube/LbS-xQ67fos
-三立,
+三立,https://tv.iill.top/youtube/P-7-AqzVT9g
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立新闻,https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 三立新闻,https://tv.iill.top/youtube/oZdzzvxTfUY
-TVBS,http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
-TVBS新闻,http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
+TVBS,
+TVBS新闻,
 TVBS News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 TVBS News,http://www.terrykang.xyz:35455/youtube/m_dhMSvUCIc
 TVBS News,https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
@@ -1131,7 +1130,7 @@ mnews·镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3
 mnews·镜新闻,https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新闻,https://tv.iill.top/youtube/6IquAgfvYmc
-年代新闻,http://gwtv.cnv8.tv:8097/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+年代新闻,
 非凡新闻,
 壹新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1242
 Taiwan+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
@@ -1188,21 +1187,37 @@ CNN Headlines,https://i.mjh.nz/SamsungTVPlus/USBB32000103E.m3u8
 CNN International Europe,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 CBS News,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 CBS News,https://i.mjh.nz/SamsungTVPlus/USBA370000104.m3u8
+CBS News,https://stitcher.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8b6e5f46-a468-11ee-be54-8e9db08c52a2
 CBS News Baltimore,https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-CBS News Bay Area,
+CBS News Baltimore,https://stitcher.pluto.tv/stitch/hls/channel/60f75919718aed0007250d7a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8b6e5f46-a468-11ee-be54-8e9db08c52a2
+CBS News Bay Area,https://stitcher.pluto.tv/stitch/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8b6e5f46-a468-11ee-be54-8e9db08c52a2
 CBS News Boston,https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
+CBS News Boston,https://stitcher.pluto.tv/stitch/hls/channel/62cdc7c2a3e6270007f3f2f3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8b6e5f46-a468-11ee-be54-8e9db08c52a2
+CBS News Boston,https://stitcher.pluto.tv/stitch/hls/channel/5eb1af2ad345340008fccd1e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8b6e5f46-a468-11ee-be54-8e9db08c52a2
 CBS News Chicago,https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+CBS News Chicago,https://stitcher.pluto.tv/stitch/hls/channel/62cdc75b1a1cbd0007ed45dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8b6e5f46-a468-11ee-be54-8e9db08c52a2
+CBS News Chicago,https://stitcher.pluto.tv/stitch/hls/channel/5eb1aeb2fd4b8a00076c2047/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8b6e5f46-a468-11ee-be54-8e9db08c52a2
 CBS News Colorado,https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+CBS News Colorado,https://stitcher.pluto.tv/stitch/hls/channel/5eb1b12146cba40007aa7e5d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8b6e5f46-a468-11ee-be54-8e9db08c52a2
 CBS News Detroit,https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
+CBS News Detroit,https://stitcher.pluto.tv/stitch/hls/channel/634f2610d5023700078f7dee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8b6e5f46-a468-11ee-be54-8e9db08c52a2
 CBS News Los Angeles,https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+CBS News Los Angeles,https://stitcher.pluto.tv/stitch/hls/channel/5dc9b875e280c80009a8a44a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8b6e5f46-a468-11ee-be54-8e9db08c52a2
+CBS News Los Angeles,https://stitcher.pluto.tv/stitch/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8b6e5f46-a468-11ee-be54-8e9db08c52a2
 CBS News Miami,https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
-CBS News Minnesota,
+CBS News Miami,https://stitcher.pluto.tv/stitch/hls/channel/60fb299b79498900070b29e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8b6e5f46-a468-11ee-be54-8e9db08c52a2
+CBS News Minnesota,https://stitcher.pluto.tv/stitch/hls/channel/5eb1b0bf2240d8000732a09c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8b6e5f46-a468-11ee-be54-8e9db08c52a2
 CBS News New York,https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
-CBS News Philadelphia,
+CBS News New York,https://stitcher.pluto.tv/stitch/hls/channel/5dc9b8223687ff000936ed79/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8b6e5f46-a468-11ee-be54-8e9db08c52a2
+CBS News New York,https://stitcher.pluto.tv/stitch/hls/channel/5dc48170e280c80009a861ab/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8b6e5f46-a468-11ee-be54-8e9db08c52a2
+CBS News Philadelphia,https://stitcher.pluto.tv/stitch/hls/channel/5eb1b05ea168cc000767ba67/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8b6e5f46-a468-11ee-be54-8e9db08c52a2
 CBS News Pittsburgh,https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+CBS News Pittsburgh,https://stitcher.pluto.tv/stitch/hls/channel/5eb1b17aa5277e00083f6521/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8b6e5f46-a468-11ee-be54-8e9db08c52a2
 CBS News Sacramento,https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8
+CBS News Sacramento,https://stitcher.pluto.tv/stitch/hls/channel/60cb6df2b2ad610008cd5bea/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8b6e5f46-a468-11ee-be54-8e9db08c52a2
 CBS News Spotlight,
 CBS News Texas,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+CBS News Texas,https://stitcher.pluto.tv/stitch/hls/channel/5eceb0d4065c240007688ec6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8b6e5f46-a468-11ee-be54-8e9db08c52a2
 CBC News Explore,https://i.mjh.nz/SamsungTVPlus/CABC2300009KD.m3u8
 ABC7 Bay Area,https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8
 ABC News Live,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
