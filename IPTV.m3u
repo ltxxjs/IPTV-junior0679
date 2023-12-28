@@ -171,13 +171,13 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2228825807_1324573507
 ## 云南
 
 #EXTINF:-1 tvg-id="" tvg-name="云南都市" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/云南都市.png" group-title="云南",云南都市
-http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
+http://221.213.69.82:8888/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="云南影视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/云南影视.png" group-title="云南",云南影视
 
 #EXTINF:-1 tvg-id="" tvg-name="云南娱乐" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/云南娱乐.png" group-title="云南",云南娱乐
-http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
+http://221.213.69.82:8888/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="云南康旅" tvg-logo="" group-title="云南",云南康旅
-http://tvlive.ynradio.com/live/yunnangonggong/chunks.m3u8
+http://221.213.69.82:8888/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="云南少儿" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/云南少儿.png" group-title="云南",云南少儿
 http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澜湄国际" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/澜湄国际.png" group-title="云南",澜湄国际
