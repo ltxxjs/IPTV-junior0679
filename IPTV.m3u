@@ -255,7 +255,7 @@ http://www.terrykang.xyz:35455/youtube/25SE1bbTv9k
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/新唐人亚太台.png" group-title="台湾",新唐人亚太台
 http://www.terrykang.xyz:35455/youtube/WIhgU_mc05A
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/taiwan+.jpg" group-title="台湾",Taiwan+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/taiwanplus.png" group-title="台湾",Taiwan+
 http://www.terrykang.xyz:35455/youtube/dZp87qnWelE
 
 # 国际
@@ -298,7 +298,7 @@ https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/
 https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cbsnewslosangeles.png" group-title="国际",CBS News Los Angeles
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cbsnewsmiami.png" group-title="国际",CBS News Miami  
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cbsnewsmiami.png" group-title="国际",CBS News Miami
 https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cbsnewsminnesota.png" group-title="国际",CBS News Minnesota
 https://stitcher.pluto.tv/stitch/hls/channel/5eb1b0bf2240d8000732a09c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8b6e5f46-a468-11ee-be54-8e9db08c52a2
