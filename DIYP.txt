@@ -1085,8 +1085,8 @@ mnews·镜新闻,https://tv.iill.top/youtube/5n0y6b0Q25o
 寰宇新闻台湾台,http://www.terrykang.xyz:35455/youtube/w87VGpgd90U
 寰宇新闻台湾台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新闻台湾台,https://tv.iill.top/youtube/w87VGpgd90U
-寰宇新闻财经台,http://www.terrykang.xyz:35455/youtube/25SE1bbTv9k
-寰宇新闻财经台,https://tv.iill.top/youtube/25SE1bbTv9k
+寰宇财经台,http://www.terrykang.xyz:35455/youtube/25SE1bbTv9k
+寰宇财经台,https://tv.iill.top/youtube/25SE1bbTv9k
 年代新闻,
 非凡新闻,
 壹新闻,
