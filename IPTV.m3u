@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml, https://epg.112114.xyz/pp.xml.gz, http://epg.51zmt.top:8000/e.xml, http://epg.aptvapp.com/xml, https://live.fanmingming.com/e.xml, https://epg.pw/xmltv.html?lang=zh-hans, https://xmltv.tvkaista.net/guides/default.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml, https://epg.112114.xyz/pp.xml.gz, http://epg.51zmt.top:8000/e.xml, http://epg.aptvapp.com/xml, https://live.fanmingming.com/e.xml, https://epg.pw/xmltv.html?lang=zh-hans, http://content.stream-link.org/epg/guide.xml, https://xmltv.tvkaista.net/guides/default.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 # 央视
 
@@ -332,18 +332,20 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cna亚洲新闻.png" group-title="国际",CNA 亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/CNBC.png" group-title="国际",CNBC
+http://www.terrykang.xyz:35455/youtube/9NyxcX3rhQs
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/dwnews.png" group-title="国际",DW NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/euronews2.png" group-title="国际",Euronews Live
-https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/euronews2.png" group-title="国际",Euronews
+http://www.terrykang.xyz:35455/youtube/pykpO5kQJ98
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/foxnews2.png" group-title="国际",FOX News
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+http://www.terrykang.xyz:35455/youtube/3_-jZqsQqdk
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/france24en.png" group-title="国际",France 24 En
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+http://www.terrykang.xyz:35455/youtube/tkDUSYHoKxE
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/france24fasten.png" group-title="国际",FRANCE 24 fast En
 https://i.mjh.nz/SamsungTVPlus/CHBD1100003CW.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/gbnews.png" group-title="国际",GBN
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/gbnews.png" group-title="国际",GB News
+http://www.terrykang.xyz:35455/youtube/8WX6YL9JnLw
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/nbcnewsnow.png" group-title="国际",NBC News NOW
 https://i.mjh.nz/SamsungTVPlus/ESBC400003YM.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200005A0_20230222T041423SQUARE.png_20230222041424.png" group-title="国际",NBC Bay Area News
