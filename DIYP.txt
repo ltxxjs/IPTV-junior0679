@@ -970,8 +970,10 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/
 
 TVB翡翠台,https://epg.pw/stream/f8abbdf5312cd5274ea4bc7602ae3320fb86083f7a07c8c2f08027421f54ad51.ctv
 华丽翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-TVB无线新闻台,
-TVB财经体育资讯台,
+TVB无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
+TVB无线新闻台,http://live.cooltv.top/tv/tvb.php?id=1&hq
+TVB财经体育资讯台,http://live.cooltv.top/tv/tvb.php?id=2&hq
+TVB财经体育资讯台,http://live.cooltv.top/tv/tvb.php?id=3&hq
 TVB直播台,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
 HOY国际财经台,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
