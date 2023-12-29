@@ -85,7 +85,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国教育2台" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cetv2.png" group-title="央视",CETV2
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001226/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国教育3台" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cetv3.png" group-title="央视",CETV3
-
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="中国教育4台" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cetv4.png" group-title="央视",CETV4
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv16.png" group-title="央视",CCTV-16 奥林匹克 4K
