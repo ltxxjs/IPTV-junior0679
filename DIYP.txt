@@ -836,6 +836,10 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/
 河北农民,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=1c19f1e16256d45e9fdcb9b6725647cc
 河北农民,http://tv.pull.hebtv.com/jishi/nongminpindao.flv?t=2510710360&k=644e1285d17a22dfa4febf82d6a7edb5
 
+洛阳新闻综合,http://wshls.live.migucloud.com/live/C788MHFD_C0/playlist.m3u8
+洛阳科教频道,http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
+洛阳文旅频道,http://wshls.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
+
 江苏新闻,https://live-hls.jstv.com/livezhuzhan/jsgg.m3u8?upt=4383b1d62510710360
 江苏新闻,https://live-hls.jstv.com/livezhuzhan/jsgg.flv?upt=3ffbf2232510710360
 江苏新闻,rtmp://live-hls.jstv.com/livezhuzhan/jsgg?upt=def530a82510710360
