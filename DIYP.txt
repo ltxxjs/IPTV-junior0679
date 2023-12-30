@@ -748,14 +748,18 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/
 
 云南,#genre#
 
-云南都市,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
+云南都市,http://220.163.178.144:8888/tsfile/live/0128_1.m3u8?key=txiptv
 云南都市,http://221.213.69.82:8888/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
+云南都市,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
 云南影视,
-云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
+云南娱乐,http://220.163.178.144:8888/tsfile/live/0124_1.m3u8?key=txiptv
 云南娱乐,http://221.213.69.82:8888/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
+
 云南康旅,http://119.62.142.2:9901/tsfile/live/0128_1.m3u8?key=txiptv
-云南康旅,http://tvlive.ynradio.com/live/yunnangonggong/chunks.m3u8
+云南康旅,http://220.163.178.144:8888/tsfile/live/0127_1.m3u8?key=txiptv
 云南康旅,http://221.213.69.82:8888/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+云南康旅,http://tvlive.ynradio.com/live/yunnangonggong/chunks.m3u8
 云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
 澜湄国际,
 红河州HHTV-1,http://tv.drs.hhtv.cc:8100/channellive/hhtv-1.flv?zyund
@@ -807,6 +811,13 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?love=freedom
 魅力足球,http://dl.ye23.win/iptv/cbnbntv.php?id=mlzqHD
 魅力足球,https://tv.iill.top/cqyx/mlzqHD
+
+广州综合,http://jx.48tv.cn/tv/gztv2023.php?id=zhonghe
+广州新闻,http://jx.48tv.cn/tv/gztv2023.php?id=xinwen
+广州影视,http://jx.48tv.cn/tv/gztv2023.php?id=yingshi
+广州法制,http://jx.48tv.cn/tv/gztv2023.php?id=fazhi
+广州竞赛,http://jx.48tv.cn/tv/gztv2023.php?id=jingsai
+南国都市,http://jx.48tv.cn/tv/gztv2023.php?id=shenghuo
 
 黑龙江新闻法治,http://[2409:8087:1a01:df::4036]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
 黑龙江新闻法治,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225967/index.m3u8
