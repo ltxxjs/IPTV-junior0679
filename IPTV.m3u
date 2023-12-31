@@ -195,7 +195,7 @@ https://epg.pw/stream/f8abbdf5312cd5274ea4bc7602ae3320fb86083f7a07c8c2f08027421f
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/tvb无线新闻台.png" group-title="香港",TVB无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/tvb财经体育咨询台.png" group-title="香港",TVB无线财经体育咨询台
-http://live.cooltv.top/tv/tvb.php?id=0&hq
+http://live.cooltv.top/tv/tvb.php?id=2&hq
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/hoy.png" group-title="香港",HOY国际财经台
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/hoy.png" group-title="香港",HOY TV
