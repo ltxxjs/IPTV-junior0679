@@ -226,7 +226,7 @@ http://www.terrykang.xyz:35455/youtube/E0zhe2gkXBs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/东森财经新闻.png" group-title="台湾",东森财经新闻
 http://www.terrykang.xyz:35455/youtube/WHEPzbFA3hw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/三立新闻台.png" group-title="台湾",三立新闻
-http://www.terrykang.xyz:35455/youtube/tC8EQfanwEI
+http://125.227.210.55:35238/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/三立新闻台.png" group-title="台湾",LIVE三立
 http://www.terrykang.xyz:35455/youtube/FoBfXvlOR6I
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/三立新闻台.png" group-title="台湾",三立iNews
@@ -256,7 +256,7 @@ http://www.terrykang.xyz:35455/youtube/25SE1bbTv9k
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/年代新闻.png" group-title="台湾",年代新闻
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/非凡新闻.png" group-title="台湾",非凡新闻
-
+http://125.227.210.55:28993/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/壹新闻.png" group-title="台湾",壹新闻
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/新唐人亚太台.png" group-title="台湾",新唐人亚太台
