@@ -1059,20 +1059,31 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/
 凤凰卫视香港台,http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/3/224/3221228530/1.m3u8
 凤凰卫视香港台,http://wot2020.asuscomm.com:20121/bysid/259
 
+TVB翡翠台,http://headscale.wisdomitc.com:9981/stream/channelid/389954355?profile=pass
 TVB翡翠台,https://epg.pw/stream/f8abbdf5312cd5274ea4bc7602ae3320fb86083f7a07c8c2f08027421f54ad51.ctv
+TVB明珠台,http://headscale.wisdomitc.com:9981/stream/channelid/1442314365?profile=pass
 华丽翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+TVB无线新闻台,http://headscale.wisdomitc.com:9981/stream/channelid/1409177603?profile=pass
 TVB无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 TVB无线新闻台,http://live.cooltv.top/tv/tvb.php?id=1&hq
+TVB财经体育资讯台,http://headscale.wisdomitc.com:9981/stream/channelid/1813900247?profile=pass
 TVB财经体育资讯台,http://live.cooltv.top/tv/tvb.php?id=2&hq
 TVB财经体育资讯台,http://live.cooltv.top/tv/tvb.php?id=3&hq
 TVB直播台,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
+J2,http://headscale.wisdomitc.com:9981/stream/channelid/1643031328?profile=pass
+HOY国际财经台,http://headscale.wisdomitc.com:9981/stream/channelid/158862790?profile=pass
 HOY国际财经台,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+HOY TV,http://headscale.wisdomitc.com:9981/stream/channelid/248468139?profile=pass
 HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+HOY资讯台,http://headscale.wisdomitc.com:9981/stream/channelid/1606530006?profile=pass
 HOY资讯台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+RTHK31,http://headscale.wisdomitc.com:9981/stream/channelid/1452314939?profile=pass
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+RTHK32,http://headscale.wisdomitc.com:9981/stream/channelid/861105239?profile=pass
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+ViuTV,http://headscale.wisdomitc.com:9981/stream/channelid/336818267?profile=pass
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8?
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
