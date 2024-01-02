@@ -777,8 +777,9 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/
 云南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
 云南卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8?love=freedom
 云南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000024694/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=3
-云南卫视,http://gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_YUNNAN-HQ/G_YUNNAN-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+云南卫视,
 云南卫视,https://tv.iill.top/cqyx/yunnanSD
+云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 
 海南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2843123663_1489055229/ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8?icpid=3&RTS=1669701444&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
@@ -832,28 +833,33 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/
 
 云南都市,http://220.163.178.144:8888/tsfile/live/0128_1.m3u8?key=txiptv
 云南都市,http://221.213.69.82:8888/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
+云南都市,http://tvlive.ynradio.com/live/yunnandushi/playlist.m3u8
 云南都市,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
 云南都市,http://221.213.43.82:8888/newlive/live/hls/53/live.m3u8
+
 云南影视,http://221.213.43.82:8888/newlive/live/hls/55/live.m3u8
+
 云南娱乐,http://220.163.178.144:8888/tsfile/live/0124_1.m3u8?key=txiptv
 云南娱乐,http://221.213.69.82:8888/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0 
+云南娱乐,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
+云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/playlist.m3u8
 云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
 云南娱乐,http://221.213.43.82:8888/newlive/live/hls/54/live.m3u8
+
 云南康旅,http://119.62.142.2:9901/tsfile/live/0128_1.m3u8?key=txiptv
 云南康旅,http://220.163.178.144:8888/tsfile/live/0127_1.m3u8?key=txiptv
 云南康旅,http://221.213.69.82:8888/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+云南康旅,http://tvlive.ynradio.com/live/yunnangonggong/playlist.m3u8
 云南康旅,http://tvlive.ynradio.com/live/yunnangonggong/chunks.m3u8
 云南康旅,http://221.213.43.82:8888/newlive/live/hls/57/live.m3u8
+
+云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/playlist.m3u8
 云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
-澜湄国际,
+
+澜湄国际,http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
+
 红河州HHTV-1,http://tv.drs.hhtv.cc:8100/channellive/hhtv-1.flv?zyund
 红河州HHTV-2,http://tv.drs.hhtv.cc:8100/channellive/hhtv-2.flv?zyund
-红河县,http://tv.drs.hhtv.cc:8100/channellive/hhxdst.flv?zyund
-福贡县,http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8?zyund
-麻栗坡,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?zyund
-文山新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
-西双版纳文化旅游,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8?zyund
-西双版纳新闻综合,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8?zyund
 
 地方,#genre#
 
