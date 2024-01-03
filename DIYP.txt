@@ -1059,7 +1059,6 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/
 凤凰卫视香港台,http://wot2020.asuscomm.com:20121/bysid/259
 
 TVB翡翠台,http://headscale.wisdomitc.com:9981/stream/channelid/389954355?profile=pass
-TVB翡翠台,https://epg.pw/stream/f8abbdf5312cd5274ea4bc7602ae3320fb86083f7a07c8c2f08027421f54ad51.ctv
 TVB明珠台,http://headscale.wisdomitc.com:9981/stream/channelid/1442314365?profile=pass
 华丽翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB无线新闻台,http://headscale.wisdomitc.com:9981/stream/channelid/1409177603?profile=pass
