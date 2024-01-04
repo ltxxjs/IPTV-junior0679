@@ -32,6 +32,7 @@ CCTV1,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000029752/1.m
 CCTV1,http://60.205.114.16/live/cctv1.m3u8?user=APTV88&line=1
 CCTV1,http://60.205.114.16/live/cctv1.m3u8?user=APTV88&line=2
 CCTV1,http://60.205.114.16/gitv/G_CCTV-1-CQ.m3u8?user=APTV88
+CCTV1,http://60.205.114.16/ysp/cctv1.m3u8?user=APTV88
 CCTV1,http://182.150.48.83:8888/newlive/live/hls/2/live.m3u8
 CCTV1,http://123.182.211.94:8088/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV1,http://111.225.92.94:8800/hls/1/index.m3u8
@@ -447,7 +448,7 @@ CCTV女性时尚,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch000000909900000
 CCTV女性时尚,http://60.205.114.16/gitv/G_NVXINGSS-CQ.m3u8?user=APTV88
 CCTV女性时尚,https://tv.iill.top/cqyx/nvxing
 
-CCTV卫生健康,
+CCTV卫生健康,http://60.205.114.16/ysp/wsjk.m3u8?user=APTV88
 
 CCTV电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
@@ -460,6 +461,7 @@ CGTN,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/ind
 CGTN,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/index.m3u8
 CGTN,http://zteres.sn.chinamobile.com:6060/000000001000/7745129417417101820/1.m3u8?channel-id=hnbblive&Contentid=7745129417417101820&livemode=1&stbId=3
 CGTN,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859LkHVEKIeieCbU4HUV%2BZ9aFwSHAnd8F70VqU6TYif81mMC79YJ%2BEEiYI8DYDTaxhzE
+CGTN,http://60.205.114.16/ysp/cgtn.m3u8?user=APTV88
 CGTN,http://182.150.48.83:8888/newlive/live/hls/18/live.m3u8
 CGTN,http://111.225.92.94:8800/hls/16/index.m3u8
 CGTN,http://www.terrykang.xyz:35455/youtube/Zv60F39Is_c
@@ -468,14 +470,19 @@ CGTN DOCUMENTARY,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/32
 CGTN DOCUMENTARY,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 CGTN DOCUMENTARY,http://zteres.sn.chinamobile.com:6060/000000001000/7114647837765104058/1.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=3
 CGTN DOCUMENTARY,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSaCqIIft58cZ4PZIJmJQKDE%2BhMJnrkAZeCJCdRJXvlspyKifC5nxyZPvhyagt5zUWfqOxoNjmqM5FCfJztd4V4
+CGTN DOCUMENTARY,http://60.205.114.16/ysp/cgtnjl.m3u8?user=APTV88
 
 CGTN РУССКИЙ,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaSsNLt4Nk6r4W9qq%2FCDwVBpu%2Bd8oi%2FZBV7QZaH2nvMDC8YfPqSjgvIu0Auay5DY5x%2FNqUGittSlgAuOf2q3Hqw
+CGTN РУССКИЙ,http://60.205.114.16/ysp/cgtnr.m3u8?user=APTV88
 
 CGTN FRANÇAIS,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806fb631afe/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859Jl30zDhWOxOChfz6zZGXm5AxEG2nM0jV%2Bz98DG%2B3LggHigAvzizwxj%2BnU8zoIJ5eI
+CGTN FRANÇAIS,http://60.205.114.16/ysp/cgtnf.m3u8?user=APTV88
 
 CGTN ESPAÑOL,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859LpCL6J7ZtZvSzaGNoejhX%2FbNh%2FUg28dwPszgBZkEAMg2VxNQuvSmdjhzvIIS4yJP4
+CGTN ESPAÑOL,http://60.205.114.16/ysp/cgtne.m3u8?user=APTV88
 
 CGTN العربية,‎http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CGTN العربية,‎http://60.205.114.16/ysp/cgtna.m3u8?user=APTV88
 
 CETV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
 CETV1,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001020/index.m3u8?love=freedom
