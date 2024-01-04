@@ -608,6 +608,7 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/
 河北卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001229/index.m3u8
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.flv?t=2510710360&k=14376f1bfbae59edda8d6e8de3ceb0c6
+河北卫视,http://60.205.114.16/live/hbws.m3u8?user=APTV88&line=1
 河北卫视,http://182.150.48.83:8888/newlive/live/hls/46/live.m3u8
 河北卫视,http://123.182.211.94:8088/tsfile/live/0117_1.m3u8?key=txiptv
 河北卫视,http://111.225.92.94:8800/hls/17/index.m3u8
@@ -638,6 +639,7 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/
 山东卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 山东卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 山东卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000016568/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016568&livemode=1&stbId=3
+山东卫视,http://60.205.114.16/live/sdws.m3u8?user=APTV88&line=1
 山东卫视,http://182.150.48.83:8888/newlive/live/hls/30/live.m3u8
 山东卫视,http://123.182.211.94:8088/tsfile/live/0131_1.m3u8?key=txiptv
 山东卫视,http://111.225.92.94:8800/hls/37/index.m3u8
@@ -648,6 +650,7 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/
 山西卫视,http://live.cooltv.top/tv/tide.php?id=sxiws2
 山西卫视,https://epg.pw/stream/4c472153069c51068d748a0b625f43183bf5335518d1d91e636ebedbf63eec1c.m3u8
 山西卫视,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
+山西卫视,http://60.205.114.16/live/sxiws.m3u8?user=APTV88&line=1
 
 陕西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2360314992_451435426/ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
@@ -680,6 +683,7 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/
 安徽卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+安徽卫视,http://60.205.114.16/live/ahws.m3u8?user=APTV88&line=1
 安徽卫视,http://182.150.48.83:8888/newlive/live/hls/25/live.m3u8
 安徽卫视,http://123.182.211.94:8088/tsfile/live/0130_1.m3u8?key=txiptv
 安徽卫视,http://111.225.92.94:8800/hls/33/index.m3u8
